@@ -1,6 +1,6 @@
 # Liste et contenu commandes de bots
 
-Préfixe des commandes : !
+Préfixe des commandes : `!`
 
 ## Commandes sérieuses
 
