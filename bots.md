@@ -20,6 +20,8 @@ Site: https://dyno.gg
 Bot de programmation gérant la documentation / possibilité d'exécuter des scripts depuis le serveur.
 
 Compte: RTFM#1338 (495914599531675648)
+Site: https://top.gg/bot/495914599531675648
+GitHub: https://github.com/FrenchMasterSword/RTFMbot
 
 ## TeXit
 
