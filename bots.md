@@ -7,6 +7,7 @@ Voici une liste des bots actuellement présents sur le serveur (vous pouvez sugg
 Bot créé à l'origine pour gérer les rôles par réaction sur Not a Name, il a ensuite évolué pour gérer une bonne partie de la modération (kick, ban, modmail, alertes modo, etc.)
 
 Compte: Not a Bot#1925 (436483239268581376)
+GitHub: https://github.com/DigitalPulseSoftware/NotaBot
 
 ## Dyno
 
