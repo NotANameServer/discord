@@ -11,7 +11,7 @@ L’unique point de contact avec le staff se fait au travers de @Not a Bot. Il v
 Toute demande en message privé ou directement sur un salon sera ignorée / supprimé.
 
 ### J'ai croisé un comportement problématique, comment le signaler ?
-Si c'est dans un canal public, il vous suffit de rajouter la réaction :modo~1:  (:modo:) sur le message concerné. Le message nous sera alors remonté et nous prendrons les mesures nécessaires.
+Si c'est dans un canal public, il vous suffit de rajouter la réaction :modo:  (:modo:) sur le message concerné. Le message nous sera alors remonté et nous prendrons les mesures nécessaires.
 Si ça se passe en privé, vous pouvez nous contacter (voir "Contacter le staff" ) avec un screenshot et une description du problème
 
 ### Poster dans #offres
