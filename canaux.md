@@ -4,7 +4,7 @@ Ce document liste les canaux du serveur ainsi que les différents rôles y donna
 
 Le serveur NotAName propose à l'instar d'IRC une multitude de canaux libres d'accès tous dans le cadre de l'informatique en général. Un petit ensemble de salon généraux sont accessibles à tous. Les autres salons technologiques sont accessibles via souscription.
 
-Pour souscrire à un salon, les membres sont invités à ouvrir le salon général *#rejoindre-les-canaux* et à *réagir* via les emoticons de leurs choix. Les salons technologiques ne sont visibles qu'à ceux ayant le rôle associé à la technologie et réagir/retirer sa réaction permet de s'occroyer/se retirer le rôle.
+Pour souscrire à un salon, les membres sont invités à ouvrir le salon général *#rejoindre-les-canaux* et à *réagir* via les émoticônes de leurs choix. Les salons technologiques ne sont visibles qu'à ceux ayant le rôle associé à la technologie et réagir/retirer sa réaction permet de s'occroyer/se retirer le rôle.
 
 ## Rôles
 
