@@ -143,7 +143,6 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 
 | Salon | Description | Accès |
 | ----- | ----------- | ----- |
-| #commandes-bots | Pour tous vos tests de commandes sur les bots, histoire de ne pas polluer les autres salons | |
 | #assets | Partage de ressources / assets pour la création de jeux.<br><br>Lisez les règles avant de poster quoi que ce soit. | Game-Dev |
 | #game-dev | Une question sur le développement de jeux en particulier ? | Game-Dev |
 | #moteurs-de-jeux | Canal regroupant les questions concernant les moteurs de jeux. | Game-Dev |
