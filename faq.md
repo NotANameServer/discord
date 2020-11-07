@@ -41,7 +41,7 @@ Votre présentation doit respecter ces différentes règles :
 ### Pourquoi mon sujet de conversation à été stoppé par la modération ?
 Dans le cas ou un(e) modérateur(trice) décide de couper court à votre conversation, c'est que cette dernière ne suit pas l'idéologie du serveur ou est
 simplement considérée trop borderline (à risque concernant les règles ou les lois) pour avoir lieu sur le serveur. En effet, personne ne peut prédire
-qui lis la conversation, si le serveur donne de l'aide sur une forme d'attaque en sécurité, même si la conversation est orienté sur la légalité, un
+qui lit la conversation. Si le serveur donne de l'aide sur une forme d'attaque en sécurité, et ce même si la conversation est orientée sur la légalité, un
 membre qui lui n'a pas ces vocations pourrait se servir des indications données à l'insu du serveur. C'est l'une des raisons de pourquoi les sujets
 borderlines sont prohibés.
 
