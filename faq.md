@@ -47,7 +47,7 @@ borderlines sont prohibés.
 
 ### Je trouve que la modération s'acharne sur mon compte, que dois-je faire ?
 L'équipe de modération voue son temps libre à maintenir un ordre et le sérieux sur le serveur. La modération ne s'acharne pas sur vous mais sur votre comportement,
-ainsi, si vous voulez éviter toutes embrouilles ou simplement d'être dans le viseur de l'équipe, suivez simplement les règles qui se veulent le moins
+ainsi, si vous voulez éviter tout problème ou simplement d'être dans le viseur de l'équipe, suivez simplement les règles qui se veulent le moins
 restrictives possibles.
 
 ### Pouvez-vous ajouter un salon pour la technologie X ?
