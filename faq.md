@@ -42,7 +42,7 @@ Votre présentation doit respecter ces différentes règles :
 Dans le cas ou un(e) modérateur(trice) décide de couper court à votre conversation, c'est que cette dernière ne suit pas l'idéologie du serveur ou est
 simplement considérée trop borderline (à risque concernant les règles ou les lois) pour avoir lieu sur le serveur. En effet, personne ne peut prédire
 qui lit la conversation. Si le serveur donne de l'aide sur une forme d'attaque en sécurité, et ce même si la conversation est orientée sur la légalité, un
-membre qui lui n'a pas ces vocations pourrait se servir des indications données à l'insu du serveur. C'est l'une des raisons de pourquoi les sujets
+membre qui lui n'a pas des intentions honnêtes pourrait se servir des indications données. C'est l'une des raisons pour lesquelles les sujets
 borderlines sont prohibés.
 
 ### Je trouve que la modération s'acharne sur mon compte, que dois-je faire ?
