@@ -38,7 +38,7 @@ Votre présentation doit respecter ces différentes règles :
 – Aucune discussion ne sera tolérée sur le salon.
 - Ne pas reposter votre message avant un minimum de 3 mois, et uniquement en cas d'avancée majeure
 
-### Pourquoi mon sujet de conversation à été stoppé par la modération ?
+### Pourquoi mon sujet de conversation a été stoppé par la modération ?
 Dans le cas ou un(e) modérateur(trice) décide de couper court à votre conversation, c'est que cette dernière ne suit pas l'idéologie du serveur ou est
 simplement considérée trop borderline (à risque concernant les règles ou les lois) pour avoir lieu sur le serveur. En effet, personne ne peut prédire
 qui lit la conversation. Si le serveur donne de l'aide sur une forme d'attaque en sécurité, et ce même si la conversation est orientée sur la légalité, un
