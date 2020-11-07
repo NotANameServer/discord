@@ -41,9 +41,6 @@ Votre présentation doit respecter ces différentes règles :
 ### Pouvez-vous ajouter un salon pour la technologie X ?
 Non, on ne crée pas de salon pour que des gens parlent peut-être dedans, ou pour tenter de créer une activité sur une thématique définie. Les salons sont créés quand il y a une forte demande, des discussions fréquentes, et un BESOIN de les isoler parce que ça nuit à d'autres salons.
 
-### Pouvez-vous ajouter un salon pour la technologie X ?
-Non, on ne crée pas de salon pour que des gens parlent peut-être dedans, ou pour tenter de créer une activité sur une thématique définie. Les salons sont créés quand il y a une forte demande, des discussions fréquentes, et un BESOIN de les isoler parce que ça nuit à d'autres salons.
-
 ## Demandes d'aides
 
 ### Comment poser efficacement une question (!ask)
