@@ -45,6 +45,11 @@ qui lis la conversation, si le serveur donne de l'aide sur une forme d'attaque e
 membre qui lui n'a pas ces vocations pourrait se servir des indications données à l'insu du serveur. C'est l'une des raisons de pourquoi les sujets
 borderlines sont prohibés.
 
+### Je trouve que la modération s'acharne sur mon compte, que dois-je faire ?
+L'équipe de modération voue son temps libre à maintenir un ordre et le sérieux sur le serveur. La modération ne s'acharne pas sur vous mais sur votre comportement,
+ainsi, si vous voulez éviter toutes embrouilles ou simplement d'être dans le viseur de l'équipe, suivez simplement les règles qui se veulent le moins
+restrictives possibles.
+
 ### Pouvez-vous ajouter un salon pour la technologie X ?
 Non, on ne crée pas de salon pour que des gens parlent peut-être dedans, ou pour tenter de créer une activité sur une thématique définie. Les salons sont créés quand il y a une forte demande, des discussions fréquentes, et un BESOIN de les isoler parce que ça nuit à d'autres salons.
 
