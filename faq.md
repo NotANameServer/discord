@@ -38,8 +38,17 @@ Votre présentation doit respecter ces différentes règles :
 – Aucune discussion ne sera tolérée sur le salon.
 - Ne pas reposter votre message avant un minimum de 3 mois, et uniquement en cas d'avancée majeure
 
-### Pouvez-vous ajouter un salon pour la technologie X ?
-Non, on ne crée pas de salon pour que des gens parlent peut-être dedans, ou pour tenter de créer une activité sur une thématique définie. Les salons sont créés quand il y a une forte demande, des discussions fréquentes, et un BESOIN de les isoler parce que ça nuit à d'autres salons.
+### Pourquoi mon sujet de conversation a été stoppé par la modération ?
+Dans le cas ou un(e) modérateur(trice) décide de couper court à votre conversation, c'est que cette dernière ne suit pas l'idéologie du serveur ou est
+simplement considérée trop borderline (à risque concernant les règles ou les lois) pour avoir lieu sur le serveur. En effet, personne ne peut prédire
+qui lit la conversation. Si le serveur donne de l'aide sur une forme d'attaque en sécurité, et ce même si la conversation est orientée sur la légalité, un
+membre qui lui n'a pas des intentions honnêtes pourrait se servir des indications données. C'est l'une des raisons pour lesquelles les sujets
+borderlines sont prohibés.
+
+### Je trouve que la modération s'acharne sur mon compte, que dois-je faire ?
+L'équipe de modération voue son temps libre à maintenir un ordre et le sérieux sur le serveur. La modération ne s'acharne pas sur vous mais sur votre comportement,
+ainsi, si vous voulez éviter tout problème ou simplement d'être dans le viseur de l'équipe, suivez simplement les règles qui se veulent le moins
+restrictives possibles.
 
 ### Pouvez-vous ajouter un salon pour la technologie X ?
 Non, on ne crée pas de salon pour que des gens parlent peut-être dedans, ou pour tenter de créer une activité sur une thématique définie. Les salons sont créés quand il y a une forte demande, des discussions fréquentes, et un BESOIN de les isoler parce que ça nuit à d'autres salons.
