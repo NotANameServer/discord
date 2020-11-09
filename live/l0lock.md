@@ -1,4 +1,4 @@
-Chaine : https://twitch.tv/l0lock \
+Chaine : https://twitch.tv/l0lock  
 Membre : -L0Lock-#0525 (172338863262531584)
 
 ## Présentation
