@@ -1,5 +1,5 @@
 Chaine: https://twitch.tv/sirlynixvanfrietjes \
-Membre: Lynix#9999 (83928726282174464)
+Membre: Lynix#3516 (83928726282174464)
 
 ## Présentation
 

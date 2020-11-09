@@ -4,7 +4,7 @@ Liste des membres du serveur ayant des droits sur sa gestion et sa modération.
 
 ## Administrateurs
 
-- Lynix#9999 (83928726282174464)
+- Lynix#3516 (83928726282174464)
 - Razakhel#0632 (141863139871293441)
 
 ## Modérateurs
