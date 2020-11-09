@@ -1,5 +1,5 @@
-Chaine: https://twitch.tv/hardcpp \
-Membre: HardCPP#1985 (96964347082846208)
+Chaine : https://twitch.tv/hardcpp \
+Membre : HardCPP#1985 (96964347082846208)
 
 ## Présentation
 

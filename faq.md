@@ -57,7 +57,7 @@ Voici une liste non exhaustive des informations à présenter : code source, ré
 
 Veuillez noter que les demandes ne présentant aucune de ces informations aboutiront très certainement à une absence totale de réaction de la part des autres utilisateurs.
 
-### Comment faire une demande de config (dans #hardware): Afin de pouvoir au mieux vous conseiller sur celle-ci, merci de préciser:
+### Comment faire une demande de config (dans #hardware) : Afin de pouvoir au mieux vous conseiller sur celle-ci, merci de préciser :
 - Votre budget
 - Votre utilisation (jeux (lesquels ?), bureautique, multimédia, programmation, graphisme, modélisation 3D, montage audio/vidéo, rendu vidéo) et à quelle fréquence (de temps en temps, régulièrement, intensivement)
 - Si vous souhaitez uniquement la tour, ou aussi un écran, un clavier, une souris (ou si c’est un PC portable)
@@ -67,12 +67,12 @@ Veuillez noter que les demandes ne présentant aucune de ces informations abouti
 - Si vous avez des besoins particuliers (WiFi ? Bluetooth ?)
 - Si l'esthétique est un critère important (RGB ? Fenêtre ?)
 - Combien d'années vous comptez rester avec cette config avant d'upgrade
-Petite précision: Les prix varient, de nouveaux composants sortent avec le temps, donc merci de faire votre demande de config juste avant de l'acheter, et non pas en avance
+Petite précision : Les prix varient, de nouveaux composants sortent avec le temps, donc merci de faire votre demande de config juste avant de l'acheter, et non pas en avance
 
-### Comment proposer correctement une config (dans #hardware): Merci de ne pas utiliser les configurateurs de sites marchands tels que topachat ou ldlc qui ne disposent pas de tous les composants (ou n'affichent pas ceux qu'ils n'ont pas en stock) et qui ont très souvent un prix trop élevé. Vérifiez plutôt la compatibilité des composants par vous même ou utilisez https://fr.pcpartpicker.com/list/.
+### Comment proposer correctement une config (dans #hardware) : Merci de ne pas utiliser les configurateurs de sites marchands tels que topachat ou ldlc qui ne disposent pas de tous les composants (ou n'affichent pas ceux qu'ils n'ont pas en stock) et qui ont très souvent un prix trop élevé. Vérifiez plutôt la compatibilité des composants par vous même ou utilisez https://fr.pcpartpicker.com/list/.
 Ce site va aussi vous donner un ordre d’idée pour le prix de la config vu qu’il compare plusieurs sites marchands, mais il n’a pas les meilleurs prix. Une fois la config faite, il faut donc impérativement utiliser https://www.i-comparateur.com/ pour rechercher le meilleur prix pour chaque composant, et on peut aussi parfois trouver d’encore meilleurs prix sur https://www.dealabs.com/.
 
-Cette dernière étape est très importante, des différences de 150€ ont déjà été constatées (sans compter le prix de l’option montage), et acheter les composants séparément pour monter ou faire monter le PC reviendrait toujours moins cher. Si vous souhaitez apprendre à monter votre PC, orientez-vous vers le très bon cours de Zeste de Savoir: https://zestedesavoir.com/tutoriels/613/apprenez-a-monter-votre-ordinateur/
+Cette dernière étape est très importante, des différences de 150€ ont déjà été constatées (sans compter le prix de l’option montage), et acheter les composants séparément pour monter ou faire monter le PC reviendrait toujours moins cher. Si vous souhaitez apprendre à monter votre PC, orientez-vous vers le très bon cours de Zeste de Savoir : https://zestedesavoir.com/tutoriels/613/apprenez-a-monter-votre-ordinateur/
 
 ### Mettre en forme du code (!code)
 Pour mettre en forme du code, il vous suffit d'encadrer votre code de la manière suivante : 

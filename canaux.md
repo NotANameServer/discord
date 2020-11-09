@@ -12,7 +12,7 @@ Pour souscrire à un salon, les membres sont invités à ouvrir le salon génér
 
 Les rôles dits *non-colorés* sont les rôles qui donnent accès aux salons dédiés à une thématique de l'informatique générale. La catégorie la plus importante étant celle du *développement* qui n'existe pas en temps que tel mais qui est découpé aux travers de nombreux langages de programmation.
 
-**Langages**:
+**Langages** :
 - ASM
 - C
 - C++
@@ -25,7 +25,7 @@ Les rôles dits *non-colorés* sont les rôles qui donnent accès aux salons dé
 - Python
 - Rust
 
-**Technologies**:
+**Technologies** :
 - Rendu 3D (3D)
 - Base de Données (DB)
 - Système et réseau
