@@ -31,15 +31,15 @@ L'accès au salon #vos-projets se fait sur simple demande au staff (voir "Contac
 
 Votre présentation doit respecter ces différentes règles : 
 
-– Votre projet doit être correctement présenté, et mûrement réfléchi. Les projets top secret, ainsi que les idées trouvées il y a 10 minutes n’ont pas leur place ici.
-– Les recrutements professionnels (offres d’emplois, contrats, recherche freelance) sont à faire dans #offres.
-– Pas de recrutements pour des serveurs GTA V, Minecraft ou tout autre serveur privé interdit ou illégal.
-– Les suppressions/reposts sont interdites.
-– Un minimum d’effort sur la mise en forme est de rigueur, votre texte doit être lisible et agréable.
-– Le canal est là pour présenter votre projet et recruter. Vous n’êtes pas un projet, il est donc interdit de venir proposer vos services.
-– Aucune rémunération ne peut être proposée, si vous souhaitez faire passer une offre d’emploi, ou une recherche de freelance, merci de passer dans #offres.
-– La modération se réserve le droit de supprimer un message si elle juge le projet trop borderline, tendancieux, dangereux, ou pas assez sérieux.
-– Aucune discussion ne sera tolérée sur le salon
+- Votre projet doit être correctement présenté, et mûrement réfléchi. Les projets top secret, ainsi que les idées trouvées il y a 10 minutes n’ont pas leur place ici.
+- Les recrutements professionnels (offres d’emplois, contrats, recherche freelance) sont à faire dans #offres.
+- Pas de recrutements pour des serveurs GTA V, Minecraft ou tout autre serveur privé interdit ou illégal.
+- Les suppressions/reposts sont interdites.
+- Un minimum d’effort sur la mise en forme est de rigueur, votre texte doit être lisible et agréable.
+- Le canal est là pour présenter votre projet et recruter. Vous n’êtes pas un projet, il est donc interdit de venir proposer vos services.
+- Aucune rémunération ne peut être proposée, si vous souhaitez faire passer une offre d’emploi, ou une recherche de freelance, merci de passer dans #offres.
+- La modération se réserve le droit de supprimer un message si elle juge le projet trop borderline, tendancieux, dangereux, ou pas assez sérieux.
+- Aucune discussion ne sera tolérée sur le salon
 - Ne pas reposter votre message avant un minimum de 3 mois, et uniquement en cas d'avancée majeure
 
 ### Pouvez-vous ajouter un salon pour la technologie X ?
