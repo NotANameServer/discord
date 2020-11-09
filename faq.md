@@ -4,18 +4,22 @@
 
 ### Je ne vois pas le salon X (!salon)
 Le fonctionnement du serveur masque par défaut l’ensemble des canaux non nécessaires. Pour les rejoindre (les voir et pouvoir participer dedans), il vous suffit de vous rendre sur #rejoindre-les-canaux et d’ajouter les réactions correspondantes aux langages que vous souhaitez.
+
  /!\ Attention /!\  Actuellement, un problème sur Discord peut survenir et vous n’aurez donc aucune réaction d’affichée, il vous suffit de rafraichir la page (Ctrl + R fonctionne sur la version desktop) pour régler ceci.
 
 ### Contacter le staff
 L’unique point de contact avec le staff se fait au travers de @Not a Bot. Il vous suffit pour cela de taper !newticket dans un salon. Un nouveau salon alors créé où seul le Staff, et vous aurez accès, vous permettant de discuter facilement avec nous.
+
 Toute demande en message privé ou directement sur un salon sera ignorée / supprimé.
 
 ### J'ai croisé un comportement problématique, comment le signaler ?
 Si c'est dans un canal public, il vous suffit de rajouter la réaction :modo:  (:modo:) sur le message concerné. Le message nous sera alors remonté et nous prendrons les mesures nécessaires.
+
 Si ça se passe en privé, vous pouvez nous contacter (voir "Contacter le staff" ) avec un screenshot et une description du problème
 
 ### Poster dans #offres
 Le salon #offres vous permet de mettre en avant vos offres d’emplois et recrutements professionnels auprès de l’ensemble de la communauté.
+
 L’accès au salon se fait sur demande à l’équipe (voir le point « Contacter le staff ») sur présentation d’une offre complète et sérieuse, ainsi que d’une structure légale derrière.
 
 ### Poster dans #live
@@ -35,7 +39,7 @@ Votre présentation doit respecter ces différentes règles :
 – Le canal est là pour présenter votre projet et recruter. Vous n’êtes pas un projet, il est donc interdit de venir proposer vos services.
 – Aucune rémunération ne peut être proposée, si vous souhaitez faire passer une offre d’emploi, ou une recherche de freelance, merci de passer dans #offres.
 – La modération se réserve le droit de supprimer un message si elle juge le projet trop borderline, tendancieux, dangereux, ou pas assez sérieux.
-– Aucune discussion ne sera tolérée sur le salon.
+– Aucune discussion ne sera tolérée sur le salon
 - Ne pas reposter votre message avant un minimum de 3 mois, et uniquement en cas d'avancée majeure
 
 ### Pouvez-vous ajouter un salon pour la technologie X ?
@@ -48,7 +52,9 @@ Non, on ne crée pas de salon pour que des gens parlent peut-être dedans, ou po
 
 ### Comment poser efficacement une question (!ask)
 Pour nous permettre de vous aider au mieux, il est recommandé d’inclure le plus possible d’informations dans votre demande d’aide.
+
 Voici une liste non exhaustive des informations à présenter : code source, résultat actuel, résultat espéré, message d’erreur complet,…
+
 Veuillez noter que les demandes ne présentant aucune de ces informations aboutiront très certainement à une absence totale de réaction de la part des autres utilisateurs.
 
 ### Comment faire une demande de config (dans #hardware): Afin de pouvoir au mieux vous conseiller sur celle-ci, merci de préciser:
@@ -65,6 +71,7 @@ Petite précision: Les prix varient, de nouveaux composants sortent avec le temp
 
 ### Comment proposer correctement une config (dans #hardware): Merci de ne pas utiliser les configurateurs de sites marchands tels que topachat ou ldlc qui ne disposent pas de tous les composants (ou n'affichent pas ceux qu'ils n'ont pas en stock) et qui ont très souvent un prix trop élevé. Vérifiez plutôt la compatibilité des composants par vous même ou utilisez https://fr.pcpartpicker.com/list/.
 Ce site va aussi vous donner un ordre d’idée pour le prix de la config vu qu’il compare plusieurs sites marchands, mais il n’a pas les meilleurs prix. Une fois la config faite, il faut donc impérativement utiliser https://www.i-comparateur.com/ pour rechercher le meilleur prix pour chaque composant, et on peut aussi parfois trouver d’encore meilleurs prix sur https://www.dealabs.com/.
+
 Cette dernière étape est très importante, des différences de 150€ ont déjà été constatées (sans compter le prix de l’option montage), et acheter les composants séparément pour monter ou faire monter le PC reviendrait toujours moins cher. Si vous souhaitez apprendre à monter votre PC, orientez-vous vers le très bon cours de Zeste de Savoir: https://zestedesavoir.com/tutoriels/613/apprenez-a-monter-votre-ordinateur/
 
 ### Mettre en forme du code (!code)
@@ -88,4 +95,5 @@ std::cout << "Hello world !" << std::endl;
 
 ### "J'ai besoin d'aide, venez en MP" est une mauvaise idée (!mp)
 Il est inutile, voire même contre-productif, de demander aux gens de venir en privé pour vous aider. Le serveur dispose d’un grand nombre de canaux sur pratiquement toutes les thématiques du développement, il y en aura forcément un pour votre question.
+
 De plus, en posant votre question publiquement, l’intelligence collective vous profitera, et vous serez assuré de ne pas recevoir une réponse inadéquate, ou fausse. De ce fait, les demandes d’aides en privé sont interdites sur ce serveur.

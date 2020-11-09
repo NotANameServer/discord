@@ -1,4 +1,4 @@
-Chaine: https://twitch.tv/sirlynixvanfrietjes
+Chaine: https://twitch.tv/sirlynixvanfrietjes \
 Membre: Lynix#9999 (83928726282174464)
 
 ## Présentation
