@@ -95,7 +95,6 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | ----- | ----------- | ----- |
 | #offres | Canal réservé aux offres d'emplois/de contrats rémunérés | Recruteurs |
 | #live | Notre communauté propose quelques streameurs cool ! Retrouvez la liste épinglée. | @NotABot |
-| #challenge-dghack | https://www.dghack.fr/ | |
 | questions-professionnelles | Ce salon est réservé aux questions et discussions sur la vie professionnelle (entreprise, boulot, salaire), **merci de ne pas parler d'autre chose.** | |
 | #screenshots | Envie de partager ce sur quoi vous travaillez ? Montrez-nous en image ! ||
 | #talks | | |
