@@ -158,6 +158,64 @@ N'hésitez pas à donner directement votre problème au lieu d'attendre que quel
 Vous ne voyez pas le canal indiqué par les autres utilisateurs ? Voici la marche à suivre : <https://discordapp.com/channels/323076998576603137/699260551758610545/699265804994215997>
 ```
 
+### joinchannel
+
+```
+Pour rejoindre un canal de langage (et d'autres), cliquez sur le lien suivant: https://discord.com/channels/323076998576603137/440592843489280011/440593868464062472
+```
+
+### debutant
+
+```
+Canaux
+
+Il y a divers canaux à votre disposition. Certains sont basés sur un thème en général comme `#hardware`, et d'autres sont spécifiques aux langages comme `#python`. Afin de pouvoir accéder aux canaux, vous devez vous attribuer un rôle via <#440592843489280011>.
+
+Demander de l'aide
+Pour faire une demande d'aide efficace, veillez à directement poser votre question **en incluant le plus d'informations possibles** au lieu de demander si quelqu'un est disponible.
+
+Partager son code
+N'utilisez pas de capture d'écran de votre code mais plutôt le Markdown intégré de Discord. Si votre code est trop long, vous pouvez utiliser un service tiers comme https://paste.artemix.org/.
+```
+
+### devbots
+
+```
+Informations sur la création de bots Discord
+
+⚠ Avertissement
+Pas mal de personnes veulent créer un bot Discord, mais s'il vous plaît, **apprenez déjà un langage de programmation** ainsi que **les outils nécessaires**.
+Vous pouvez créer un bot avec différents langages de programmation (JavaScript, Python, C#, etc.).
+Mais cela demande d'avoir des bases dans ce langage et la compréhension de certaines notions.
+
+❓ Je ne comprends rien
+Si vous ne comprenez pas ce que vous faites, c'est probablement qu'il vous manque certaines choses et concepts à apprendre.
+Veillez aussi à lire et essayer de comprendre les messages d'erreurs.
+
+👍 Les éléments de base
+De plus, débuter par la création d'un bot Discord est une mauvaise idée. En effet, la création d'un bot requiert beaucoup de connaissances, parfois, les bases ne suffisent pas.
+
+Voici une liste non-exhaustive des notions dont vous pouvez avoir besoin pour faire un bot :
+- les structures de contrôle (if, else, etc.)
+- les boucles (for, while, etc.)
+- les variables et les structures de données (listes, objets, etc.)
+- la gestion des exceptions
+- la définition et appel de fonctions
+- les classes, les objets, ce que sont les attributs et les méthodes
+- l'asynchrone (important) et les événements
+
+🔗 Liens utiles
+📚 [Bibliothèques (wrappers) pour le développement de bots Discord](https://discord.com/developers/docs/topics/community-resources#libraries).
+📕 [Cours pour apprendre un langage](https://www.learndev.info/fr).
+```
+
+### vocal
+
+```
+Not a Name ne met pas en avant les demandes d'aide en vocal. En effet, les informations transmises en vocal ne sont qu'éphémères, alors qu'une information écrite dans le canal approprié peut être réutilisée plus tard et par d'autres personnes. 
+De plus, nos membres aidant sur leur temps libre, il est plus facile pour eux de suivre une conversation écrite. 
+Ainsi, nous vous demandons de poser vos questions dans les canaux appropriés ( <#819590296526127115> )
+```
 
 ## Commandes "funs"
 
