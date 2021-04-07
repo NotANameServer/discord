@@ -15,7 +15,7 @@ Liste des membres du serveur ayant des droits sur sa gestion et sa modération.
 
 ## Ambassadeurs
 
-| Langages | Ambassadeurs |
+| Canaux | Ambassadeurs |
 | -------- | ----------- |
 | csharp | **Kaktus 🌵#0006** (239721911775526913) |
 | java | **florent#8092** (332479154496864259) |
