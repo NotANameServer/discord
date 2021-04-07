@@ -4,14 +4,14 @@ Liste des membres du serveur ayant des droits sur sa gestion et sa modération.
 
 ## Administrateurs
 
-- Lynix#3516 (83928726282174464)
-- Razakhel#0632 (141863139871293441)
+- **Lynix#3516** (83928726282174464)
+- **Razakhel#0632** (141863139871293441)
 
 ## Modérateurs
 
-- Charles#1065 (228622678901260290)
-- Dr Lazor#6737 (87605725857058816)
-- REMqb#8214 (278688001431961602)
+- **Charles#1065** (228622678901260290)
+- **Dr Lazor#6737** (87605725857058816)
+- **REMqb#8214** (278688001431961602)
 
 ## Ambassadeurs
 
