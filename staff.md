@@ -20,8 +20,7 @@ Liste des membres du serveur ayant des droits sur sa gestion et sa modération.
 - Florent#8092 (332479154496864259) - #java
 - Kaktus 🌵#0006 (239721911775526913) - #csharp
 - Lezenn#7995 (462796153558138881) - #java
-- Mestery#3859 (282201728097583104) - #javascript-typescript
+- Mestery#3859 (282201728097583104) - #bots-discord et #javascript-typescript
 - Mjöllnir#3515 (241702391756357633) - #php
 - Romain Lanz 🦊#0042 (126266043378302976) - #javascript-typescript
-- Mestery#3859 (282201728097583104) - #bots-discord
 - Wafelack#6513 (723862906755743804) - #rust
