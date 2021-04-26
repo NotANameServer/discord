@@ -8,4 +8,5 @@ Chaque streameur est représenté par un fichier portant le nom de sa chaîne.
 
 - [HardCPP](hardcpp.md)
 - [L0lock](l0lock.md)
+- [RomainLanz](romainlanz.md)
 - [SirLynixVanFrietjes](sirlynixvanfrietjes.md)
