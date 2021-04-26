@@ -1,112 +1,110 @@
-# FAQ du serveur
+## Moeurs
 
-## Vie du serveur
+### Les salons
 
-### Je ne vois pas le salon X (!salon)
-Le fonctionnement du serveur masque par défaut l’ensemble des canaux non nécessaires. Pour les rejoindre (les voir et pouvoir participer dedans), il vous suffit de vous rendre sur #rejoindre-les-canaux et d’ajouter les réactions correspondantes aux langages que vous souhaitez.
+Pensez à lire la description et les messages épinglés des différents salons que vous rejoignez. Ils précisent le sens de leurs salons et apportent des informations souvent importantes (ressources, cours, etc.)
 
- /!\ Attention /!\  Actuellement, un problème sur Discord peut survenir et vous n’aurez donc aucune réaction d’affichée, il vous suffit de rafraichir la page (Ctrl + R fonctionne sur la version desktop) pour régler ceci.
+Si vous comptez rejoindre un salon pour demander de l'aide, merci de donner un maximum d'informations pour faciliter l'entraide : votre objectif, votre tentative de résolution, le code que vous avez produit, les actions menant à votre erreur, etc. Tout ceci permettra aux autres membres de mieux comprendre votre problème et ainsi gagner en temps et en efficacité.
+
+Nous vous demandons de faire preuve de patience et de bienveillance, la communauté est formée de bénévoles qui vont vous accorder du temps pour vous répondre. Néanmoins, il est également possible que vous n'obteniez aucune réponse si votre problème est trop spécifique, ou encore si personne ne comprend votre question.
+
+### Les salons sérieux
+
+Les salons sérieux portent le nom et la description de la technologie ou du sujet auxquels ils sont dédiés. Par exemple, le canal #python est dédié à l'aide concernant le langage Python. Le canal #bots-discord quant à lui est dédié à la création de bots Discord, quel que soit le langage.
+
+Les catégories *Technologies*, *Languages* et *Rendu 3D* ainsi que les salons #infographie, #sciences, #etudes et #questions-professionnelles sont des salons sérieux.
+
+Les salons où les discussions hors-sujet sont les bienvenues sont #discussions et #detente.
+
+### Rejoindre les salons (`!salon`)
+
+La plupart des salons sont invisibles, vous pouvez les rendre visibles via le menu se trouvant dans #rejoindre-les-canaux.
+
+### L'aide en messages privés (`!mp`)
+
+Sur Not a Name, on ne préconise pas l'aide en message privé. Votre problème est peut-être partagé par un autre membre, ou votre question peut en intéresser d'autres. De plus, si une unique personne vous aide et que sa façon de faire est déconseillée, vous vous retrouverez avec d'autres problèmes sur les bras; là ou une multitude d'autres membres auraient souligné ces mauvaises pratiques.
+
+### L'aide en vocal (`!vocal`)
+
+Les aides en vocal sont généralement déconseillées, afin de préserver un historique des demandes d'aides et d'éviter de répéter les mêmes explications de multiples fois. Cependant, vous ne serez pas pénalisés pour en parler si d'autres personnes peuvent déjà vous aider et sont déjà en vocal. Une demande dans un canal technique ou #discussions de venir en vocal sera généralement ignorée.
+
+### Les ambassadeurs
+
+Les ambassadeurs sont des membres habitués qui font un travail de fond dans le salon technique dont ils sont ambassadeurs. Ils assurent la pérennité des échanges, animent leurs salons et servent de pont avec le staff. Ils sont également à l'origine de l'organisation des défis.
+
+### Les réactions utiles
+
+Le serveur met à disposition diverses réactions pratiques :
+
+- :lourd: : Utilisé pour désigner un message lourd dans une conversation.
+- :bellhop_bell: : Utilisé pour indiquer aux autres si vous voulez être mentionné quand on vous répond.
+- :arrow_double_up: : Indique que la réponse à votre question se trouve un peu plus haut dans la conversation.
+- :pushpin: : Demander à épingler un message dans le canal. Le message est automatiquement épinglé au bout de 10 réactions.
+- :modo: : Sert à prévenir les modérateurs qu'un message transgresse les règles.
+
+### Poster du code (`!code`)
+
+Pour les non-connaisseurs de Discord, il existe un moyen de poster du code bien formaté, lisible et coloré. Référez-vous à la documentation de Discord :
+
+<https://support.discord.com/hc/fr/articles/210298617-Bases-de-la-mise-en-forme-de-texte-Markdown-mise-en-forme-du-chat-gras-italique-soulign%C3%A9>.
+
+Si jamais votre code est beaucoup trop long pour tenir en un message ou que vous remplissez votre écran avec, il existe des sites pour poster vos codes. Il vous suffit de copier-coller votre code dans le site et de le sauvegarder, vous serez redirigés sur une page où votre code a été sauvegardé et vous pourrez copier-coller l'URL unique sur Discord.
+
+- <https://paste.artemix.org/>
+- <https://bin.readthedocs.fr/>
+
+### Demander de l'aide dans plusieurs salons (`!crosspost`)
+
+Normalement, les salons sont correctement découpés pour éviter qu'une même question soit posée à plusieurs endroits en même temps. Il se peut que vous vous trompiez de section et qu'un membre vous redirige ailleurs, nous vous prions de bien vouloir supprimer votre message de l'endroit original où vous l'aviez posté pour le reposter dans le bon salon. Pensez à prévenir qu'on vous a redirigé. Il n'y a pas de raison qui justifie qu'une question soit posée dans deux salons différents en même temps.
+
+Si vous posez votre question sur plusieurs serveurs Discord et que vous recevez une réponse sur un autre serveur, merci de revenir sur NaN pour prévenir que le problème est résolu.
+
+Précision concernant les bots Discord : toute demande d'aide concernant de près ou de loin le développement, l'hébergement ou le maintien des bots Discord **doit** se faire dans le salon #bots-discord **même si** la question ne concerne pas immédiatement le bot.
+
+Précision concernant les bases de données : la section #database concerne principalement les questions relatives aux schémas et aux requêtes. Les questions concernant les bibliothèques spécifiques à leur langage de programmation n'y ont pas leur place.
+
+### Sécurité informatique
+
+Parce que sur ce serveur il y a aussi beaucoup de novices en informatique, nous prenons avec des pincettes tout ce qui touche à la sécurité informatique. Ce sujet n'est abordé *que* lorsqu'il s'agit de renforcer la protection d'un système ou bien de corriger des failles évidentes (exemple : injection SQL).
+
+Il n'y a personne qui est à la fois habitué, experte reconnue du domaine et qui voudrait devenir ambassadeur d'un canal sécurité. De ce fait, nous ne pouvons pas garantir que les discussions concernant le *pentesting*, le *reverse engineering* et d'autres formes de crack/hack se déroule dans un cadre déontologique. Ces discussions sont interdites sur NaN.
+
+### Web-scraping
+
+Le scraping de données est la pratique de programmatiquement télécharger des données depuis un site. Il est possible de scraper en forgeant des requêtes HTTP ou bien en automatisant un navigateur web.
+
+Le scraping n'est pas correctement couvert par un cadre légal. Sur NaN, nous n'autorisons le web-scraping que lorsque celui-ci peut s'effectue le respect strict des conditions d'utilisation du site en question. En d'autres termes, lorsqu'un site propose une API et que vous voulez interagir avec ce site : vous *devez* utiliser cette API.
+
+Toute demande d'aide concernant le scraping web doit être accompagné d'une référence vers le passage qui autorise le scraping dans les CGU du site. À défaut, la demande d'aide tombera sous la règle concernant le respect de la loi et sera classée sans suite.
+
+Plus d'informations sur l'état du cadre légal du scraping web : <https://lexing.be/le-scraping-est-il-legal/>.
+
+## Salons Modérés
+
+Suite à de *très* nombreux abus passés, comme repris par la 3e règle, les messages publicitaires, les offres d'emploi et la présentation des vos projets se font uniquement dans leurs salons respectifs et sous réserve de l'approbation du staff. Contactez le staff via un ticket `!newticket`.
+
+Nous précisons que nous refusons systématiquement les propositions de partenariats ainsi que les échanges de publicité. Nous sommes satisfaits avec notre fonctionnement actuel et ne souhaitons pas faire de campagne de recrutement ou de publicité pour NaN.
+
+### #vos-projets
+
+Le salon #vos-projets est réservé à l'exposition de vos créations en rapport avec les axes du serveur (développement, infographie, sciences, etc.) Un état d'avancement minimum est requis pour soumettre vos créations. Les idées, les projets secrets et les serveurs de jeux n'ont pas leur place dans NaN. Pour les petites créations, vous pouvez toujours passer par le salon #screenshots.
+
+### #offres
+
+Le salon #offres permet de poster des offres d'emploi au sein de notre communauté. Nous n'acceptons que les offres rémunérées provenant d'une structure légale (entreprise, organisme public) et sur base d'une présentation sérieuse et complète. *Nous refusons les contrats pour freelances.*
+
+### #live
+
+Le salon #live vous donne la possibilité de publier vos annonces de live Twitch/YouTube sur les sujets dans l'axe du serveur. Nous attendons une activité régulière sur votre chaîne. Nous avons moyen de régler les annonces pour ne pas notifier les membres lorsque vous faites un live sur un sujet tiers. Pensez simplement à le préciser dans votre demande.
+
+## Méta
+
+### Le GitHub
+
+Not a Name met à disposition toute sa configuration sur un dépôt GitHub. Vous y trouverez les commandes des bots, les salons et leurs descriptions, etc. Vous pourrez suggérer des changements au niveau du serveur (comme créer un canal, ajouter une commande, etc.) en ouvrant une issue ou en soumettant une pull request avec votre modification.
+
+<https://github.com/NotANameServer/discord>
 
 ### Contacter le staff
-L’unique point de contact avec le staff se fait au travers de @Not a Bot. Il vous suffit pour cela de taper !newticket dans un salon. Un nouveau salon alors créé où seul le Staff, et vous aurez accès, vous permettant de discuter facilement avec nous.
 
-Toute demande en message privé ou directement sur un salon sera ignorée / supprimé.
-
-### J'ai croisé un comportement problématique, comment le signaler ?
-Si c'est dans un canal public, il vous suffit de rajouter la réaction :modo:  (:modo:) sur le message concerné. Le message nous sera alors remonté et nous prendrons les mesures nécessaires.
-
-Si ça se passe en privé, vous pouvez nous contacter (voir "Contacter le staff" ) avec un screenshot et une description du problème
-
-### Poster dans #offres
-Le salon #offres vous permet de mettre en avant vos offres d’emplois et recrutements professionnels auprès de l’ensemble de la communauté.
-
-L’accès au salon se fait sur demande à l’équipe (voir le point « Contacter le staff ») sur présentation d’une offre complète et sérieuse, ainsi que d’une structure légale derrière.
-
-### Poster dans #live
-Le salon #live vous permet de mettre en avant vos sessions de streaming live sur le thème de la programmation ou d’une thématique liée.
-L’accès au salon se fait sur candidature auprès du staff (voir le point « Contacter le staff »).
-
-### Comment puis-je poster dans #vos-projets
-L'accès au salon #vos-projets se fait sur simple demande au staff (voir "Contacter le staff" https://discordapp.com/channels/323076998576603137/699260551758610545/699265444137140254). Il vous faudra nous fournir la présentation de votre projet que vous souhaitez poster. Si elle convient, l'accès vous sera donné au salon.
-
-Votre présentation doit respecter ces différentes règles : 
-
-- Votre projet doit être correctement présenté, et mûrement réfléchi. Les projets top secret, ainsi que les idées trouvées il y a 10 minutes n’ont pas leur place ici.
-- Les recrutements professionnels (offres d’emplois, contrats, recherche freelance) sont à faire dans #offres.
-- Pas de recrutements pour des serveurs GTA V, Minecraft ou tout autre serveur privé interdit ou illégal.
-- Les suppressions/reposts sont interdites.
-- Un minimum d’effort sur la mise en forme est de rigueur, votre texte doit être lisible et agréable.
-- Le canal est là pour présenter votre projet et recruter. Vous n’êtes pas un projet, il est donc interdit de venir proposer vos services.
-- Aucune rémunération ne peut être proposée, si vous souhaitez faire passer une offre d’emploi, ou une recherche de freelance, merci de passer dans #offres.
-- La modération se réserve le droit de supprimer un message si elle juge le projet trop borderline, tendancieux, dangereux, ou pas assez sérieux.
-- Aucune discussion ne sera tolérée sur le salon
-- Ne pas reposter votre message avant un minimum de 3 mois, et uniquement en cas d'avancée majeure
-
-### Pourquoi mon sujet de conversation a été stoppé par la modération ?
-Dans le cas ou un(e) modérateur(trice) décide de couper court à votre conversation, c'est que cette dernière ne suit pas l'idéologie du serveur ou est
-simplement considérée trop borderline (à risque concernant les règles ou les lois) pour avoir lieu sur le serveur. En effet, personne ne peut prédire
-qui lit la conversation. Si le serveur donne de l'aide sur une forme d'attaque en sécurité, et ce même si la conversation est orientée sur la légalité, un
-membre qui lui n'a pas des intentions honnêtes pourrait se servir des indications données. C'est l'une des raisons pour lesquelles les sujets
-borderlines sont prohibés.
-
-### Je trouve que la modération s'acharne sur mon compte, que dois-je faire ?
-L'équipe de modération voue son temps libre à maintenir un ordre et le sérieux sur le serveur. La modération ne s'acharne pas sur vous mais sur votre comportement,
-ainsi, si vous voulez éviter tout problème ou simplement d'être dans le viseur de l'équipe, suivez simplement les règles qui se veulent le moins
-restrictives possibles.
-
-### Pouvez-vous ajouter un salon pour la technologie X ?
-Non, on ne crée pas de salon pour que des gens parlent peut-être dedans, ou pour tenter de créer une activité sur une thématique définie. Les salons sont créés quand il y a une forte demande, des discussions fréquentes, et un BESOIN de les isoler parce que ça nuit à d'autres salons.
-
-## Demandes d'aides
-
-### Comment poser efficacement une question (!ask)
-Pour nous permettre de vous aider au mieux, il est recommandé d’inclure le plus possible d’informations dans votre demande d’aide.
-
-Voici une liste non exhaustive des informations à présenter : code source, résultat actuel, résultat espéré, message d’erreur complet,…
-
-Veuillez noter que les demandes ne présentant aucune de ces informations aboutiront très certainement à une absence totale de réaction de la part des autres utilisateurs.
-
-### Comment faire une demande de config (dans #hardware) :
-
-Afin de pouvoir au mieux vous conseiller sur celle-ci, merci de préciser :
-- Votre budget
-- Votre utilisation (jeux (lesquels ?), bureautique, multimédia, programmation, graphisme, modélisation 3D, montage audio/vidéo, rendu vidéo) et à quelle fréquence (de temps en temps, régulièrement, intensivement)
-- Si vous souhaitez uniquement la tour, ou aussi un écran, un clavier, une souris (ou si c’est un PC portable)
-- La définition et la fréquence de l’écran que vous souhaitez/possédez
-- Si vous pouvez monter vous-même votre pc ou le faire monter après avoir reçu les composants (permettant ainsi d’économiser potentiellement plusieurs centaines d’euros)
-- Si vous possédez déjà des composants à mettre dans la config
-- Si vous avez des besoins particuliers (WiFi ? Bluetooth ?)
-- Si l'esthétique est un critère important (RGB ? Fenêtre ?)
-- Combien d'années vous comptez rester avec cette config avant d'upgrade
-Petite précision : Les prix varient, de nouveaux composants sortent avec le temps, donc merci de faire votre demande de config juste avant de l'acheter, et non pas en avance
-
-### Comment proposer correctement une config (dans #hardware) :
-
-Merci de ne pas utiliser les configurateurs de sites marchands tels que topachat ou ldlc qui ne disposent pas de tous les composants (ou n'affichent pas ceux qu'ils n'ont pas en stock) et qui ont très souvent un prix trop élevé. Vérifiez plutôt la compatibilité des composants par vous même ou utilisez https://fr.pcpartpicker.com/list/.
-Ce site va aussi vous donner un ordre d’idée pour le prix de la config vu qu’il compare plusieurs sites marchands, mais il n’a pas les meilleurs prix. Une fois la config faite, il faut donc impérativement utiliser https://www.i-comparateur.com/ pour rechercher le meilleur prix pour chaque composant, et on peut aussi parfois trouver d’encore meilleurs prix sur https://www.dealabs.com/.
-
-Cette dernière étape est très importante, des différences de 150€ ont déjà été constatées (sans compter le prix de l’option montage), et acheter les composants séparément pour monter ou faire monter le PC reviendrait toujours moins cher. Si vous souhaitez apprendre à monter votre PC, orientez-vous vers le très bon cours de Zeste de Savoir : https://zestedesavoir.com/tutoriels/613/apprenez-a-monter-votre-ordinateur/
-
-### Mettre en forme du code (!code)
-Pour mettre en forme du code, il vous suffit d'encadrer votre code de la manière suivante : 
-
-\`\`\`langage
-Code 
-\`\`\`
-
-langage étant à remplacer en fonction : cpp pour coloration C/C++, lua pour du Lua, csharp pour du C#, pony pour du Pony, etc. 
-
-Par exemple : 
-```cpp
-std::cout << "Hello world !" << std::endl;
-```
-
-Qui donnera :
-std::cout << "Hello world !" << std::endl;
-
-/!\ Attention, le caractère ` (accent grave) utilisé ici est différent du ' (guillemet), il peut s'obtenir par la combinaison Alt Gr + 7 sur un clavier azerty.
-
-### "J'ai besoin d'aide, venez en MP" est une mauvaise idée (!mp)
-Il est inutile, voire même contre-productif, de demander aux gens de venir en privé pour vous aider. Le serveur dispose d’un grand nombre de canaux sur pratiquement toutes les thématiques du développement, il y en aura forcément un pour votre question.
-
-De plus, en posant votre question publiquement, l’intelligence collective vous profitera, et vous serez assuré de ne pas recevoir une réponse inadéquate, ou fausse. De ce fait, les demandes d’aides en privé sont interdites sur ce serveur.
+Le staff peut être contacté par le système de ticket via la commande `!newticket`. Cette commande vous créera un canal privé dans lequel vous pouvez converser avec le staff et les ambassadeurs.
