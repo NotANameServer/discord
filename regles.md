@@ -11,7 +11,7 @@ règles qui suivent sont à leur attention.
    interactions.
 
 2. La loi française est d'application sur le serveur. Les contenus illégaux, le
-   piratage, la pornographie, le gore, etc sont interdits. Plus précisément,
+   piratage, la pornographie, le gore, etc. sont interdits. Plus précisément,
    les sujets borderlines, ceux à la légalité douteuse ou dont l'usage n'est
    pas clairement dans les clous de la loi sont également prohibés.
 
@@ -151,7 +151,7 @@ sérieuse et complète. *Nous refusons les contrats pour freelances.*
 **#live**
 
 Le salon #live vous donne la possibilité de publier vos annonces de live
-twitch/youtube sur les sujets dans l'axe du serveur. Nous attendons une
+Twitch/YouTube sur les sujets dans l'axe du serveur. Nous attendons une
 activité régulière sur votre chaîne. Nous avons moyen de régler les annonces
 pour ne pas notifier les membres lorsque vous faites un live sur un sujet
 tiers. Pensez simplement à le préciser dans votre demande.
@@ -178,6 +178,6 @@ Github](https://github.com/NotANameServer/discord)
 
 **Contacter le staff**
 
-Le staff peut être contacté par un système de tickets via la commande
+Le staff peut être contacté par le système de ticket via la commande
 `!newticket`. Cette commande vous créera un canal privé dans lequel vous pouvez
 converser avec le staff et les ambassadeurs.
