@@ -58,14 +58,14 @@ votre erreur, ... Tout ceci permettera aux autres membres de mieux comprendre
 votre problème et ainsi gagner en temps et en efficacité.
 
 S'il vous plait, montrez vous professionnel et prenez votre mal en patience, si
-personne ne vous répond c'est que personne de connecté n'est compétente sur
+personne ne vous répond c'est qu'aucune personne connectée n'est compétente sur
 votre sujet ou bien que personne n'a compris votre problème.
 
 **Les salons sérieux**
 
 Les salons sérieux portent le nom et la description de la technologie ou du
 sujet auxquels ils sont dédié. Par exemple, le canal #python sera dédié aux
-aides concernant le langage python. Le canal #bots-discord quand à lui sera
+aides concernant le langage python. Le canal #bots-discord quant à lui sera
 dédié à la création de bots discord, quel que soit le langage.
 
 Toutes les sections *Technologies*, *Languages*, *Rendu 3D* ainsi que les
@@ -94,8 +94,8 @@ ignorée.
 
 **Les ambassadeurs**
 
-Les ambassadeurs sont des membres habitués qui font un travaille de fond dans
-le salon technique duquel ils sont ambassadeurs. Ils assurent la pérénité des
+Les ambassadeurs sont des membres habitués qui font un travail de fond dans le
+salon technique dont ils sont ambassadeurs. Ils assurent la pérénité des
 échanges, animent leurs salons et servent de pont avec le staff. Ils sont
 également à l'origine de l'organisation des défis.
 
@@ -111,7 +111,7 @@ Le serveur met à disposition diverses réactions pratiques:
 - :pushpin: : Demander à épingler un message dans le canal. Le message est
   automatiquement épinglé au bout de 10 réactions.
 - :modo: : Sert à prévenir les modérateurs qu'un message transgresse les
-  règles.
+  règles. Merci de ne pas en abuser.on es
 
 **Poster du code**
 
@@ -143,7 +143,7 @@ petites créations, vous pouvez toujours passer par le salon #screenshot.
 
 **#offres**
 
-Le salon #offres permet de poster des offres d'emploi au sain de notre
+Le salon #offres permet de poster des offres d'emploi au sein de notre
 communauté. Nous n'acceptons que les offres rémunérées provenant d'une
 structure légale (entreprise, organisme public) et sur base d'une présentation
 sérieuse et complète. *Nous refusons les contrats pour freelances.*
@@ -153,12 +153,12 @@ sérieuse et complète. *Nous refusons les contrats pour freelances.*
 Le salon #live vous donne la possibilité de publier vos annonces de live
 twitch/youtube sur les sujets dans l'axe du serveur. Nous attendons une
 activité régulière sur votre chaîne. Nous avons moyen de régler les annonces
-pour ne pas notifier les membres lorsque vous faites un live sur un sujet tier.
-Pensez simplement à le préciser dans votre demande.
+pour ne pas notifier les membres lorsque vous faites un live sur un sujet
+tiers. Pensez simplement à le préciser dans votre demande.
 
 ~~**La F.A.Q.**~~
 
-~~Beaucoup de questions redondantes sont oosées chaques jours sur le serveur.
+~~Beaucoup de questions redondantes sont posées chaques jours sur le serveur.
 Afin d'y répondre au maximum nous avons un canal #faq. Ce dernier liste les
 questions classiques comme "Poster dans #live" ou "Je ne vois pas le salon X",
 etc. Les plus communes sont accompagnées d'une commande pour fournir un lien
@@ -172,8 +172,8 @@ vers la réponse à la question. C'est pour cela que vous verrez passer des
 Not a Name met à disposition toute sa configuration sur un dépôt GitHub. Vous y
 trouverez les commandes des bots, les salons et leurs descriptions, etc. Vous
 pourrez suggérer des changements au niveau du serveur (comme créer un canal,
-ajouter une commande, ...) en soumettant une pull request avec votre
-modification. Vous trouverez ce dépôt ici: [Not a Name -
+ajouter une commande, ...) en ouvrant une issue ou en soumettant une pull
+request avec votre modification. Vous trouverez ce dépôt ici: [Not a Name -
 Github](https://github.com/NotANameServer/discord)
 
 **Contacter le staff**
