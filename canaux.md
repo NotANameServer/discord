@@ -85,7 +85,8 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | ----- | ----------- | ----- |
 | #discussions | Canal général pour accueillir toutes les discussions n'ayant pas leur place dans les autres canaux. | |
 | #detente | Pour parler de tout et de rien, préférez ce canal au canal #discussions pour les sujets non-sérieux. | |
-| #github | Suivez les propositions d'évolution du serveur et proposez vos propres idées via https://github.com/NotANameServer/discord ! | 
+| #suggestions | Les suggestions se font maintenant via le GitHub dédié à la gestion du serveur : https://github.com/NotANameServer/discord | 
+| #github-comments | Suivez les propositions d'évolution du serveur et proposez vos propres idées via https://github.com/NotANameServer/discord ! | 
 | #stats | Statistiques officielles du serveur, fournies par NaB | @NotABot |
 | #bienvenue | Rentrées et sorties du serveur | @NotABot |
 
