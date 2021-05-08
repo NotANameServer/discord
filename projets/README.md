@@ -17,3 +17,4 @@ Not a Name propose un canal dédié à certains projets réalisés par les membr
 - [Skift](skift.md)
 - [Starxium](starxium.md)
 - [Utopia](utopia.md)
+- [incipyt](incipyt.md)
