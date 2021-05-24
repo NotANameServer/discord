@@ -1,7 +1,7 @@
 Bienvenue sur NaN (Not a Name), serveur Discord sur le thème de la programmation. L’objectif du serveur est de fournir un endroit d’échange convivial et agréable. Nous mettons à disposition plusieurs canaux dédiés aux différents langages et domaines de l’informatique.
 
 
-En utilisant Discord, vous vous êtes engagés à respecter la charte de bonne conduite : <https://discord.com/guidelines/>.
+En utilisant Discord, vous vous êtes engagés à respecter la charte de bonne conduite : <https://discord.com/guidelines>.
 
 La 1e règle du serveur est essentielle au maintien d'une ambiance propice au débat, à l'aide apportée aux nouveaux et plus généralement à un travail serein. Le staff se réserve le droit de mettre un terme aux débats foireux, aux dramas et aux autres dérives.
 
