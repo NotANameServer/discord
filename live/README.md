@@ -6,6 +6,7 @@ Chaque streameur est représenté par un fichier portant le nom de sa chaîne.
 
 # Liste des streamers actuels
 
+- [Elanis](elanis.md)
 - [HardCPP](hardcpp.md)
 - [L0lock](l0lock.md)
 - [RomainLanz](romainlanz.md)
