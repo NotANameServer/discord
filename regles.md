@@ -11,7 +11,7 @@ Cela comprend la façon de débattre, de poser des questions, de répondre à ce
 
 **2. La loi française est d'application sur le serveur.** (`!borderline`)
 
-Les contenus illégaux, le piratage, la pornographie, le gore, etc. sont interdits. Les sujets borderlines, ceux à la légalité douteuse ou dont l'usage n'est pas clairement dans les limites légales sont également interdits. Ce n'est pas parce que d'autres pratiquent des activités illégales que vous avez le droit d'en faire autant.
+Les contenus illégaux, le piratage, la pornographie, le gore, etc. sont interdits. Les sujets borderlines, ceux a la légalité douteuse ou dont l'usage n'est pas clairement dans les limites légales sont également interdits. Ce n'est pas parce que d'autres pratiquent des activités illégales que vous avez le droit d'en faire autant.
 
 **3. La publicité, la présentation des projets et les messages de recrutements sont soumis à une règlementation accrue.** (`!recrutement`)
 
@@ -23,7 +23,7 @@ Utiliser un langage dit SMS à outrance est interdit. Nous vous demandons égale
 
 **5. Le serveur se veut dans l'ensemble sérieux.**
 
-Si il existe des salons prévus aux discussions diverses (#discussions et #detente), c'est pour que les autres salons puissent rester centrés sur leurs domaines.
+S'il existe des salons prévus aux discussions diverses (#discussions et #detente), c'est pour que les autres salons puissent rester centrés sur leurs domaines.
 
 **6. Le serveur a ses habitudes.**
 
