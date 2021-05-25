@@ -220,12 +220,6 @@ Ainsi, nous vous demandons de poser vos questions dans les canaux appropriés ( 
 ## Commandes "funs"
 
 
-### facepalm
-
-```
-https://giphy.com/gifs/Ra1bmpxpsppNC
-```
-
 ### johnson
 
 ```
@@ -256,10 +250,4 @@ https://pbs.twimg.com/media/ENeXefxUwAAPaiY.jpg
 
 ```
 https://tenor.com/WkN5.gif
-```
-
-### tkt
-
-```
-https://tenor.com/bfRDh.gif
 ```
