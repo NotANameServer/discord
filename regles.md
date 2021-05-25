@@ -23,7 +23,7 @@ Utiliser un langage dit SMS à outrance est interdit. Nous vous demandons égale
 
 **5. Le serveur se veut dans l'ensemble sérieux.**
 
-Si il existe des salons prévus aux discussions diverses (#discussions et #detente), c'est pour que les autres salons puissent rester centrés sur leurs domaines.
+S'il existe des salons prévus aux discussions diverses (#discussions et #detente), c'est pour que les autres salons puissent rester centrés sur leurs domaines.
 
 **6. Le serveur a ses habitudes.**
 
