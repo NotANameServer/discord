@@ -33,12 +33,12 @@ Les aides en vocal sont généralement déconseillées, afin de préserver un hi
 Les ambassadeurs sont des membres habitués qui font un travail de fond dans le salon technique dont ils sont ambassadeurs. Ils assurent la pérennité des échanges, animent leurs salons et servent de pont avec le staff. Ils sont également à l'origine de l'organisation des défis.
 
 1. Ils représentent leur communauté auprès du staff, les ambassadeurs sont responsables de remonter les différentes propositions/demandent/avis qu'ils lisent dans leurs canaus.
-2. Ils représentent le staff auprès de leur communauté, ils sont au courants de ce qui se trame en régis et peuvent apporter des éclaircissements quant aux décisions du staff après de leur communauté.
+2. Ils représentent le staff auprès de leur communauté, ils sont au courants de ce qui se trame en régie et peuvent apporter des éclaircissements quant aux décisions du staff auprès de leur communauté.
 3. Ils font un travail de fond pour apporter un cadre propice à l'entraide:
   (i) ils s'assurent qu'il y a assez de ressources à disposition dans les :pushpin:,
   (ii) ils ont un avis sur la plupart des formations francophones et anglophones disponibles sur internet,
-  (iii) ils mainteniennent une bonne ambiance, font preuve de patience et de pédagogie.
-4. Globalement ils font consensus auprès de leur communauté: ils sont une figure d'autorité naturelle, ont une certaine expertise technique, ont une certaine ancienneté et ne sont pas être des connards.
+  (iii) ils maintiennent une bonne ambiance, font preuve de patience et de pédagogie.
+4. Globalement ils font consensus auprès de leur communauté: ils sont une figure d'autorité naturelle, ont une certaine expertise technique, ont une certaine ancienneté et ne sont pas des connards.
 
 ### Les réactions utiles
 
