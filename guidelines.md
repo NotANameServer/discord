@@ -1,4 +1,4 @@
-## Mœurs
+## Guidelines
 
 ### Les salons
 
@@ -75,7 +75,7 @@ Précision concernant les bases de données : la section #database concerne prin
 
 Parce que sur ce serveur il y a aussi beaucoup de novices en informatique, nous prenons avec des pincettes tout ce qui touche à la sécurité informatique. Ce sujet n'est abordé *que* lorsqu'il s'agit de renforcer la protection d'un système ou bien de corriger des failles évidentes (exemple : injection SQL).
 
-Il n'y a personne qui est à la fois habitué, experte reconnue du domaine et qui voudrait devenir ambassadeur d'un canal sécurité. De ce fait, nous ne pouvons pas garantir que les discussions concernant le *pentesting*, le *reverse engineering* et d'autres formes de crack/hack se déroule dans un cadre déontologique. Ces discussions sont interdites sur NaN.
+Il n'y a personne qui est à la fois habitué, experte reconnue du domaine et qui voudrait devenir ambassadeur d'un canal sécurité. De ce fait, nous ne pouvons pas garantir que les discussions concernant le *pentesting*, le *reverse engineering* et d'autres formes de crack/hack se déroulent dans un cadre déontologique. Ces discussions sont interdites sur NaN.
 
 ### Web-scraping
 
@@ -87,7 +87,7 @@ Toute demande d'aide concernant le web-scraping doit être accompagné d'une ré
 
 Plus d'informations sur l'état du cadre légal du web-scraping : <https://lexing.be/le-scraping-est-il-legal/>.
 
-## Salons Modérés
+## Les salons modérés
 
 Suite à de *très* nombreux abus passés, comme repris par la 3e règle, les messages publicitaires, les offres d'emploi et la présentation des vos projets se font uniquement dans leurs salons respectifs et sous réserve de l'approbation du staff. Contactez le staff via un ticket `!newticket`.
 
