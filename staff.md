@@ -18,7 +18,7 @@ Liste des membres du serveur ayant des droits sur sa gestion et sa modération.
 | Canaux | Ambassadeurs |
 | ------ | ------------ |
 | csharp | **Kaktus 🌵#0006** (239721911775526913) |
-| html-css | **Mishaa#0338** (212906906723811338) |
+| html-css | **Mishaa#3333** (212906906723811338) |
 | java | **florent#8092** (332479154496864259) |
 | javascript-typescript | **Romain Lanz 🦊#0042** (126266043378302976) et **Mestery#3859** (282201728097583104) |
 | php | **Mjöllnir#3515** (241702391756357633) et **Cara#0385** (88562959478972416) |
