@@ -6,51 +6,60 @@ Préfixe des commandes : `!`
 
 ### ask
 
-```
+```md
 Comment poser efficacement une question: <https://discordapp.com/channels/323076998576603137/699260551758610545/699265823922978887>
 ```
 
 ### borderline
 
-```
+```md
 NaN ne cautionne pas l'aide apportée sur des sujets où la légalité est douteuse. Vos intentions sont peut-être honnêtes, mais comme il est impossible de vérifier ce qu'il en est réellement, les demandes d'aide sur des sujets légalement problématiques ne seront pas bien vues, voire sanctionnées si répétitives.
 ```
 
 ### code
 
-```
-Mettre en forme du code: <https://discordapp.com/channels/323076998576603137/699260551758610545/712619259599126569>
+```md
+Poster du code (`!code`)
+
+Pour les non-connaisseurs de Discord, il existe un moyen de poster du code bien formaté, lisible et coloré. Référez-vous à la documentation de Discord :
+
+<https://support.discord.com/hc/fr/articles/210298617-Bases-de-la-mise-en-forme-de-texte-Markdown-mise-en-forme-du-chat-gras-italique-soulign%C3%A9>.
+
+Si jamais votre code est beaucoup trop long pour tenir en un message ou que vous remplissez votre écran avec, il existe des sites pour poster vos codes. Il vous suffit de copier-coller votre code dans le site et de le sauvegarder, vous serez redirigés sur une page où votre code a été sauvegardé et vous pourrez copier-coller l'URL unique sur Discord.
+
+- <https://paste.artemix.org/>
+- <https://bin.readthedocs.fr/>
 ```
 
 ### configpc
 
-```
+```md
 **Comment faire une demande de config** : <https://discordapp.com/channels/323076998576603137/699260551758610545/699266110494605412>
 **Comment proposer correctement une config** : <https://discordapp.com/channels/323076998576603137/699260551758610545/699266296478564453>
 ```
 
 ### cours
 
-```
+```md
 Voici une liste de cours et documentations pour plusieurs langages (par TnTakara) : <https://learndev.info/>
 ```
 
 ### coursblender
 
-```
+```md
 Le cours Blender d'OpenClassrooms étant vastement obsolète et même faux par endroits, il est ivement conseillé de t'orienter vers cette suite de tutos qui a l'avantage d'être à jour et d'être faite par un professionnel expérimenté :
 <https://www.youtube.com/watch?v=xtsDulnyLf0&list=PLuZVx6uIcP-QSUx9zyGto6ZWSABeAH_76>
 ```
 
 ### coursc
 
-```
+```md
 Pour apprendre le langage C, le mieux en tant que débutant est le cours de Zeste de Savoir (https://zestedesavoir.com/tutoriels/755/le-langage-c-1/). Sinon le livre de Kernighan & Ritchie reste une référence mais pas la plus aisée.
 ```
 
 ### courscpp
 
-```
+```md
 La référence pour l'apprentissage du C++ moderne est le livre "C++ Primer 5th Edition de S. Lippmann" (à ne pas confondre avec le C++ Primer Plus 6th).
 
 Il existe aussi des bons cours en français comme celui de Zeste de Savoir : <https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/> (celui-ci est actuellement en cours de rédaction mais dispose déjà de contenu intéressant).
@@ -60,7 +69,7 @@ Attention au cours d'Openclassrooms, celui-ci est obsolète et de mauvaise quali
 
 ### courscsharp
 
-```
+```md
 Voici un ensemble de ressources intéressantes pour commencer votre apprentissage, ou l'approfondir : 
 
 - <https://docs.microsoft.com/en-us/dotnet/csharp/> Cours complet sur l'apprentissage du langage
@@ -71,13 +80,13 @@ Voici un ensemble de ressources intéressantes pour commencer votre apprentissag
 
 ### courscss
 
-```
+```md
 Pour apprendre le HTML et le CSS, je te conseille <https://marksheet.io/> (en anglais), un petit cours pas piqué des hannetons qui surpasse largement celui de OC.
 ```
 
 ### coursjava
 
-```
+```md
 Voici quelques liens pour apprendre le Java :
 - Cours Java2s (anglais) : <http://java2s.com/>
 - Cours jmdoudoux (français) : <https://www.jmdoudoux.fr/java/dej/indexavecframes.htm>
@@ -86,7 +95,7 @@ Voici quelques liens pour apprendre le Java :
 
 ### coursjs
 
-```
+```md
 Pour apprendre les bases du JavaScript ou approfondir le langage, les cours suivants sont conseillés :
 📝 <https://javascript.info> (anglais)
 📝 <https://eloquentjavascript.net> (anglais)
@@ -96,7 +105,7 @@ Pour apprendre les bases du JavaScript ou approfondir le langage, les cours suiv
 
 ### courshtml
 
-```
+```md
 Pour apprendre le HTML et le CSS, je te conseille <https://marksheet.io/> (en anglais), un petit cours pas piqué des hannetons qui surpasse largement celui de OC.
 
 Alternativement il existe aussi de bons cours en français :
@@ -107,7 +116,7 @@ Alternativement il existe aussi de bons cours en français :
 
 ### courspython
 
-```
+```md
 Le Python est actuellement le choix le plus conseillé pour commencer l'apprentissage de la programmation. En effet, contrairement à d'autres langages : 
 - il n'est pas entièrement orienté objet comme Java et C#,
 - il est beaucoup plus haut niveau que le C.
@@ -118,7 +127,7 @@ Le cours le plus conseillé pour commencer votre apprentissage est celui de Gér
 
 ### coursrust
 
-```
+```md
 La meilleure ressource pour apprendre le Rust est le Rust Book officiel : <https://doc.rust-lang.org/stable/book/>
 
 Le Rust by Example est aussi très bien pour avoir des explications avec des exemples de code en Rust : <https://doc.rust-lang.org/stable/rust-by-example/>
@@ -126,27 +135,29 @@ Le Rust by Example est aussi très bien pour avoir des explications avec des exe
 
 ### crosspost
 
-```
+```md
 Il existe volontairement plusieurs canaux dédiés à certaines catégories de questions et discussions. Cette distinction par canaux est présente pour éviter de dupliquer les messages. Il est inutile et dérangeant de demander dans un canal de répondre à votre question dans un autre : quelqu'un vous répondra en temps voulu, mais certainement pas ailleurs que celui dans lequel votre question est adaptée.
 ```
 
 ### mp
 
-```
-Pourquoi "J'ai besoin d'aide, venez en MP" est une mauvaise idée <https://discordapp.com/channels/323076998576603137/699260551758610545/714903501750403092>
+```md
+L'aide en message privé (`!mp`)
+
+Sur Not a Name, on ne préconise pas l'aide en message privé. Votre problème est peut-être partagé par un autre membre, ou votre question peut en intéresser d'autres. De plus, si une unique personne vous aide et que sa façon de faire est déconseillée, vous vous retrouverez avec d'autres problèmes sur les bras ; là ou une multitude d'autres membres auraient souligné ces mauvaises pratiques.
 ```
 
 ### recrutement
 
-```
-NaN n'est pas un serveur de petites annonces et n'a pas pour but d'héberger vos demandes de recrutement.
-Si vous cherchez des développeurs pour une offre d'emploi, ouvrez un ticket pour le staff avec !newticket en précisant votre offre (voir <#699260551758610545> : <https://discordapp.com/channels/323076998576603137/699260551758610545/699265486671839272>).
-Si vous voulez présenter votre projet, à condition qu'il soit déjà relativement bien avancé, ouvrez un ticket en nous faisant parvenir l'annonce que vous souhaitez poster (voir <#699260551758610545> : <https://discordapp.com/channels/323076998576603137/699260551758610545/699269657131089961>).
+```md
+La publicité, la présentation des projets et les messages de recrutements sont soumis à une règlementation accrue. (`!recrutement`)
+
+Il existe des salons dédiés à ces messages et l'accès à ces salons est modéré par le staff. Tout message à tendance publicitaire ou de recrutement envoyé en dehors de ces salons ou par messages privés est interdit. Voir la section *Les salons modérés* des <#860920579154772018>
 ```
 
 ### regle7
 
-```
+```md
 Rappel de la règle n°7 du serveur : `Poster un message pour demander si quelqu'un peut vous aider est contre-productif, poser directement vos questions vous apportera plus d'aide.`
 
 N'hésitez pas à donner directement votre problème au lieu d'attendre que quelqu'un soit disponible !
@@ -154,19 +165,19 @@ N'hésitez pas à donner directement votre problème au lieu d'attendre que quel
 
 ### salon
 
-```
+```md
 Vous ne voyez pas le canal indiqué par les autres utilisateurs ? Voici la marche à suivre : <https://discordapp.com/channels/323076998576603137/699260551758610545/699265804994215997>
 ```
 
 ### joinchannel
 
-```
+```md
 Pour rejoindre un canal de langage (et d'autres), cliquez sur le lien suivant: https://discord.com/channels/323076998576603137/440592843489280011/440593868464062472
 ```
 
 ### debutant
 
-```
+```md
 Canaux
 
 Il y a divers canaux à votre disposition. Certains sont basés sur un thème en général comme `#hardware`, et d'autres sont spécifiques aux langages comme `#python`. Afin de pouvoir accéder aux canaux, vous devez vous attribuer un rôle via <#440592843489280011>.
@@ -180,7 +191,7 @@ N'utilisez pas de capture d'écran de votre code mais plutôt le Markdown intég
 
 ### devbots
 
-```
+```md
 Informations sur la création de bots Discord
 
 ⚠ Avertissement
@@ -211,7 +222,7 @@ Voici une liste non-exhaustive des notions dont vous pouvez avoir besoin pour fa
 
 ### vocal
 
-```
+```md
 Not a Name ne met pas en avant les demandes d'aide en vocal. En effet, les informations transmises en vocal ne sont qu'éphémères, alors qu'une information écrite dans le canal approprié peut être réutilisée plus tard et par d'autres personnes. 
 De plus, nos membres aidant sur leur temps libre, il est plus facile pour eux de suivre une conversation écrite. 
 Ainsi, nous vous demandons de poser vos questions dans les canaux appropriés ( <#819590296526127115> )
@@ -222,7 +233,7 @@ Ainsi, nous vous demandons de poser vos questions dans les canaux appropriés ( 
 
 ### johnson
 
-```
+```md
 <:johnson:324896229987450881><:johnson2:324886127838232576><:johnson:324896229987450881>
 <:johnson2:324886127838232576><:johnson:324896229987450881><:johnson2:324886127838232576>
 <:johnson:324896229987450881><:johnson2:324886127838232576><:johnson:324896229987450881>
@@ -230,24 +241,24 @@ Ainsi, nous vous demandons de poser vos questions dans les canaux appropriés ( 
 
 ### jelareff
 
-```
+```md
 https://pbs.twimg.com/media/EWj59FlWsAc_AnX.jpg
 ```
 
 ### jokeyou
 
-```
+```md
 https://tenor.com/view/joke-dumb-gif-8906255
 ```
 
 ### palareff
 
-```
+```md
 https://pbs.twimg.com/media/ENeXefxUwAAPaiY.jpg
 ```
 
 ### pinceapain
 
-```
+```md
 https://tenor.com/WkN5.gif
 ```
