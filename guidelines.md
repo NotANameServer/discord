@@ -50,7 +50,6 @@ Le serveur met à disposition diverses réactions pratiques :
 - :pushpin: : Demander à épingler un message dans le canal. Le message est automatiquement épinglé au bout de 10 réactions.
 - :modo: : Sert à prévenir les modérateurs qu'un message transgresse les règles.
 
-
 ### Poser efficacement une question (`!ask`)
 
 Bonjour! Nous encourageons les utilisateurs du serveur à exposer directement leur problème dans les salons dédiés. 
