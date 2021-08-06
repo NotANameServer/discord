@@ -21,8 +21,8 @@ Ainsi il est préférable d'exposer le plus clairement possible son problème sa
  - Le problème rencontré (Avec un message d'erreur par exemple)
  - Les demarches déjà menées pour essayer de résoudre le problème
 
-Aussi n'ayez pas peur de poser des questions qui vous paraissent bêtes, le respect des autres est primodiale sur le serveur.
-N'hésitez pas également à demander à être notifier lors d'une réponse (:bellhop:), le nombre de membre est très important mais tout le monde n'est pas connecté sans arrêt et les réponses peuvent arriver beaucoup plus tard.
+Aussi n'ayez pas peur de poser des questions qui vous paraissent bêtes, le respect des autres est primordial sur le serveur.
+N'hésitez pas également à demander à être notifié lors d'une réponse (:bellhop_bell:), car les réponses peuvent arriver plus tard.
 ```
 
 ### borderline
