@@ -50,6 +50,27 @@ Le serveur met à disposition diverses réactions pratiques :
 - :pushpin: : Demander à épingler un message dans le canal. Le message est automatiquement épinglé au bout de 10 réactions.
 - :modo: : Sert à prévenir les modérateurs qu'un message transgresse les règles.
 
+
+### Poser efficacement une question (`!ask`)
+
+
+```markdown
+Bonjour! Nous encourageons les utilisateurs du serveur à exposer directement leur problème dans les salons dédiés. 
+
+Demander si quelqu'un connait telle ou telle technologie à peut de chance d'aboutir. Beaucoup de gens n'admette pas facilement s'y connaitre dans un domaine et d'autre n'apprécient pas de s'engager dans une discussion sans aucune information.
+
+Ainsi il est préférable d'exposer le plus clairement possible sont problème sans attendre en y ajoutant le plus d'information possible:
+ - Une phrase résumant le problème
+ - La technologie utilisé (si possible un lien vers la documentation ou le site officiel)
+ - L'objectif recherché
+ - Le problème rencontré (Avec un message d'erreur par exemple)
+ - Les demarches déjà menées pour essayer de résoudre le problème
+
+Aussi n'ayez pas peur de poser des questions qui vous paraissent bêtes, le respect des autres est primodiale sur le serveur.
+N'hésitez pas également à demander à être notifier lors d'une réponse (:bellhop:), le nombre de membre est très important mais tout le monde n'est pas connecté sans arrêt et les réponses peuvent arriver beaucoup plus tard.
+```
+
+
 ### Poster du code (`!code`)
 
 Pour les non-connaisseurs de Discord, il existe un moyen de poster du code bien formaté, lisible et coloré. Référez-vous à la documentation de Discord :
