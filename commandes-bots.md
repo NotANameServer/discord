@@ -12,7 +12,7 @@ Poser efficacement une question (`!ask`)
 
 Bonjour! Nous encourageons les utilisateurs du serveur à exposer directement leur problème dans les salons dédiés. 
 
-Demander si quelqu'un connait telle ou telle technologie à peut de chance d'aboutir. Beaucoup de gens n'admette pas facilement si connaitre dans un domaine et d'autre n'apprécient pas de s'engager dans une discussion sans aucune information.
+Demander si quelqu'un connait telle ou telle technologie à peut de chance d'aboutir. Beaucoup de gens n'admette pas facilement s'y connaitre dans un domaine et d'autre n'apprécient pas de s'engager dans une discussion sans aucune information.
 
 Ainsi il est préférable d'exposer le plus clairement possible sont problème sans attendre en y ajoutant le plus d'information possible:
  - Une phrase résumant le problème
