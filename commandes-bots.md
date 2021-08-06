@@ -14,7 +14,7 @@ Bonjour ! Nous encourageons les utilisateurs du serveur à exposer directement l
 
 Demander si quelqu'un connait telle ou telle technologie à peut de chance d'aboutir. Beaucoup de gens n'admette pas facilement s'y connaitre dans un domaine et d'autre n'apprécient pas de s'engager dans une discussion sans aucune information.
 
-Ainsi il est préférable d'exposer le plus clairement possible sont problème sans attendre en y ajoutant le plus d'information possible:
+Ainsi il est préférable d'exposer le plus clairement possible son problème sans attendre en y ajoutant le plus d'informations et de détails possible :
  - Une phrase résumant le problème
  - La technologie utilisé (si possible un lien vers la documentation ou le site officiel)
  - L'objectif recherché
