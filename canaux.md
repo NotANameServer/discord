@@ -17,6 +17,7 @@ Les rôles dits *non-colorés* sont les rôles qui donnent accès aux salons dé
 - C
 - C++
 - C#
+- Fonctionnel
 - Java
 - Javascript
 - Lua
@@ -111,6 +112,7 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | #c | | C |
 | #cpp | | C++ |
 | #csharp | Cliquez pour voir les liens utiles : <br> - https://goo.gl/8tqJWh C#<br> - https://goo.gl/g6vKRv ASP.NET Core 2.2<br>- https://goo.gl/oNYiVP WPF, Xamarin, MVVM, Linq<br>- https://goo.gl/kwsV84 Linq | C# |
+| #fonctionnels | Pour toute question concernant un langage fonctionnel (haskell, list, ...) ou concernant le paradigme de programmation fonctionnel | Fonctionnel |
 | #html-css | | HTML/CSS |
 | #java | !coursjava pour une liste de cours | Java |
 | #javascript-typescript | var:thumbsdown:let/const:thumbsup:<br>Cliquez pour voir les liens utiles.<br>Cours<br>          https://goo.gl/ZnCWHq Documentation MDN<br>          https://javascript.info/ : Cours complet<br>          https://eloquentjavascript.net/ : Cours complet<br>          https://goo.gl/td48fx : Cours ES6<br>          https://youtu.be/TrDqaABq-UY Comprendre Observable<br>          https://goo.gl/Wa5cLF You don't know JS<br>Outils<br>          https://jsonlint.com/ : Validité de votre JSON | Javascript |
