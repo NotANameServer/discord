@@ -17,6 +17,7 @@ Les rôles dits *non-colorés* sont les rôles qui donnent accès aux salons dé
 - C
 - C++
 - C#
+- Fonctionnel
 - Java
 - Javascript
 - Lua
@@ -118,6 +119,7 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | #php | Cours :<br>          - Introduction<br>            https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/<br>          - [Video] Formation<br>            https://www.grafikart.fr/formations/php<br>          - [Video] Formation POO<br>            https://www.grafikart.fr/formations/programmation-objet-php<br>Annexes :<br>          - Coder proprement<br>            https://phptherightway.com/<br>          - Référentiel QA<br>            https://books.goalkicker.com/PHPBook/<br>          - Conventions<br>            https://www.php-fig.org/psr/ | PHP |
 | #python | Cliquez ici pour voir les liens utiles.<br>Cours<br>       https://goo.gl/FhY2fj : Cours complet (conseillé)<br>       https://goo.gl/7AG1qj : Documentation officielle<br>       https://goo.gl/AKrZA2 : Module de bibliothèques standards<br>Outils / Ressources<br>       https://goo.gl/qbrcTd : Liste Frameworks Web<br>       https://goo.gl/Ffsm9K : Awesome List<br>       https://goo.gl/iQCMtc : Coding Conventions<br>       https://goo.gl/rruKcB : Bonnes pratiques packaging | Python |
 | #rust | Cliquez ici pour voir les liens utiles.<br>Cours<br>       https://doc.rust-lang.org/stable/book/ : Rust Book - cours complet (conseillé)<br>       https://doc.rust-lang.org/stable/rust-by-example/ : Rust by Example | Rust |
+| #langages-fonctionnels | Pour toute question concernant un langage fonctionnel (haskell, list, ...) ou concernant le paradigme de programmation fonctionnel | Fonctionnel |
 | #autres-langages | Pour toute question sur un langage ne possédant pas son canal dédié. | |
 
 ### Technologies
