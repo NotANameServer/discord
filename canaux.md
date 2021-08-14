@@ -112,6 +112,7 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | #c | | C |
 | #cpp | | C++ |
 | #csharp | Cliquez pour voir les liens utiles : <br> - https://goo.gl/8tqJWh C#<br> - https://goo.gl/g6vKRv ASP.NET Core 2.2<br>- https://goo.gl/oNYiVP WPF, Xamarin, MVVM, Linq<br>- https://goo.gl/kwsV84 Linq | C# |
+| #fonctionnels | Pour toute question concernant un langage fonctionnel (haskell, list, ...) ou concernant le paradigme de programmation fonctionnel | Fonctionnel |
 | #html-css | | HTML/CSS |
 | #java | !coursjava pour une liste de cours | Java |
 | #javascript-typescript | var:thumbsdown:let/const:thumbsup:<br>Cliquez pour voir les liens utiles.<br>Cours<br>          https://goo.gl/ZnCWHq Documentation MDN<br>          https://javascript.info/ : Cours complet<br>          https://eloquentjavascript.net/ : Cours complet<br>          https://goo.gl/td48fx : Cours ES6<br>          https://youtu.be/TrDqaABq-UY Comprendre Observable<br>          https://goo.gl/Wa5cLF You don't know JS<br>Outils<br>          https://jsonlint.com/ : Validité de votre JSON | Javascript |
@@ -119,7 +120,6 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | #php | Cours :<br>          - Introduction<br>            https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/<br>          - [Video] Formation<br>            https://www.grafikart.fr/formations/php<br>          - [Video] Formation POO<br>            https://www.grafikart.fr/formations/programmation-objet-php<br>Annexes :<br>          - Coder proprement<br>            https://phptherightway.com/<br>          - Référentiel QA<br>            https://books.goalkicker.com/PHPBook/<br>          - Conventions<br>            https://www.php-fig.org/psr/ | PHP |
 | #python | Cliquez ici pour voir les liens utiles.<br>Cours<br>       https://goo.gl/FhY2fj : Cours complet (conseillé)<br>       https://goo.gl/7AG1qj : Documentation officielle<br>       https://goo.gl/AKrZA2 : Module de bibliothèques standards<br>Outils / Ressources<br>       https://goo.gl/qbrcTd : Liste Frameworks Web<br>       https://goo.gl/Ffsm9K : Awesome List<br>       https://goo.gl/iQCMtc : Coding Conventions<br>       https://goo.gl/rruKcB : Bonnes pratiques packaging | Python |
 | #rust | Cliquez ici pour voir les liens utiles.<br>Cours<br>       https://doc.rust-lang.org/stable/book/ : Rust Book - cours complet (conseillé)<br>       https://doc.rust-lang.org/stable/rust-by-example/ : Rust by Example | Rust |
-| #langages-fonctionnels | Pour toute question concernant un langage fonctionnel (haskell, list, ...) ou concernant le paradigme de programmation fonctionnel | Fonctionnel |
 | #autres-langages | Pour toute question sur un langage ne possédant pas son canal dédié. | |
 
 ### Technologies
