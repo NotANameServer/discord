@@ -10,7 +10,7 @@ Préfixe des commandes : `!`
 ```markdown
 Poser efficacement une question (`!ask`)
 
-Bonjour ! Nous encourageons les utilisateurs du serveur à exposer directement leur problème dans les salons dédiés. 
+Nous encourageons les utilisateurs du serveur à exposer directement leur problème dans les salons dédiés. 
 
 Demander si quelqu'un connait telle ou telle technologie à peut de chance d'aboutir. Beaucoup de gens n'admette pas facilement s'y connaitre dans un domaine et d'autre n'apprécient pas de s'engager dans une discussion sans aucune information.
 
