@@ -67,6 +67,7 @@ Les rôles *projets* donnent accès aux salons dédié au développement des pro
 - RaZ
 - ProjectW
 - Sielo
+- Squirrel
 - Utopia
 - Hand 2 hand (Hand2Hand)
 - Starxium
@@ -181,6 +182,7 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | #projet-rpisequencer | | RPiSequencer |
 | #projet-sielo | channel pour tout ce qui concerne Sielo. Donnez votre avis ou venez juste vous tenir au courant des nouveautés. =D | Sielo |
 | #projet-skift | https://github.com/skiftOS/skift/ - Le système d'exploitation skift | Skift |
+| #projet-squirrel | Squirrel est un projet communautaire ayant pour but d'aider les particuliers, professionnels et collectifs à s'organiser à travers un assistant automatisé. | Squirrel |
 | #projet-starxium |  | Starxium |
 | #projet-utopia | Jeu de programmation en réseau dont le développement est streamé sur Twitch: https://github.com/DigitalPulseSoftware/Erewhon-Game<br>https://www.twitch.tv/sirlynixvanfrietjes | Utopia |
 
