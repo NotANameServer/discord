@@ -174,7 +174,7 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | #projet-nazara | https://github.com/DigitalPulseSoftware/NazaraEngine | Nazara Engine |
 | #projet-neuroshok | https://github.com/ads00 | Neuroshok |
 | #projet-notanengine |  | NotAnEngine |
-| #projet-notahub | https://github.com/NotANameServer/Not-a-Hub | Not A Hub |
+| #projet-notahub | https://github.com/NotANameServer/Not-a-Hub | Not a Hub |
 | #projet-projectw | ProjectW est un jeu multijoueur coopératif bac à sable, orienté action/aventure, en vue du dessus. Il est développé en C++, sur un moteur maison. | ProjectW |
 | #projet-raz | Moteur de jeu multi-plateforme en C++17 : https://github.com/Razakhel/RaZ. N'hésitez pas à star le projet et rejoindre le serveur Discord dédié :  https://discord.gg/25YGDED ! | RaZ |
 | #projet-retrodev | | RetroDev |
