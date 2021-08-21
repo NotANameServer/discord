@@ -34,6 +34,9 @@ Les rôles dits *non-colorés* sont les rôles qui donnent accès aux salons dé
 - Développement de jeux vidéos (Game-Dev)
 - Développement de bots Discord (Bots Discord)
 
+**Défis**:
+- Défis
+
 ### Rôles colorés
 
 Les rôles dits *colorés* permettent aux membres d'arborer les couleurs de leur langage de programmation favoris. Ce rôle ne sert qu'à ça, arborer des couleurs et n'est pas un gage de compétence.
@@ -60,6 +63,7 @@ Les rôles *projets* donnent accès aux salons dédié au développement des pro
 - RPiSequencer
 - Nazara Engine
 - Neuroshok
+- Not a Hub
 - RaZ
 - ProjectW
 - Sielo
@@ -101,8 +105,8 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | #screenshots | Envie de partager ce sur quoi vous travaillez ? Montrez-nous en image ! ||
 | #talks | | |
 | #vos-projets | Salon de présentation de vos projets personnels. **Lisez le règlement épinglé avant d'y présenter un projet.** Toute discussion est interdite, merci de le faire dans un autre canal. | staff |
-| #irl | Pour organiser des petites virées dans la vraie vie véritable | |
-| #club-de-lecture | | |
+| #defis |  |  |
+| #defis-discussions |  | Défis |
 
 ### Langages
 
@@ -113,7 +117,7 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | #cpp | | C++ |
 | #csharp | Cliquez pour voir les liens utiles : <br> - https://goo.gl/8tqJWh C#<br> - https://goo.gl/g6vKRv ASP.NET Core 2.2<br>- https://goo.gl/oNYiVP WPF, Xamarin, MVVM, Linq<br>- https://goo.gl/kwsV84 Linq | C# |
 | #html-css | | HTML/CSS |
-| #java | !coursjava pour une liste de cours | Java |
+| #java-jvm | !coursjava pour une liste de cours | Java |
 | #javascript-typescript | var:thumbsdown:let/const:thumbsup:<br>Cliquez pour voir les liens utiles.<br>Cours<br>          https://goo.gl/ZnCWHq Documentation MDN<br>          https://javascript.info/ : Cours complet<br>          https://eloquentjavascript.net/ : Cours complet<br>          https://goo.gl/td48fx : Cours ES6<br>          https://youtu.be/TrDqaABq-UY Comprendre Observable<br>          https://goo.gl/Wa5cLF You don't know JS<br>Outils<br>          https://jsonlint.com/ : Validité de votre JSON | Javascript |
 | #langages-fonctionnels | Pour toute question concernant un langage fonctionnel (Haskell, Lisp, ...) ou concernant les paradigmes de programmation fonctionnelle | Fonctionnel |
 | #lua | | Lua |
@@ -131,7 +135,7 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | #database | Une question concernant un SGBD ? La manière de structurer vos données, etc ? C'est ici !<br><br>Pour les questions liées à l'utilisation d'une bibliothèque, merci de plutôt demander dans le canal de langage associé ! | DB |
 | #hardware | Un doute sur le choix de votre configuration ? Une hésitation sur quelle carte graphique choisir ? Pour toutes vos demandes et questions concernant le hardware, c'est ici. | |
 | #support-technique | Un problème de mise à jour, un ordinateur qui ne démarre plus, votre webcam ne vous montre plus votre grande beauté ? Vous êtes au bon endroit ! | |
-| #systeme-et-reseaux | Un problème avec la configuration de votre serveur, de votre réseau, vous vous êtes vous même bloqué via iptables ? Nous pouvons vous aider, peut-être. | Système et Réseau |
+| #systeme-et-reseau | Un problème avec la configuration de votre serveur, de votre réseau, vous vous êtes vous même bloqué via iptables ? Nous pouvons vous aider, peut-être. | Système et Réseau |
 
 ### Rendu 3D
 
@@ -170,6 +174,7 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | #projet-nazara | https://github.com/DigitalPulseSoftware/NazaraEngine | Nazara Engine |
 | #projet-neuroshok | https://github.com/ads00 | Neuroshok |
 | #projet-notanengine |  | NotAnEngine |
+| #projet-notahub | https://github.com/NotANameServer/Not-a-Hub | Not A Hub |
 | #projet-projectw | ProjectW est un jeu multijoueur coopératif bac à sable, orienté action/aventure, en vue du dessus. Il est développé en C++, sur un moteur maison. | ProjectW |
 | #projet-raz | Moteur de jeu multi-plateforme en C++17 : https://github.com/Razakhel/RaZ. N'hésitez pas à star le projet et rejoindre le serveur Discord dédié :  https://discord.gg/25YGDED ! | RaZ |
 | #projet-retrodev | | RetroDev |
