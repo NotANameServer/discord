@@ -75,7 +75,7 @@ Précision concernant les bases de données : la section #database concerne prin
 
 Parce que sur ce serveur il y a aussi beaucoup de novices en informatique, nous prenons avec des pincettes tout ce qui touche à la sécurité informatique. Ce sujet n'est abordé *que* lorsqu'il s'agit de renforcer la protection d'un système ou bien de corriger des failles évidentes (exemple : injection SQL).
 
-Il n'y a personne qui est à la fois habitué, experte reconnue du domaine et qui voudrait devenir ambassadeur d'un canal sécurité. De ce fait, nous ne pouvons pas garantir que les discussions concernant le *pentesting*, le *reverse engineering* et d'autres formes de crack/hack se déroulent dans un cadre déontologique. Ces discussions sont interdites sur NaN.
+Il n'y a personne qui est à la fois habitué, expert reconnu du domaine et qui voudrait devenir ambassadeur d'un canal sécurité. De ce fait, nous ne pouvons pas garantir que les discussions concernant le *pentesting*, le *reverse engineering* et d'autres formes de crack/hack se déroulent dans un cadre déontologique. Ces discussions sont interdites sur NaN.
 
 ### Web-scraping
 
