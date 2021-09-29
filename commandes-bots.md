@@ -64,7 +64,9 @@ La référence pour l'apprentissage du C++ moderne est le livre "C++ Primer 5th 
 
 Il existe aussi des bons cours en français comme celui de Zeste de Savoir : <https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/> (celui-ci est actuellement en cours de rédaction mais dispose déjà de contenu intéressant).
 
-Une version papier issue du cours de Zeste de Savoir, intitulée "Le guide du C++ moderne - De débutant à développeur", rédigée par Mehdi Benharrats et Benoït Vittupier est disponible. Ce cours traite d'un ensemble de notions fondamentales et parfois plus approfondies liées à la programmation mais aussi de principes de conception essentiels et d'idiomes particuliers, à propos du langage dans ses versions "modernes".
+Une version papier issue du cours de Zeste de Savoir, intitulée "Le guide du C++ moderne - De débutant à développeur", rédigée par Mehdi Benharrats et Benoït Vittupier est disponible (cf. un lien vers l'éditeur, ci-dessous). Ce cours traite d'un ensemble de notions fondamentales et parfois plus approfondies liées à la programmation mais aussi de principes de conception essentiels et d'idiomes particuliers, à propos du langage dans ses versions "modernes".
+
+Le lien vers l'éditeur du livre: https://www.d-booker.fr/cppmoderne/656-le-guide-du-c-moderne-de-debutant-a-developpeur.html 
 
 Attention au cours d'Openclassrooms, celui-ci est obsolète et de mauvaise qualité, nous te recommandons fortement de te pencher sur une autre ressource.
 ```
