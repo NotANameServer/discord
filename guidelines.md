@@ -77,6 +77,8 @@ Parce que sur ce serveur il y a aussi beaucoup de novices en informatique, nous 
 
 Il n'y a personne qui est à la fois habitué, expert reconnu du domaine et qui voudrait devenir ambassadeur d'un canal sécurité. De ce fait, nous ne pouvons pas garantir que les discussions concernant le *pentesting*, le *reverse engineering* et d'autres formes de crack/hack se déroulent dans un cadre déontologique. Ces discussions sont interdites sur NaN.
 
+En attendant de trouver un candidat pour un futur salon sécu-info, vous pouvez vous intéresser aux autres serveurs discord de la sphère francophone. L'un de ces serveurs est [Culte du Code](https://discord.gg/VXyWvdK), chez eux discuter sécu-info est le bienvenu. Pensez à leur rendre visite : https://discord.gg/VXyWvdK !
+
 ### Web-scraping
 
 Le scraping de données est la pratique de programmatiquement télécharger des données depuis un site. Il est possible de scraper en forgeant des requêtes HTTP ou bien en automatisant un navigateur web.
