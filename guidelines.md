@@ -45,7 +45,7 @@ Quelques mauvaise raison:
 
 En ce qui concerne la fonctionnalité "répondre" de discord, celle-ci sert surtout à ramener un vieux message pour rétablir le contexte de la conversation. En ce sens, il est interdit d'utiliser "répondre" pour répondre au dernier message envoyé.
 
-Ceux qui ne sont pas dérangés par les notifications peuvent ajouter l'emoticon 🛎️ `:bellhop_bell:` à leur pseudo.
+Ceux qui ne sont pas dérangés par les notifications peuvent se renommer pour ajouter l'emoticon 🛎️ `:bellhop_bell:` à leur pseudo.
 
 ### Les ambassadeurs
 
