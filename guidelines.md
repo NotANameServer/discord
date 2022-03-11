@@ -64,6 +64,7 @@ Les ambassadeurs sont des membres habitués qui font un travail de fond dans le 
 Le serveur met à disposition diverses réactions pratiques :
 
 - :lourd: : Utilisé pour désigner un message lourd dans une conversation.
+- :mention: : Utilisé pour signaler qu'une notification vous a dérangé, qu'elle était inutile et intrusive.
 - :bellhop_bell: : Utilisé pour indiquer aux autres si vous voulez être mentionné quand on vous répond.
 - :arrow_double_up: : Indique que la réponse à votre question se trouve un peu plus haut dans la conversation.
 - :pushpin: : Demander à épingler un message dans le canal. Le message est automatiquement épinglé au bout de 10 réactions.
