@@ -36,9 +36,9 @@ Quelques bonnes raisons:
 
 * répondre à une question qui a été posée il y a longtemps (plus de 15 minutes) lorsque l'OP ne semble plus actif;
 * répondre à une question où l'OP a explicitement demandé d'être mentionné (avec 🛎️ `:bellhop_bell:`);
-* interpeler un membre qui est reconnu comme expert d'un domaine lorsqu'il y a une question/un débat sur ce domain.
+* interpeler un membre qui est reconnu comme expert d'un domaine lorsqu'il y a une question/un débat sur ce domaine.
 
-Quelques mauvaise raison:
+Quelques mauvaises raisons:
 
 * utiliser la fonctionnalité "répondre" de discord à outrance et sans désactiver la notification automatique;
 * monopoliser l'attention d'un membre à outrance, par exemple pour que celui-ci réponde plus rapidement à un message.
