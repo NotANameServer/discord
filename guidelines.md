@@ -28,6 +28,25 @@ Sur Not a Name, on ne préconise pas l'aide en message privé. Votre problème e
 
 Les aides en vocal sont généralement déconseillées, afin de préserver un historique des demandes d'aides et d'éviter de répéter les mêmes explications de multiples fois. Cependant, vous ne serez pas pénalisés pour en parler si d'autres personnes peuvent déjà vous aider et sont déjà en vocal. Une demande dans un canal technique ou #discussions de venir en vocal sera généralement ignorée.
 
+### Les mentions
+
+Sur Not a Name, la plupart des utilisateurs préfèrent ne pas recevoir de notification sonore (être ping/mentionné) sans bonne raison.
+
+Quelques bonnes raisons:
+
+* répondre à une question qui a été posée il y a longtemps (plus de 15 minutes) lorsque la personne ne semble plus active;
+* répondre à une question où la personne a explicitement demandé d'être mentionnée (avec 🛎️ `:bellhop_bell:`);
+* interpeler un membre qui est reconnu comme expert d'un domaine lorsqu'il y a une question/un débat sur ce domaine.
+
+Quelques mauvaises raisons:
+
+* utiliser la fonctionnalité "répondre" de discord à outrance et sans désactiver la notification automatique;
+* monopoliser l'attention d'un membre à outrance, par exemple pour que celui-ci réponde plus rapidement à un message , le serveur n'est pas votre SAV.
+
+En ce qui concerne la fonctionnalité "répondre" de discord, celle-ci sert surtout à ramener un vieux message pour rétablir le contexte de la conversation. En ce sens, il est inutile d'utiliser "répondre" pour répondre au dernier message envoyé.
+
+Ceux qui ne sont pas dérangés par les notifications peuvent se renommer pour ajouter l'emoticon 🛎️ `:bellhop_bell:` à leur pseudo.
+
 ### Les ambassadeurs
 
 Les ambassadeurs sont des membres habitués qui font un travail de fond dans le salon technique dont ils sont ambassadeurs. Ils assurent la pérennité des échanges, animent leurs salons et servent de pont avec le staff. Ils sont également à l'origine de l'organisation des défis.
@@ -45,6 +64,7 @@ Les ambassadeurs sont des membres habitués qui font un travail de fond dans le 
 Le serveur met à disposition diverses réactions pratiques :
 
 - :lourd: : Utilisé pour désigner un message lourd dans une conversation.
+- :mention: : Utilisé pour signaler qu'une notification vous a dérangé, qu'elle était inutile et intrusive.
 - :bellhop_bell: : Utilisé pour indiquer aux autres si vous voulez être mentionné quand on vous répond.
 - :arrow_double_up: : Indique que la réponse à votre question se trouve un peu plus haut dans la conversation.
 - :pushpin: : Demander à épingler un message dans le canal. Le message est automatiquement épinglé au bout de 10 réactions.
