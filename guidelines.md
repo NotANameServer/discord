@@ -93,11 +93,11 @@ Précision concernant les bases de données : la section #database concerne prin
 
 ### Sécurité informatique
 
-Parce que sur ce serveur il y a aussi beaucoup de novices en informatique, nous prenons avec des pincettes tout ce qui touche à la sécurité informatique. Ce sujet n'est abordé *que* lorsqu'il s'agit de renforcer la protection d'un système ou bien de corriger des failles évidentes (exemple : injection SQL).
+Parce que sur ce serveur il y a aussi beaucoup de novices en informatique, nous prenons avec des pincettes tout ce qui touche à la sécurité informatique. Ce sujet n'est abordé dans les salons généraux *que* lorsqu'il s'agit de renforcer la protection d'un système ou bien de corriger des failles évidentes (exemple : injection SQL).
 
-Il n'y a personne qui est à la fois habitué, expert reconnu du domaine et qui voudrait devenir ambassadeur d'un canal sécurité. De ce fait, nous ne pouvons pas garantir que les discussions concernant le *pentesting*, le *reverse engineering* et d'autres formes de crack/hack se déroulent dans un cadre déontologique. Ces discussions sont interdites sur NaN.
+Il est possible de discuter des questions de sécurité informatique dans le salon #sécurité. Ce salon n'est pas public et son accès est controlé par le staff via les tickets. Il vous sera demandé les raisons pour lesquelles vous souhaitez avoir accès à ce salon, vous devrez en plus lire des articles de loi et signer une charte de bonne conduite.
 
-En attendant de trouver un candidat pour un futur salon sécu-info, vous pouvez vous intéresser aux autres serveurs discord de la sphère francophone. L'un de ces serveurs est [Culte du Code](https://discord.gg/VXyWvdK), chez eux discuter sécu-info est le bienvenu. Pensez à leur rendre visite : https://discord.gg/VXyWvdK !
+Il ne nous est pas possible d'assurer que le cadre déontologique est strictement respecté en dehors du salon #sécurité. De ce fait, discuter, partager ou promouvoir le sujet du piratage informatique (le pentesting, le reverse-engineering, le cracking, le hacking, le doxing, les exploits, ...) est strictement interdit sur les autres salons. Ces sujets peuvent être abordés dans le channel #securite dans le respect de la loi et de l'éthique.
 
 ### Web-scraping
 
