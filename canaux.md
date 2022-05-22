@@ -191,4 +191,4 @@ Discord :  https://discord.gg/Xfn2zNN | Hand2Hand
 | ----- | ----------- | ----- |
 | #vocal-jeux | | Joueur |
 | #vocal-sans-micro | Pour participer aux discussions en vocal sans micro | |
-| #vocal-talks | | |
+| #vocal-reunion | | Pour participer aux discussions en vocal réunion |
