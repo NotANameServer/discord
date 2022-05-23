@@ -10,6 +10,19 @@ Préfixe des commandes : `!`
 Comment poser efficacement une question: <https://discordapp.com/channels/323076998576603137/699260551758610545/699265823922978887>
 ```
 
+### bienvenue (alias: debutant)
+
+```markdown
+**Canaux**  
+Il y a divers canaux à votre disposition. Certains sont basés sur un thème en général comme #hardware, et d'autres sont spécifiques aux langages comme #python. Afin de pouvoir accéder aux canaux, vous devez vous attribuer un rôle via rejoindre-les-canaux.
+
+**Demander de l'aide**  
+Pour faire une demande d'aide efficace, veillez à directement poser votre question **en incluant le plus d'informations possibles** au lieu de demander si quelqu'un est disponible.
+
+**Partager son code**  
+N'utilisez pas de capture d'écran de votre code mais plutôt le Markdown intégré de Discord. Si votre code est trop long, vous pouvez utiliser un service tiers comme https://paste.artemix.org/.
+```
+
 ### borderline
 
 ```markdown
