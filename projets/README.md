@@ -8,6 +8,7 @@ Not a Name propose un canal dédié à certains projets réalisés par les membr
 - [Cycle](cycle.md)
 - [Factorio](factorio.md)
 - [Hand 2 Hand](hand2hand.md)
+- [incipyt](incipyt.md)
 - [Nazara Engine](nazara.md)
 - [Neuroshok](neuroshok.md)
 - [Not A Hub](notahub.md)
@@ -18,4 +19,3 @@ Not a Name propose un canal dédié à certains projets réalisés par les membr
 - [Squirrel](squirrel.md)
 - [Starxium](starxium.md)
 - [Utopia](utopia.md)
-- [incipyt](incipyt.md)
