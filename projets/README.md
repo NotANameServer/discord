@@ -14,7 +14,6 @@ Not a Name propose un canal dédié à certains projets réalisés par les membr
 - [Not A Hub](notahub.md)
 - [ProjectW](projectw.md)
 - [RaZ](raz.md)
-- [Sielo](sielo.md)
 - [Skift](skift.md)
 - [Squirrel](squirrel.md)
 - [Starxium](starxium.md)
