@@ -181,7 +181,7 @@ Discord :  https://discord.gg/Xfn2zNN | Hand2Hand
 | #notahub | https://github.com/NotANameServer/Not-a-Hub | Not a Hub |
 | #projectw | ProjectW est un jeu multijoueur coopératif bac à sable, orienté action/aventure, en vue du dessus. Il est développé en C++, sur un moteur maison. | ProjectW |
 | #raz | Moteur de jeu multi-plateforme en C++17 : https://github.com/Razakhel/RaZ. N'hésitez pas à star le projet et rejoindre le serveur Discord dédié :  https://discord.gg/25YGDED ! | RaZ |
-| #skift | https://github.com/skiftOS/skift/ - Le système d'exploitation skift | Skift |
+| #skift | https://skiftos.org/ - Le système d'exploitation skift | Skift |
 | #squirrel | Squirrel est un projet communautaire ayant pour but d'aider les particuliers, professionnels et collectifs à s'organiser à travers un assistant automatisé. | Squirrel |
 | #starxium |  | Starxium |
 | #utopia | Jeu de programmation en réseau dont le développement est streamé sur Twitch: https://github.com/DigitalPulseSoftware/Erewhon-Game<br>https://www.twitch.tv/sirlynixvanfrietjes | Utopia |
