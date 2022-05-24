@@ -177,7 +177,7 @@ Le contenu se complète au fur et à mesure, et Hand2Hand a encore un long chemi
 Discord :  https://discord.gg/Xfn2zNN | Hand2Hand
 | #incipyt | incipyt est un projet démarré sous l'impulsion de @Nolent, membre habitué du salon #python ici sur NaN, qui a pour but de fournir un outil pour bootstraper un projet Python. Le projet servira à initialiser un repo git, à initialiser un pyproject.toml ainsi que l'ensemble des outils que l'utilisateur aura décidé d'utiliser pour son projet au moyen d'un wizard en CLI et d'une ligne de commande. Le projet a débuté sur base du constat que l'écosystème du packaging Python est un écosystème qui est en forte évolution depuis 2018 et que la documentation n'est pas correctement à jour. Au moyen de ce projet, nous lisons toutes les PEP et best-practices, étudions les projets existants (setuptools, poetry, etc.) et proposons un logiciel correct, documenté avec des valeurs par défaut qui reflètent les best-practices de l'écosystème Python. | Incipyt |
 | #nazara-engine | https://github.com/DigitalPulseSoftware/NazaraEngine | Nazara |
-| #neuroshok | https://github.com/ads00 | Neuroshok |
+| #nxi-browser | nxi est un navigateur flexible, modulable et entièrement customisable apportant de nouvelles fonctionnalités manquantes dans les navigateur classiques | Neuroshok |
 | #notahub | https://github.com/NotANameServer/Not-a-Hub | Not a Hub |
 | #projectw | ProjectW est un jeu multijoueur coopératif bac à sable, orienté action/aventure, en vue du dessus. Il est développé en C++, sur un moteur maison. | ProjectW |
 | #raz | Moteur de jeu multi-plateforme en C++17 : https://github.com/Razakhel/RaZ. N'hésitez pas à star le projet et rejoindre le serveur Discord dédié :  https://discord.gg/25YGDED ! | RaZ |
