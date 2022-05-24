@@ -57,7 +57,7 @@ Les rôles dits *colorés* permettent aux membres d'arborer les couleurs de leur
 
 Les rôles *projets* donnent accès aux salons dédié au développement des projets que les membres ont décidés de développer dans le cadre de NotAName.
 
-- RetroDev
+- Altair
 - SkiftOS
 - Cycle
 - Nazara Engine
@@ -168,21 +168,21 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 
 | Salon | Description | Accès |
 | ----- | ----------- | ----- |
-| #projet-cycle | https://github.com/hrkz/cycle ou via l'interface interactive https://hrkz.github.io/omega/ | Cycle |
-| #projet-factorio | | Factorio |
-| #projet-hand2hand | **Hand2Hand project** (pouvant être anequedotiquement appellé "Jeu de vilain" en français) est un jeu de combat en un contre un en 2D développé en pureBasic (version de démo). Chaque joueur contrôle une main qui se font face, l'objet tenu indique le "personnage" joué. Il est fortement inspiré de Street-fighter et de ses équivalents.<br>**FlameofChange** s'occupe de l'intégralité du jeu, de sa conception, son développement et de (presque tous) ses assets. Il se peut qu'il existe des contributeurs qui apportent leur soutient pour des éléments annexes.<br>Discord :  https://discord.gg/Xfn2zNN | (nécessite le rôle Hand2Hand)
-| #projet-nazara | https://github.com/DigitalPulseSoftware/NazaraEngine | Nazara Engine |
-| #projet-neuroshok | https://github.com/ads00 | Neuroshok |
-| #projet-notanengine |  | NotAnEngine |
-| #projet-notahub | https://github.com/NotANameServer/Not-a-Hub | Not a Hub |
-| #projet-projectw | ProjectW est un jeu multijoueur coopératif bac à sable, orienté action/aventure, en vue du dessus. Il est développé en C++, sur un moteur maison. | ProjectW |
-| #projet-raz | Moteur de jeu multi-plateforme en C++17 : https://github.com/Razakhel/RaZ. N'hésitez pas à star le projet et rejoindre le serveur Discord dédié :  https://discord.gg/25YGDED ! | RaZ |
-| #projet-retrodev | | RetroDev |
-| #projet-sielo | channel pour tout ce qui concerne Sielo. Donnez votre avis ou venez juste vous tenir au courant des nouveautés. =D | Sielo |
-| #projet-skift | https://github.com/skiftOS/skift/ - Le système d'exploitation skift | Skift |
-| #projet-squirrel | Squirrel est un projet communautaire ayant pour but d'aider les particuliers, professionnels et collectifs à s'organiser à travers un assistant automatisé. | Squirrel |
-| #projet-starxium |  | Starxium |
-| #projet-utopia | Jeu de programmation en réseau dont le développement est streamé sur Twitch: https://github.com/DigitalPulseSoftware/Erewhon-Game<br>https://www.twitch.tv/sirlynixvanfrietjes | Utopia |
+| #altair | https://github.com/Kannagi/AltairX | Altair |
+| #cycle | https://github.com/hrkz/cycle ou via l'interface interactive https://hrkz.github.io/omega/ | Cycle |
+| #factorio | | Factorio |
+| #hand2hand | **Hand2Hand project** (pouvant être anequedotiquement appellé "Jeu de vilain" en français) est un jeu de combat en un contre un en 2D développé en pureBasic (version de démo). Chaque joueur contrôle une main qui se font face, l'objet tenu indique le "personnage" joué. Il est fortement inspiré de Street-fighter et de ses équivalents.<br>**FlameofChange** s'occupe de l'intégralité du jeu, de sa conception, son développement et de (presque tous) ses assets. Il se peut qu'il existe des contributeurs qui apportent leur soutient pour des éléments annexes.<br>Discord :  https://discord.gg/Xfn2zNN | (nécessite le rôle Hand2Hand)
+| #nazara | https://github.com/DigitalPulseSoftware/NazaraEngine | Nazara Engine |
+| #neuroshok | https://github.com/ads00 | Neuroshok |
+| #notanengine |  | NotAnEngine |
+| #notahub | https://github.com/NotANameServer/Not-a-Hub | Not a Hub |
+| #projectw | ProjectW est un jeu multijoueur coopératif bac à sable, orienté action/aventure, en vue du dessus. Il est développé en C++, sur un moteur maison. | ProjectW |
+| #raz | Moteur de jeu multi-plateforme en C++17 : https://github.com/Razakhel/RaZ. N'hésitez pas à star le projet et rejoindre le serveur Discord dédié :  https://discord.gg/25YGDED ! | RaZ |
+| #sielo | channel pour tout ce qui concerne Sielo. Donnez votre avis ou venez juste vous tenir au courant des nouveautés. =D | Sielo |
+| #skift | https://github.com/skiftOS/skift/ - Le système d'exploitation skift | Skift |
+| #squirrel | Squirrel est un projet communautaire ayant pour but d'aider les particuliers, professionnels et collectifs à s'organiser à travers un assistant automatisé. | Squirrel |
+| #starxium |  | Starxium |
+| #utopia | Jeu de programmation en réseau dont le développement est streamé sur Twitch: https://github.com/DigitalPulseSoftware/Erewhon-Game<br>https://www.twitch.tv/sirlynixvanfrietjes | Utopia |
 
 ### Canaux vocaux
 
