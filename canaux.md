@@ -60,7 +60,6 @@ Les rôles *projets* donnent accès aux salons dédié au développement des pro
 - RetroDev
 - SkiftOS
 - Cycle
-- RPiSequencer
 - Nazara Engine
 - Neuroshok
 - Not a Hub
@@ -179,7 +178,6 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | #projet-projectw | ProjectW est un jeu multijoueur coopératif bac à sable, orienté action/aventure, en vue du dessus. Il est développé en C++, sur un moteur maison. | ProjectW |
 | #projet-raz | Moteur de jeu multi-plateforme en C++17 : https://github.com/Razakhel/RaZ. N'hésitez pas à star le projet et rejoindre le serveur Discord dédié :  https://discord.gg/25YGDED ! | RaZ |
 | #projet-retrodev | | RetroDev |
-| #projet-rpisequencer | | RPiSequencer |
 | #projet-sielo | channel pour tout ce qui concerne Sielo. Donnez votre avis ou venez juste vous tenir au courant des nouveautés. =D | Sielo |
 | #projet-skift | https://github.com/skiftOS/skift/ - Le système d'exploitation skift | Skift |
 | #projet-squirrel | Squirrel est un projet communautaire ayant pour but d'aider les particuliers, professionnels et collectifs à s'organiser à travers un assistant automatisé. | Squirrel |

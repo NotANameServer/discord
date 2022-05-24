@@ -13,7 +13,6 @@ Not a Name propose un canal dédié à certains projets réalisés par les membr
 - [ProjectW](projectw.md)
 - [RaZ](raz.md)
 - [RetroDev](retrodev.md)
-- [RPiSequencer](rpisequencer.md)
 - [Sielo](sielo.md)
 - [Skift](skift.md)
 - [Squirrel](squirrel.md)
