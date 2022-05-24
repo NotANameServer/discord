@@ -57,7 +57,7 @@ Les rôles dits *colorés* permettent aux membres d'arborer les couleurs de leur
 
 Les rôles *projets* donnent accès aux salons dédié au développement des projets que les membres ont décidés de développer dans le cadre de NotAName.
 
-- Altair
+- AltairX
 - SkiftOS
 - Cycle
 - Nazara Engine
@@ -167,7 +167,7 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 
 | Salon | Description | Accès |
 | ----- | ----------- | ----- |
-| #altair | https://github.com/Kannagi/AltairX | Altair |
+| #altairx | Conception d'un processeur VLIW en utilisant des techniques modernes - https://github.com/Kannagi/AltairX | AltairX |
 | #cycle | https://github.com/hrkz/cycle ou via l'interface interactive https://hrkz.github.io/omega/ | Cycle |
 | #factorio | | Factorio |
 | #hand2hand | **Hand2Hand project** (pouvant être anequedotiquement appellé "Jeu de vilain" en français) est un jeu de combat en un contre un en 2D développé en pureBasic (version de démo). Chaque joueur contrôle une main qui se font face, l'objet tenu indique le "personnage" joué. Il est fortement inspiré de Street-fighter et de ses équivalents.<br>**FlameofChange** s'occupe de l'intégralité du jeu, de sa conception, son développement et de (presque tous) ses assets. Il se peut qu'il existe des contributeurs qui apportent leur soutient pour des éléments annexes.<br>Discord :  https://discord.gg/Xfn2zNN | (nécessite le rôle Hand2Hand)

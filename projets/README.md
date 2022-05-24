@@ -4,7 +4,7 @@ Not a Name propose un canal dédié à certains projets réalisés par les membr
 
 # Liste des projets actuels
 
-- [Altair](altair.md)
+- [AltairX](altairx.md)
 - [Cycle](cycle.md)
 - [Factorio](factorio.md)
 - [Hand 2 Hand](hand2hand.md)
