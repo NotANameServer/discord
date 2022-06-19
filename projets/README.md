@@ -6,7 +6,6 @@ Not a Name propose un canal dédié à certains projets réalisés par les membr
 
 - [AltairX](altairx.md)
 - [Cycle](cycle.md)
-- [Factorio](factorio.md)
 - [Hand 2 Hand](hand2hand.md)
 - [incipyt](incipyt.md)
 - [Nazara Engine](nazara.md)

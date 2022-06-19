@@ -30,7 +30,6 @@ Les rôles dits *non-colorés* sont les rôles qui donnent accès aux salons dé
 - Rendu 3D (3D)
 - Base de Données (DB)
 - Système et réseau
-- Factorio
 - Développement de jeux vidéos (Game-Dev)
 - Développement de bots Discord (Bots Discord)
 
@@ -169,7 +168,6 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | ----- | ----------- | ----- |
 | #altairx | Conception d'un processeur VLIW en utilisant des techniques modernes - https://github.com/Kannagi/AltairX | AltairX |
 | #cycle | https://github.com/hrkz/cycle ou via l'interface interactive https://hrkz.github.io/omega/ | Cycle |
-| #factorio | | Factorio |
 | #hand2hand | **Hand2Hand projet** est un jeu de combat... de mains ! Chaque joueur contrôle une main tenant un objet servant à la fois d'arme et d'identificateur.<br>
 Les combos sont sous la forme d'arbres, rater une attaque fait recommencer du début en payant une recovery.<br>
 Le jeu est codé en **Purebasic**, facilitant la mise en place de jeux compacts. **FlameofChange** s'en occupe tout seul depuis décembre 2019, à l'exception de contributeurs spontanés, des sons "empruntés" et de petites libraries.<br>
