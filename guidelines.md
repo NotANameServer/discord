@@ -12,7 +12,7 @@ Nous vous demandons de faire preuve de patience et de bienveillance, la communau
 
 Les salons sérieux portent le nom et la description de la technologie ou du sujet auxquels ils sont dédiés. Par exemple, le canal #python est dédié à l'aide concernant le langage Python. Le canal #bots-discord quant à lui est dédié à la création de bots Discord, quel que soit le langage.
 
-Les catégories *Technologies*, *Languages* et *Rendu 3D* ainsi que les salons #infographie, #sciences, #etudes et #questions-professionnelles sont des salons sérieux.
+Les catégories *Technologies*, *Languages* et *Rendu 3D* ainsi que les salons #sciences, #etudes et #questions-professionnelles sont des salons sérieux.
 
 Les salons où les discussions hors-sujet sont les bienvenues sont #discussions et #detente.
 
