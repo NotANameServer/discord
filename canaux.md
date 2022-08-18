@@ -159,7 +159,6 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | ----- | ----------- | ----- |
 | #commandes-bots | Pour tous vos tests de commandes sur les bots, histoire de ne pas polluer les autres salons | |
 | #etudes | Des interrogations sur votre parcours scolaire ? C'est par ici ! | |
-| #infographie | Le canal pour ceux qui se sentent l'âme d'un artiste. | |
 | #jeux | Venez discuter de vos jeux favoris | |
 | #sciences | Une question concernant les sciences en général (Physique, Chimie, Math, ...) ? Vous êtes le bienvenu. | |
 
