@@ -127,6 +127,12 @@ Le salon #offres permet de poster des offres d'emploi au sein de notre communaut
 
 Le salon #live vous donne la possibilité de publier vos annonces de live Twitch/YouTube sur les sujets dans l'axe du serveur. Nous attendons une activité régulière sur votre chaîne. Nous avons moyen de régler les annonces pour ne pas notifier les membres lorsque vous faites un live sur un sujet tiers. Pensez simplement à le préciser dans votre demande.
 
+### A propos des débats
+
+Les débats doivent se dérouler dans le calme et chaque parti doit faire preuve d'honnêteté intellectuelle. Faire preuve d'honnêteté intellectuelle c'est oser se remettre en question, avancer des sources les plus neutres et fiables possibles et correctement contextualiser son propos. Le but d'un débat est de faire remonter la vérité, comprendre où se situe le juste milieu entre le vrai, l’imprécis et le faux. Le tout dans un objectif d'apporter des éclaircissements que tout un chacun puisse mieux comprendre le sujet débattu ainsi que les enjeux des différentes propositions.  
+  
+De ce fait les propos négationnistes, trompeurs, démagogues ou trop virulents n'ont pas leur place sur NaN. Le staff se réserve le droit de mettre fin à tout débat qui s'avère stérile et de sanctionner les individus qui se seraient démarqués par leur incapacité à débattre dans le calme.
+
 ## Méta
 
 ### Le GitHub
