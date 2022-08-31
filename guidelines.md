@@ -47,6 +47,14 @@ En ce qui concerne la fonctionnalité "répondre" de discord, celle-ci sert surt
 
 Ceux qui ne sont pas dérangés par les notifications peuvent se renommer pour ajouter l'emoticon 🛎️ `:bellhop_bell:` à leur pseudo.
 
+### A propos des débats
+
+Les débats doivent se dérouler dans le calme et chaque parti doit faire preuve d'honnêteté et de charité intellectuelle. Faire preuve d'honnêteté intellectuelle c'est oser se remettre en question, avancer des sources les plus neutres et fiables possibles et correctement contextualiser son propos. Faire preuve de charité intellectuelle c'est chercher à avoir l'interprétation la plus positive possible du discours des autres.  À l'inverse, véhiculer des idées toutes faites, mal sourcées ou sortie de leur contexte dans le seul but de convaincre n'est pas de l'honnêteté intellectuelle.
+
+Le but d'un débat est de comprendre où se situe le vrai, l’imprécis et le faux. Il s'agit aussi de mieux comprendre les idées et opinions de tout un chacun pour enrichir sa propre vision du monde.
+
+De ce fait les propos négationnistes, faux, trompeurs, démagogues, trop virulents ou contraire au consensus scientifique n'ont pas leur place sur NaN. En accord avec la charte de Discord, le staff se réserve le droit de mettre fin à tout débat qui s'avère stérile voire de sanctionner les individus qui se seraient démarqués par leur incapacité à débattre.
+
 ### Les ambassadeurs
 
 Les ambassadeurs sont des membres habitués qui font un travail de fond dans le salon technique dont ils sont ambassadeurs. Ils assurent la pérennité des échanges, animent leurs salons et servent de pont avec le staff. Ils sont également à l'origine de l'organisation des défis.
