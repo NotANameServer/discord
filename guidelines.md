@@ -49,7 +49,7 @@ Ceux qui ne sont pas dérangés par les notifications peuvent se renommer pour a
 
 ### A propos des débats
 
-Les débats doivent se dérouler dans le calme et chaque parti doit faire preuve d'honnêteté et de charité intellectuelle. Faire preuve d'honnêteté intellectuelle c'est oser se remettre en question, avancer des sources les plus neutres et fiables possibles et correctement contextualiser son propos. Faire preuve de charité intellectuelle c'est chercher à avoir l'interprétation la plus positive possible du discours des autres.  À l'inverse, véhiculer des idées toutes faites, mal sourcées ou sortie de leur contexte dans le seul but de convaincre n'est pas de l'honnêteté intellectuelle.
+Les débats doivent se dérouler dans le calme et chaque parti doit faire preuve d'honnêteté et de charité intellectuelle. Faire preuve d'honnêteté intellectuelle c'est oser se remettre en question, avancer des sources les plus neutres et fiables possibles et correctement contextualiser son propos. Le principe de charité est un type de compréhension des propos d'autrui qui consiste à attribuer aux déclarations de ce dernier un maximum de rationalité ([wiki](https://fr.wikipedia.org/wiki/Principe_de_charit%C3%A9)).  À l'inverse, véhiculer des idées toutes faites, mal sourcées ou sortie de leur contexte dans le seul but de convaincre n'est pas de l'honnêteté intellectuelle.
 
 Le but d'un débat est de comprendre où se situe le vrai, l’imprécis et le faux. Il s'agit aussi de mieux comprendre les idées et opinions de tout un chacun pour enrichir sa propre vision du monde.
 
