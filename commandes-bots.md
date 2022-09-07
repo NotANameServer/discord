@@ -99,11 +99,38 @@ Pour apprendre le HTML et le CSS, je te conseille <https://marksheet.io/> (en an
 
 ### coursjava
 
-```markdown
-Voici quelques liens pour apprendre le Java :
-- Cours Java2s (anglais) : <http://java2s.com/>
-- Cours jmdoudoux (français) : <https://www.jmdoudoux.fr/java/dej/indexavecframes.htm>
-- Vidéos Koor (français) : <https://www.youtube.com/channel/UCl8T9GRhma8C2PaRfGIjOtA/playlists>
+```json
+{
+  "embed":{
+    "color":16292119,
+    "fields":[{
+        "name":":closed_book: Cours par jmdoudoux",
+        "value":"Cours en français sur le Java, par jmdoudoux : [Développons en Java](https://www.jmdoudoux.fr/java/dej/indexavecframes.htm)",
+        "inline":false
+      },{
+        "name":":page_facing_up: Tutoriels Java2S",
+        "value":"Tutoriels Java, en anglais: [Java2S](http://java2s.com/)",
+        "inline":false
+      },{
+        "name":":movie_camera: Cours sur Java par Dominique Liard (Koor.fr)",
+        "value":"Playlists de cours sur Java par Dominique Liard (Koor.fr) : \n[Dominique Liard (Koor.fr)](https://www.youtube.com/channel/UCl8T9GRhma8C2PaRfGIjOtA/playlists)",
+        "inline":false
+      },{
+        "name":":movie_camera: Cours sur Java par José Paumard",
+        "value":"Chaine youtube de cours sur Java par José Paumard : \n[José Paumard](https://www.youtube.com/channel/UCIatmtIm9z5YEWuHbrUMLsw)",
+        "inline":false
+      },{
+        "name":":pushpin: Messages épinglés",
+        "value":"Pensez à regarder également dans les messages épinglés, des ressources y sont listées.",
+        "inline":false
+      }],
+    "author":{
+      "name":"Cours sur le langage Java",
+      "icon_url":"https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png",
+      "url":"https://adoptopenjdk.net"
+    }
+  }
+}
 ```
 
 ### coursjs
@@ -209,7 +236,7 @@ Informations sur la création de bots Discord
 
 ⚠ Avertissement
 Pas mal de personnes veulent créer un bot Discord, mais s'il vous plaît, **apprenez déjà un langage de programmation** ainsi que **les outils nécessaires**.
-Vous pouvez créer un bot avec différents langages de programmation (JavaScript, Python, C#, etc.).
+Vous pouvez créer un bot avec différents langages de programmation ( Script, Python, C#, etc.).
 Mais cela demande d'avoir des bases dans ce langage et la compréhension de certaines notions.
 
 ❓ Je ne comprends rien
