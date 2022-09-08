@@ -145,4 +145,4 @@ Not a Name met à disposition toute sa configuration sur un dépôt GitHub. Vous
 
 ### Contacter le staff
 
-Le staff peut être contacté par le système de ticket via la commande `!newticket`. Cette commande vous créera un canal privé dans lequel vous pouvez converser avec le staff et les ambassadeurs.
+Le staff peut être contacté par le système de ticket via le bouton dédié ci-dessous (aussi présent dans le canal [#regles](https://discord.com/channels/323076998576603137/358924179954860033/965612387635978260)) ou via la commande `!newticket`. Cela vous créera un canal privé dans lequel vous pouvez converser avec le staff et les ambassadeurs.
