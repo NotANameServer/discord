@@ -158,7 +158,7 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | Salon | Description | Accès |
 | ----- | ----------- | ----- |
 | #commandes-bots | Pour tous vos tests de commandes sur les bots, histoire de ne pas polluer les autres salons | |
-| #etudes | Des interrogations sur votre parcours scolaire ? C'est par ici ! | |
+| #etudes-orientation | Des interrogations sur votre parcours scolaire ? C'est par ici ! | |
 | #jeux | Venez discuter de vos jeux favoris | |
 | #sciences | Une question concernant les sciences en général (Physique, Chimie, Math, ...) ? Vous êtes le bienvenu. | |
 
