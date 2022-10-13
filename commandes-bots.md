@@ -34,7 +34,7 @@ NaN ne cautionne pas l'aide apportée sur des sujets où la légalité est doute
 ```json
 {
   "embed":{
-    "description":"Pour les non-connaisseurs de Discord, il existe un moyen de poster du code bien formaté, lisible et coloré. Référez-vous à la documentation de Discord :\n\n<https://support.discord.com/hc/fr/articles/210298617-Bases-de-la-mise-en-forme-de-texte-Markdown-mise-en-forme-du-chat-gras-italique-soulign%C3%A9>.\n\nSi votre code est assez long, preferez plutôt l'envoi d'un fichier (avec la bonne extension!) directement, Discord saura le mettre en forme pour qu'on puisse le lire ou le télécharger.\n\nMerci de **ne pas envoyer** de screenshot/photo de votre code directement.",
+    "description":"Pour les non-connaisseurs de Discord, il existe un moyen de poster du code bien formaté, lisible et coloré. Référez-vous à la documentation de Discord :\n\n<https://support.discord.com/hc/fr/articles/210298617-Bases-de-la-mise-en-forme-de-texte-Markdown-mise-en-forme-du-chat-gras-italique-souligné>.\n\nSi votre code est assez long, preferez plutôt l'envoi d'un fichier (avec la bonne extension!) directement, Discord saura le mettre en forme pour qu'on puisse le lire ou le télécharger.\n\nMerci de **ne pas envoyer** de screenshot/photo de votre code directement.",
     "title":"Poster du code (`!code`)",
     "color":8323199
   }
