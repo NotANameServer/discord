@@ -175,7 +175,7 @@ Le contenu se complète au fur et à mesure, et Hand2Hand a encore un long chemi
 Discord :  https://discord.gg/Xfn2zNN | Hand2Hand
 | #incipyt | Outil pour bootstraper un projet Python <https://github.com/NotANameServer/incipyt> | Incipyt |
 | #nazara-engine | https://github.com/DigitalPulseSoftware/NazaraEngine | Nazara |
-| #nxi-browser | nxi est un navigateur flexible, modulable et entièrement customisable apportant de nouvelles fonctionnalités manquantes dans les navigateur classiques | Neuroshok |
+| #nverse | Jeu PvP en team style arènes ou FFA sur des maps avec plusieurs dimensions | Neuroshok |
 | #notahub | https://github.com/NotANameServer/Not-a-Hub | Not a Hub |
 | #projectw | ProjectW est un jeu multijoueur coopératif bac à sable, orienté action/aventure, en vue du dessus. Il est développé en C++, sur un moteur maison. | ProjectW |
 | #raz | Moteur de jeu multi-plateforme en C++17 : https://github.com/Razakhel/RaZ. N'hésitez pas à star le projet et rejoindre le serveur Discord dédié :  https://discord.gg/25YGDED ! | RaZ |
