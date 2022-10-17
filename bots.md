@@ -22,7 +22,7 @@ Bot de programmation gérant la documentation / possibilité d'exécuter des scr
 
 Compte : RTFM#1338 (495914599531675648)  
 Site : https://top.gg/bot/495914599531675648  
-GitHub : https://github.com/FrenchMasterSword/RTFMbot
+GitHub : [https://github.com/FrenchMasterSword/RTFMbot](https://github.com/Unactived/RTFMbot)
 
 ## TeXit
 
