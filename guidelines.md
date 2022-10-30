@@ -20,9 +20,9 @@ Les salons où les discussions hors-sujet sont les bienvenues sont #discussions 
 
 La plupart des salons sont invisibles, vous pouvez les rendre visibles via le menu se trouvant dans #rejoindre-les-canaux.
 
-### L'aide en message privé (`!mp`)
+### L'aide en privé (`!mp`, `!vocal`)
 
-Sur Not a Name, on ne préconise pas l'aide en message privé. Votre problème est peut-être partagé par un autre membre, ou votre question peut en intéresser d'autres. De plus, si une unique personne vous aide et que sa façon de faire est déconseillée, vous vous retrouverez avec d'autres problèmes sur les bras ; là ou une multitude d'autres membres auraient souligné ces mauvaises pratiques.
+Sur Not a Name, on ne préconise pas l'aide en privé, que ce soit par message privé ou bien en vocal. Votre problème est peut-être partagé par un autre membre, ou votre question peut en intéresser d'autres. De plus, si une unique personne vous aide et que sa façon de faire est déconseillée, vous vous retrouverez avec d'autres problèmes sur les bras ; là ou une multitude d'autres membres auraient souligné ces mauvaises pratiques.
 
 ### L'aide en vocal (`!vocal`)
 
