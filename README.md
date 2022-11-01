@@ -9,6 +9,8 @@ Vous pouvez suggérer une modification en créant une issue ou une pull request.
 
 # Sommaire
 
+- [Assets (repository dedié)](https://github.com/NotANameServer/assets)
+- [Blog (repository dedié)](https://github.com/NotANameServer/Not-a-Hub)
 - [Bots](bots.md)
 - [Canaux](canaux.md)
 - [Commandes Bots](commandes-bots.md)
