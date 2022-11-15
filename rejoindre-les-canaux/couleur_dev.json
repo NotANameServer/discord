@@ -1,0 +1,288 @@
+{
+    "embed": {
+        "description": "Vous pouvez aussi, si vous le désirez, prendre un rôle \"Développeur\" de votre choix, ces rôles servent à vous identifier dans la communauté par rapport aux langages de programmation.\n**Ils ne sont en aucun cas témoins d'un quelconque savoir-faire, juste d'une passion pour un langage en particulier et une envie de discuter de celui-ci.**",
+    },
+    "components": [
+        {
+            "type": 1,
+            "components": [
+                {
+                    "discard_selection": true,
+                    "placeholder": "Choisir le rôle developpeur coloré",
+                    "type": 3,
+                    "max_values": 1,
+                    "min_values": 1,
+                    "options": [
+                        {
+                            "label": "ASM",
+                            "actions": [
+                                { "type": "removerole", "value": "441943729625104394" },
+                                { "type": "removerole", "value": "357479088660807680" },
+                                { "type": "removerole", "value": "358725950013440011" },
+                                { "type": "removerole", "value": "440597044579663873" },
+                                { "type": "removerole", "value": "365771201596882946" },
+                                { "type": "removerole", "value": "358722221650345997" },
+                                { "type": "removerole", "value": "440596547290529792" },
+                                { "type": "removerole", "value": "440596692539146251" },
+                                { "type": "removerole", "value": "358722149533351937" },
+                                { "type": "removerole", "value": "358724707165405195" },
+                                {
+                                    "type": "addrole",
+                                    "value": "470600885987442698"
+                                }
+                            ],
+                            "emoji":{
+                                "id":"470624442897399821"
+                            }
+                        },
+                        {
+                            "label": "C",
+                            "actions": [
+                                { "type": "removerole", "value": "470600885987442698" },
+                                { "type": "removerole", "value": "357479088660807680" },
+                                { "type": "removerole", "value": "358725950013440011" },
+                                { "type": "removerole", "value": "440597044579663873" },
+                                { "type": "removerole", "value": "365771201596882946" },
+                                { "type": "removerole", "value": "358722221650345997" },
+                                { "type": "removerole", "value": "440596547290529792" },
+                                { "type": "removerole", "value": "440596692539146251" },
+                                { "type": "removerole", "value": "358722149533351937" },
+                                { "type": "removerole", "value": "358724707165405195" },
+                                {
+                                    "type": "addrole",
+                                    "value": "441943729625104394"
+                                }
+                            ],
+                            "emoji":{
+                                "id":"437930011521974272"
+                            }
+                        },
+                        {
+                            "label": "C++",
+                            "actions": [
+                                { "type": "removerole", "value": "470600885987442698" },
+                                { "type": "removerole", "value": "441943729625104394" },
+                                { "type": "removerole", "value": "358725950013440011" },
+                                { "type": "removerole", "value": "440597044579663873" },
+                                { "type": "removerole", "value": "365771201596882946" },
+                                { "type": "removerole", "value": "358722221650345997" },
+                                { "type": "removerole", "value": "440596547290529792" },
+                                { "type": "removerole", "value": "440596692539146251" },
+                                { "type": "removerole", "value": "358722149533351937" },
+                                { "type": "removerole", "value": "358724707165405195" },
+                                {
+                                    "type": "addrole",
+                                    "value": "357479088660807680"
+                                }
+                            ],
+                            "emoji":{
+                                "id":"324889181740466179"
+                            }
+                        },
+                        {
+                            "label": "C#",
+                            "actions": [
+                                { "type": "removerole", "value": "470600885987442698" },
+                                { "type": "removerole", "value": "441943729625104394" },
+                                { "type": "removerole", "value": "357479088660807680" },
+                                { "type": "removerole", "value": "440597044579663873" },
+                                { "type": "removerole", "value": "365771201596882946" },
+                                { "type": "removerole", "value": "358722221650345997" },
+                                { "type": "removerole", "value": "440596547290529792" },
+                                { "type": "removerole", "value": "440596692539146251" },
+                                { "type": "removerole", "value": "358722149533351937" },
+                                { "type": "removerole", "value": "358724707165405195" },
+                                {
+                                    "type": "addrole",
+                                    "value": "358725950013440011"
+                                }
+                            ],
+                            "emoji":{
+                                "id":"436841440048447488"
+                            }
+                        },
+                        {
+                            "label": "HTML / CSS",
+                            "actions": [
+                                { "type": "removerole", "value": "470600885987442698" },
+                                { "type": "removerole", "value": "441943729625104394" },
+                                { "type": "removerole", "value": "357479088660807680" },
+                                { "type": "removerole", "value": "358725950013440011" },
+                                { "type": "removerole", "value": "365771201596882946" },
+                                { "type": "removerole", "value": "358722221650345997" },
+                                { "type": "removerole", "value": "440596547290529792" },
+                                { "type": "removerole", "value": "440596692539146251" },
+                                { "type": "removerole", "value": "358722149533351937" },
+                                { "type": "removerole", "value": "358724707165405195" },
+                                {
+                                    "type": "addrole",
+                                    "value": "440597044579663873"
+                                }
+                            ],
+                            "emoji":{
+                                "id":"436841854328242181"
+                            }
+                        },
+                        {
+                            "label": "Lua",
+                            "actions": [
+                                { "type": "removerole", "value": "470600885987442698" },
+                                { "type": "removerole", "value": "441943729625104394" },
+                                { "type": "removerole", "value": "357479088660807680" },
+                                { "type": "removerole", "value": "358725950013440011" },
+                                { "type": "removerole", "value": "440597044579663873" },
+                                { "type": "removerole", "value": "358722221650345997" },
+                                { "type": "removerole", "value": "440596547290529792" },
+                                { "type": "removerole", "value": "440596692539146251" },
+                                { "type": "removerole", "value": "358722149533351937" },
+                                { "type": "removerole", "value": "358724707165405195" },
+                                {
+                                    "type": "addrole",
+                                    "value": "365771201596882946"
+                                }
+                            ],
+                            "emoji":{
+                                "id":"324883063475666944"
+                            }
+                        },
+                        {
+                            "description": "Et autres langages basés sur la JVM",
+                            "label": "Java (JVM)",
+                            "actions": [
+                                { "type": "removerole", "value": "470600885987442698" },
+                                { "type": "removerole", "value": "441943729625104394" },
+                                { "type": "removerole", "value": "357479088660807680" },
+                                { "type": "removerole", "value": "358725950013440011" },
+                                { "type": "removerole", "value": "440597044579663873" },
+                                { "type": "removerole", "value": "365771201596882946" },
+                                { "type": "removerole", "value": "440596547290529792" },
+                                { "type": "removerole", "value": "440596692539146251" },
+                                { "type": "removerole", "value": "358722149533351937" },
+                                { "type": "removerole", "value": "358724707165405195" },
+                                {
+                                    "type": "addrole",
+                                    "value": "358722221650345997"
+                                }
+                            ],
+                            "emoji":{
+                                "id":"324892791966793740"
+                            }
+                        },
+                        {
+                            "description": "Ainsi que Typescript",
+                            "label": "Javascript",
+                            "actions": [
+                                { "type": "removerole", "value": "470600885987442698" },
+                                { "type": "removerole", "value": "441943729625104394" },
+                                { "type": "removerole", "value": "357479088660807680" },
+                                { "type": "removerole", "value": "358725950013440011" },
+                                { "type": "removerole", "value": "440597044579663873" },
+                                { "type": "removerole", "value": "365771201596882946" },
+                                { "type": "removerole", "value": "358722221650345997" },
+                                { "type": "removerole", "value": "440596692539146251" },
+                                { "type": "removerole", "value": "358722149533351937" },
+                                { "type": "removerole", "value": "358724707165405195" },
+                                {
+                                    "type": "addrole",
+                                    "value": "440596547290529792"
+                                }
+                            ],
+                            "emoji":{
+                                "id":"438290351749332993"
+                            }
+                        },
+                        {
+                            "label": "PHP",
+                            "actions": [
+                                { "type": "removerole", "value": "470600885987442698" },
+                                { "type": "removerole", "value": "441943729625104394" },
+                                { "type": "removerole", "value": "357479088660807680" },
+                                { "type": "removerole", "value": "358725950013440011" },
+                                { "type": "removerole", "value": "440597044579663873" },
+                                { "type": "removerole", "value": "365771201596882946" },
+                                { "type": "removerole", "value": "358722221650345997" },
+                                { "type": "removerole", "value": "440596547290529792" },
+                                { "type": "removerole", "value": "358722149533351937" },
+                                { "type": "removerole", "value": "358724707165405195" },
+                                {
+                                    "type": "addrole",
+                                    "value": "440596692539146251"
+                                }
+                            ],
+                            "emoji":{
+                                "id":"437932294599344129"
+                            }
+                        },
+                        {
+                            "label": "Python",
+                            "actions": [
+                                { "type": "removerole", "value": "470600885987442698" },
+                                { "type": "removerole", "value": "441943729625104394" },
+                                { "type": "removerole", "value": "357479088660807680" },
+                                { "type": "removerole", "value": "358725950013440011" },
+                                { "type": "removerole", "value": "440597044579663873" },
+                                { "type": "removerole", "value": "365771201596882946" },
+                                { "type": "removerole", "value": "358722221650345997" },
+                                { "type": "removerole", "value": "440596547290529792" },
+                                { "type": "removerole", "value": "440596692539146251" },
+                                { "type": "removerole", "value": "358724707165405195" },
+                                {
+                                    "type": "addrole",
+                                    "value": "358722149533351937"
+                                }
+                            ],
+                            "emoji":{
+                                "id":"436841178936246272"
+                            }
+                        },
+                        {
+                            "label": "Rust",
+                            "actions": [
+                                { "type": "removerole", "value": "470600885987442698" },
+                                { "type": "removerole", "value": "441943729625104394" },
+                                { "type": "removerole", "value": "357479088660807680" },
+                                { "type": "removerole", "value": "358725950013440011" },
+                                { "type": "removerole", "value": "440597044579663873" },
+                                { "type": "removerole", "value": "365771201596882946" },
+                                { "type": "removerole", "value": "358722221650345997" },
+                                { "type": "removerole", "value": "440596547290529792" },
+                                { "type": "removerole", "value": "440596692539146251" },
+                                { "type": "removerole", "value": "358722149533351937" },
+                                {
+                                    "type": "addrole",
+                                    "value": "358724707165405195"
+                                }
+                            ],
+                            "emoji":{
+                                "id":"436842016559857664"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "components": [
+                {
+                    "type": 2,
+                    "style": 4,
+                    "label": "Retirer ce rôle",
+                    "actions": [
+                        { "type": "removerole", "value": "470600885987442698" },
+                        { "type": "removerole", "value": "441943729625104394" },
+                        { "type": "removerole", "value": "357479088660807680" },
+                        { "type": "removerole", "value": "358725950013440011" },
+                        { "type": "removerole", "value": "440597044579663873" },
+                        { "type": "removerole", "value": "365771201596882946" },
+                        { "type": "removerole", "value": "358722221650345997" },
+                        { "type": "removerole", "value": "440596547290529792" },
+                        { "type": "removerole", "value": "440596692539146251" },
+                        { "type": "removerole", "value": "358722149533351937" },
+                        { "type": "removerole", "value": "358724707165405195" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
