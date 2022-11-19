@@ -183,6 +183,7 @@ Discord :  https://discord.gg/Xfn2zNN | Hand2Hand
 | #squirrel | Squirrel est un projet communautaire ayant pour but d'aider les particuliers, professionnels et collectifs à s'organiser à travers un assistant automatisé. | Squirrel |
 | #starxium |  | Starxium |
 | #utopia | Jeu de programmation en réseau dont le développement est streamé sur Twitch: https://github.com/DigitalPulseSoftware/Erewhon-Game<br>https://www.twitch.tv/sirlynixvanfrietjes | Utopia |
+| #verya | Un projet de serveur Minecraft où sont revisitées les technologies déjà existantes comme BungeeCord ou ViaVersion en poussant les limites du jeu toujours plus loin. | Verya |
 
 ### Canaux vocaux
 
