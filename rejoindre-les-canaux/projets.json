@@ -1,6 +1,6 @@
 {
     "embed": {
-        "description": "Ce Discord regorge de projets dont **vous** êtes les auteurs, avec un canal par projet.\n\n**Rejoindre un projet ne signifie en aucun cas devoir y contribuer, la plupart de nos membres rejoignent les canaux de projet afin de pouvoir les suivre de plus près.**\n\n🇦 **Altair** par **Helba**\n-Conception d'un processeur en utilisant des techniques modernes\n\n🇧 **SkiftOS** par **Monax!**\n-Un système d’exploitation inspiré d’UNIX disposant d'une interface graphique écrit \"from scratch\" en 2ans.\n\n🇨 **Cycle** par **hrkz**\n-Modélisation mathématique et calcul symbolique en Rust.\n\n🇩 **Nazara Engine** par **Lynix**\n-Moteur de jeu complet écrit en C++14.\n\n🇪 **NVerse** par **Arkena**\n-Jeu PvP en team style arènes ou FFA sur des maps avec plusieurs dimensions\n\n🇫 **RaZ** par **Razakhel**\n-Moteur de jeu multi-plateforme en C++17, compatible Windows, Linux, macOS et Web.\n\n🇬 **ProjectW** par **DrGregougnass**\n-Jeu multijoueur bac à sable, orienté action/aventure, en vue du dessus\n\n🇭 **Incipyt** par les **développeurs python** <:nan:642454964836368386>\n-Incipyt est un initialiseur de projet Python, un cargo new plus complet pour bootstraper son environnement.\n\n🇮 **Utopia** par **Lynix**\n-Jeu de programmation en réseau dont le développement est streamé sur Twitch.\n\n🇯 **Hand 2 Hand** par **FlameofChange**\n-Jeu de combat 2D où deux mains s'affrontent avec divers objet du quotidien, leurs servant d'armes.\n\n🇰 **Starxium 20xx** par **Herobrine**\n-Starxium 20XX est un jeu vidéo compétitif rétro-futuriste avec des voitures, des néons et des synthés des années 80. Foncez à toute vitesse dans la nuit pour capturer un convoi avec vos coéquipiers !\n\n🇱 **Not a Hub** par **Not a Name** ! ( <:nan:642454964836368386> )\n-Not a Hub est un projet de site officiel lié au serveur dans un but de partage d'informations utiles en extension du Discord.\n\n",
+        "description": "Ce Discord regorge de projets dont **vous** êtes les auteurs, avec un canal par projet.\n\n**Rejoindre un projet ne signifie en aucun cas devoir y contribuer, la plupart de nos membres rejoignent les canaux de projet afin de pouvoir les suivre de plus près.**\n\n🇦 **Altair** par **Helba**\n-Conception d'un processeur en utilisant des techniques modernes\n\n🇧 **SkiftOS** par **Monax!**\n-Un système d’exploitation inspiré d’UNIX disposant d'une interface graphique écrit \"from scratch\" en 2ans.\n\n🇨 **Cycle** par **hrkz**\n-Modélisation mathématique et calcul symbolique en Rust.\n\n🇩 **Nazara Engine** par **Lynix**\n-Moteur de jeu complet écrit en C++14.\n\n🇪 **NVerse** par **Arkena**\n-Jeu PvP en team style arènes ou FFA sur des maps avec plusieurs dimensions\n\n🇫 **RaZ** par **Razakhel**\n-Moteur de jeu multi-plateforme en C++17, compatible Windows, Linux, macOS et Web.\n\n🇬 **ProjectW** par **DrGregougnass**\n-Jeu multijoueur bac à sable, orienté action/aventure, en vue du dessus\n\n🇭 **Incipyt** par les **développeurs #python**\n-Initialiseur de projet Python, un cargo new plus complet pour bootstraper son environnement.\n\n🇮 **Utopia** par **Lynix**\n-Jeu de programmation en réseau dont le développement est streamé sur Twitch.\n\n🇯 **Hand 2 Hand** par **FlameofChange**\n-Jeu de combat 2D où deux mains s'affrontent avec divers objet du quotidien, leurs servant d'armes.\n\n🇰 **Starxium 20xx** par **Herobrine**\n-Jeu vidéo compétitif rétro-futuriste avec des voitures, des néons et des synthés des années 80.\n\n🇱 **Not a Hub** par **Not a Name** ! ( <:nan:642454964836368386> )\n-Projet de site officiel lié au serveur dans un but de partage d'informations utiles en extension du Discord.\n\n🇲 **Verya** par **Delta** et **TableBasse**\n-Un projet de serveur Minecraft où sont revisitées les technologies déjà existantes comme BungeeCord ou ViaVersion en poussant les limites du jeu toujours plus loin.\n\n",
     },
     "components": [
         {
@@ -10,7 +10,7 @@
                     "discard_selection": true,
                     "placeholder": "Ajouter des rôles liés aux projets",
                     "type": 3,
-                    "max_values": 12,
+                    "max_values": 13,
                     "min_values": 1,
                     "options": [
                         {
@@ -179,6 +179,19 @@
                             "emoji": {
                               "id": null,
                               "name": "🇱"
+                            }
+                        }, {
+                            "description": "Un projet de serveur Minecraft où sont revisitées les technologies en poussant les limites du jeu.",
+                            "label": "Verya par Delta et TableBasse",
+                            "actions": [
+                                {
+                                    "type": "addrole",
+                                    "value": "1043545809653874789"
+                                }
+                            ],
+                            "emoji": {
+                              "id": null,
+                              "name": "🇲"
                             }
                         }
                     ]
@@ -362,6 +375,19 @@
                               "id": null,
                               "name": "🇱"
                             }
+                        }, {
+                            "description": "Un projet de serveur Minecraft où sont revisitées les technologies en poussant les limites du jeu.",
+                            "label": "Verya par Delta et TableBasse",
+                            "actions": [
+                                {
+                                    "type": "removerole",
+                                    "value": "1043545809653874789"
+                                }
+                            ],
+                            "emoji": {
+                              "id": null,
+                              "name": "🇲"
+                            }
                         }
                     ]
                 }
@@ -386,7 +412,8 @@
                         { "type": "removerole", "value": "374206281185230848" },
                         { "type": "removerole", "value": "679775503062007888" },
                         { "type": "removerole", "value": "452067577934381059" },
-                        { "type": "removerole", "value": "878273901950550067" }
+                        { "type": "removerole", "value": "878273901950550067" },
+                        { "type": "removerole", "value": "1043545809653874789" }
                     ]
                 }
             ]
