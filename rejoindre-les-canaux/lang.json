@@ -1,4 +1,5 @@
 {
+    "content": "**\n**",
     "embed": {
         "description": "<:langage_asm:470624442897399821> <:langage_c:437930011521974272> <:langage_cpp:324889181740466179> <:langage_csharp:436841440048447488> <:langage_haskell:876048239764307998> <:langage_html:436841854328242181> <:langage_java:324892791966793740> <:langage_js:438290351749332993> <:langage_lua:324883063475666944> <:langage_php:437932294599344129> <:langage_python:436841178936246272> <:langage_rust:436842016559857664> \n**Choix des langages:**\nChoisissez un ou plusieurs rôles dans la liste pour débloquer l'accès aux salons de langages de programmation.\nLa deuxième liste vous permet de les enlever.",
     },

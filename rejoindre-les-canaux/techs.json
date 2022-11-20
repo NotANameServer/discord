@@ -1,4 +1,5 @@
 {
+    "content": "**\n**",
     "embed": {
         "description": "🗄️ 🤖 🎮 ⚙️ 📺 🌐 \n**Choix des canaux technologiques:**\nNous disposons aussi de quelques canaux qui ne sont pas rattachées particulièrement à un langage mais plus à des technologies.\n\n📺 **Rendu 3D**\n- Canaux autour du rendu 3D en temps réel (de façon générale ou bien avec une API comme OpenGL, Vulkan, etc.)\n\n🗄️ **Base de données**\n- Discussions autour des SGBD, requêtes, SQL, NoSQL, etc.\n\n🌐 **Système et réseau**\n- Discussions autour de tout ce qui est infrastructures/protocoles/mécaniques liées au réseau ou discussions sur les systèmes d'exploitation (Windows, Linux, macOS, etc.)\n\n🎮 **Développement de jeux vidéos**\n- Canaux dédié aux développeurs de jeu vidéo\n\n🤖 **Développement de bots Discord**\n- Canal dédié au développement de bots discord, peu importe le langage\n\n⚙️ **Manufacture de langages**\n- Canal dédié à la création de parser et autre outils dédiés à la création/compréhension de langages.\n\n",
     },
