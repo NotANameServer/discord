@@ -101,7 +101,6 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | #live | Notre communauté propose quelques streameurs cool ! Retrouvez la liste épinglée. | @NotABot |
 | questions-professionnelles | Ce salon est réservé aux questions et discussions sur la vie professionnelle (entreprise, boulot, salaire), **merci de ne pas parler d'autre chose.** | |
 | #screenshots | Envie de partager ce sur quoi vous travaillez ? Montrez-nous en image ! ||
-| #talks | | |
 | #vos-projets | Salon de présentation de vos projets personnels. **Lisez le règlement épinglé avant d'y présenter un projet.** Toute discussion est interdite, merci de le faire dans un autre canal. | staff |
 | #defis |  |  |
 | #defis-discussions |  | Défis |
@@ -191,4 +190,3 @@ Discord :  https://discord.gg/Xfn2zNN | Hand2Hand
 | ----- | ----------- | ----- |
 | #vocal-jeux | | Joueur |
 | #vocal-sans-micro | Pour participer aux discussions en vocal sans micro | |
-| #vocal-reunion | | Pour participer aux discussions en vocal réunion |
