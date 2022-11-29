@@ -24,13 +24,9 @@ Les salons vocaux ont pour vocation d'être un endroit de discussions entre memb
 
 La plupart des salons sont invisibles, vous pouvez les rendre visibles via le menu se trouvant dans #rejoindre-les-canaux.
 
-### L'aide en message privé (`!mp`)
+### L'aide en message privé et en vocal (`!mp`, `!vocal`)
 
-Sur Not a Name, on ne préconise pas l'aide en message privé. Votre problème est peut-être partagé par un autre membre, ou votre question peut en intéresser d'autres. De plus, si une unique personne vous aide et que sa façon de faire est déconseillée, vous vous retrouverez avec d'autres problèmes sur les bras ; là ou une multitude d'autres membres auraient souligné ces mauvaises pratiques.
-
-### L'aide en vocal (`!vocal`)
-
-Les aides en vocal sont généralement déconseillées, afin de préserver un historique des demandes d'aides et d'éviter de répéter les mêmes explications de multiples fois. Cependant, vous ne serez pas pénalisés pour en parler si d'autres personnes peuvent déjà vous aider et sont déjà en vocal. Une demande dans un canal technique ou #discussions de venir en vocal sera généralement ignorée.
+Sur Not a Name, on ne préconise ni l'aide en message privé ni l'aide en vocal. Votre problème est peut-être partagé par un autre membre, ou votre question peut en intéresser d'autres. De plus, si une unique personne vous aide et que sa façon de faire est déconseillée, vous vous retrouverez avec d'autres problèmes sur les bras ; là ou une multitude d'autres membres auraient souligné ces mauvaises pratiques.
 
 ### Les mentions
 
