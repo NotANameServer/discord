@@ -18,7 +18,7 @@ Les salons où les discussions hors-sujet sont les bienvenues sont #discussions 
 
 ### Les salons vocaux
 
-Les salons vocaux ont pour vocation d'être un endroit de discussions entre membres habitués de NaN. Dans la ligné du point sur l'aide en vocal ci-dessous, ils ne peuvent pas servir dans l'unique but poser/répondre à des questions. En particulier les salons vocaux servent aussi de point de rendez-vous pour les diverses activités sur NaN qui sont organisées par les animateurs et les ambassadeurs. Lorsque vous rejoignez un salon alors qu'une activitée est en cours, vous êtes prié de ne pas interrompre les intervenants.
+Les salons vocaux ont pour vocation d'être un endroit de discussions entre membres habitués de NaN. Dans la ligné du point sur l'aide en vocal ci-dessous, ils ne peuvent pas servir dans l'unique but de poser/répondre à des questions. En particulier les salons vocaux servent aussi de point de rendez-vous pour les diverses activités sur NaN qui sont organisées par les animateurs et les ambassadeurs. Lorsque vous rejoignez un salon alors qu'une activitée est en cours, vous êtes priés de ne pas interrompre les intervenants.
 
 ### Rejoindre les salons (`!salon`)
 
