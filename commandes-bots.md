@@ -266,9 +266,7 @@ Voici une liste non-exhaustive des notions dont vous pouvez avoir besoin pour fa
 ### vocal
 
 ```markdown
-Not a Name ne met pas en avant les demandes d'aide en vocal. En effet, les informations transmises en vocal ne sont qu'éphémères, alors qu'une information écrite dans le canal approprié peut être réutilisée plus tard et par d'autres personnes. 
-De plus, nos membres aidant sur leur temps libre, il est plus facile pour eux de suivre une conversation écrite. 
-Ainsi, nous vous demandons de poser vos questions dans les canaux appropriés ( <#819590296526127115> )
+Sur Not a Name, on ne préconise pas ni l'aide en message privé ni l'aide en vocal. Votre problème est peut-être partagé par un autre membre, ou votre question peut en intéresser d'autres. De plus, si une unique personne vous aide et que sa façon de faire est déconseillée, vous vous retrouverez avec d'autres problèmes sur les bras ; là ou une multitude d'autres membres auraient souligné ces mauvaises pratiques.
 ```
 
 ## Commandes "funs"
