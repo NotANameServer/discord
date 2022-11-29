@@ -1,0 +1,222 @@
+{
+    "content": "**\n**",
+    "embed": {
+        "description": "🗄️ 🤖 🎮 ⚙️ 📺 🌐 \n**Choix des canaux technologiques:**\nNous disposons aussi de quelques canaux qui ne sont pas rattachées particulièrement à un langage mais plus à des technologies.\n\n📺 **Rendu 3D**\n- Canaux autour du rendu 3D en temps réel (de façon générale ou bien avec une API comme OpenGL, Vulkan, etc.)\n\n🗄️ **Base de données**\n- Discussions autour des SGBD, requêtes, SQL, NoSQL, etc.\n\n🌐 **Système et réseau**\n- Discussions autour de tout ce qui est infrastructures/protocoles/mécaniques liées au réseau ou discussions sur les systèmes d'exploitation (Windows, Linux, macOS, etc.)\n\n🎮 **Développement de jeux vidéos**\n- Canaux dédié aux développeurs de jeu vidéo\n\n🤖 **Développement de bots Discord**\n- Canal dédié au développement de bots discord, peu importe le langage\n\n⚙️ **Manufacture de langages**\n- Canal dédié à la création de parser et autre outils dédiés à la création/compréhension de langages.\n\n",
+    },
+    "components": [
+        {
+            "type": 1,
+            "components": [
+                {
+                    "discard_selection": true,
+                    "placeholder": "Ajouter des rôles liés aux technologies",
+                    "type": 3,
+                    "max_values": 6,
+                    "min_values": 1,
+                    "options": [
+                        {
+                            "description": "Discussions autour des SGBD, requêtes, SQL, NoSQL, etc.",
+                            "label": "Base de données",
+                            "actions": [
+                                {
+                                    "type": "addrole",
+                                    "value": "389159609228722177"
+                                }
+                            ],
+                            "emoji":{
+                                "id": null,
+                                "name": "🗄️"
+                            }
+                        },
+                        {
+                            "description": "Canal dédié au développement de bots discord, peu importe le langage.",
+                            "label": "Développement de bots Discord",
+                            "actions": [
+                                {
+                                    "type": "addrole",
+                                    "value": "636143242219618304"
+                                }
+                            ],
+                            "emoji":{
+                                "id": null,
+                                "name": "🤖"
+                            }
+                        },
+                        {
+                            "description": "Canaux dédiés aux développeurs de jeu vidéo.",
+                            "label": "Développement de jeux vidéos",
+                            "actions": [
+                                {
+                                    "type": "addrole",
+                                    "value": "517711258867204113"
+                                }
+                            ],
+                            "emoji":{
+                                "id": null,
+                                "name": "🎮"
+                            }
+                        },
+                        {
+                            "description": "Canal dédié à la création de parser et autres outils dédiés à la création/compréhension de langages.",
+                            "label": "Manufacture de langages",
+                            "actions": [
+                                {
+                                    "type": "addrole",
+                                    "value": "1030165750016659536"
+                                }
+                            ],
+                            "emoji":{
+                                "id": null,
+                                "name": "⚙️"
+                            }
+                        },
+                        {
+                            "description": "Canaux autour du rendu 3D en temps réel (genéral ou bien avec une API comme OpenGL, Vulkan, etc.)",
+                            "label": "Rendu 3D",
+                            "actions": [
+                                {
+                                    "type": "addrole",
+                                    "value": "358972423464288258"
+                                }
+                            ],
+                            "emoji":{
+                                "id": null,
+                                "name": "📺"
+                            }
+                        },
+                        {
+                            "description": "Discussions autour du réseau ou des systèmes d'exploitation.",
+                            "label": "Système et réseau",
+                            "actions": [
+                                {
+                                    "type": "addrole",
+                                    "value": "389159651511631876"
+                                }
+                            ],
+                            "emoji":{
+                                "id": null,
+                                "name": "🌐"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "components": [
+                {
+                    "discard_selection": true,
+                    "placeholder": "Retirer des rôles liés aux technologies",
+                    "type": 3,
+                    "max_values": 6,
+                    "min_values": 1,
+                    "options": [
+                        {
+                            "description": "Discussions autour des SGBD, requêtes, SQL, NoSQL, etc.",
+                            "label": "Base de données",
+                            "actions": [
+                                {
+                                    "type": "removerole",
+                                    "value": "389159609228722177"
+                                }
+                            ],
+                            "emoji":{
+                                "id": null,
+                                "name": "🗄️"
+                            }
+                        },
+                        {
+                            "description": "Canal dédié au développement de bots discord, peu importe le langage.",
+                            "label": "Développement de bots Discord",
+                            "actions": [
+                                {
+                                    "type": "removerole",
+                                    "value": "636143242219618304"
+                                }
+                            ],
+                            "emoji":{
+                                "id": null,
+                                "name": "🤖"
+                            }
+                        },
+                        {
+                            "description": "Canaux dédiés aux développeurs de jeu vidéo.",
+                            "label": "Développement de jeux vidéos",
+                            "actions": [
+                                {
+                                    "type": "removerole",
+                                    "value": "517711258867204113"
+                                }
+                            ],
+                            "emoji":{
+                                "id": null,
+                                "name": "🎮"
+                            }
+                        },
+                        {
+                            "description": "Canal dédié à la création de parser et autres outils dédiés à la création/compréhension de langages.",
+                            "label": "Manufacture de langages",
+                            "actions": [
+                                {
+                                    "type": "removerole",
+                                    "value": "1030165750016659536"
+                                }
+                            ],
+                            "emoji":{
+                                "id": null,
+                                "name": "⚙️"
+                            }
+                        },
+                        {
+                            "description": "Canaux autour du rendu 3D en temps réel (genéral ou bien avec une API comme OpenGL, Vulkan, etc.)",
+                            "label": "Rendu 3D",
+                            "actions": [
+                                {
+                                    "type": "removerole",
+                                    "value": "358972423464288258"
+                                }
+                            ],
+                            "emoji":{
+                                "id": null,
+                                "name": "📺"
+                            }
+                        },
+                        {
+                            "description": "Discussions autour du réseau ou des systèmes d'exploitation.",
+                            "label": "Système et réseau",
+                            "actions": [
+                                {
+                                    "type": "removerole",
+                                    "value": "389159651511631876"
+                                }
+                            ],
+                            "emoji":{
+                                "id": null,
+                                "name": "🌐"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": 1,
+            "components": [
+                {
+                    "type": 2,
+                    "style": 4,
+                    "label": "Réinitialiser les rôles liés aux technologies",
+                    "actions": [
+                        { "type": "removerole", "value": "358972423464288258" },
+                        { "type": "removerole", "value": "389159609228722177" },
+                        { "type": "removerole", "value": "389159651511631876" },
+                        { "type": "removerole", "value": "517711258867204113" },
+                        { "type": "removerole", "value": "636143242219618304" },
+                        { "type": "removerole", "value": "1030165750016659536" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
