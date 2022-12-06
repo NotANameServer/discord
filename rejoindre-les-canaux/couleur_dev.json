@@ -268,7 +268,7 @@
                 {
                     "type": 2,
                     "style": 4,
-                    "label": "Retirer ce rôle",
+                    "label": "Retirer mon rôle \"développeur\" coloré",
                     "actions": [
                         { "type": "removerole", "value": "470600885987442698" },
                         { "type": "removerole", "value": "441943729625104394" },
