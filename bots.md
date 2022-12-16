@@ -16,13 +16,12 @@ Bot de modération gérant ce qui n'est pas encore implémenté dans NaB (princi
 Compte : Dyno#3861 (155149108183695360)  
 Site : https://dyno.gg
 
-## RTFM
+## Compiler
 
-Bot de programmation gérant la documentation / possibilité d'exécuter des scripts depuis le serveur.
+Bot de programmation gérant possibilité d'exécuter des scripts depuis le serveur.
 
-Compte : RTFM#1338 (495914599531675648)  
-Site : https://top.gg/bot/495914599531675648  
-GitHub : [https://github.com/FrenchMasterSword/RTFMbot](https://github.com/Unactived/RTFMbot)
+Compte : Compiler#6201 (504095380166803466)   
+GitHub : https://github.com/Headline/discord-compiler-bot
 
 ## TeXit
 
