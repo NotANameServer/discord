@@ -107,6 +107,7 @@ Ainsi, selon la [Loi du 23 décembre 1901 réprimant les fraudes dans les examen
 
 Il est donc **interdit** de demander de l'aide pour un examen.
 Nous considérons comme examen tout devoir noté effectué dans l'etablissement scolaire.
+*Petit rappel:* Autoriser internet dans un examen ne signifie pas vous autoriser à demander à quelqu'un d'autre de faire le travail à votre place, uniquement que vous êtes autorisé à vous documenter sur Internet.
 
 **Devoirs maisons:**
 Nous sommes un peu plus laxistes sur ce point, nous autorisons l'aide concernant les devoirs maisons *mais* ce sera une aide de résolution de problèmes, pas à faire le devoir à votre place. Toute demande afin que quelqu'un fasse le devoir à votre place gratuitement ou contre rétribution est **interdite**.
