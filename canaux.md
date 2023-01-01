@@ -129,7 +129,7 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | Salon | Description | Accès |
 | ----- | ----------- | ----- |
 | #architecture | Une question non liée à un langage ? Une discussion sur un principe de programmation ou d'architecture ? Bienvenue dans votre demeure. | |
-| #bots-discord | Pour toutes vos questions concernant la création de bots Discord, qu'importe le langage / framework. | Bots Discord |
+| #création-bots-discord | Pour toutes vos questions concernant la création de bots Discord, qu'importe le langage / framework. | Bots Discord |
 | #database | Une question concernant un SGBD ? La manière de structurer vos données, etc ? C'est ici !<br><br>Pour les questions liées à l'utilisation d'une bibliothèque, merci de plutôt demander dans le canal de langage associé ! | DB |
 | #hardware | Un doute sur le choix de votre configuration ? Une hésitation sur quelle carte graphique choisir ? Pour toutes vos demandes et questions concernant le hardware, c'est ici. | |
 | #support-technique | Un problème de mise à jour, un ordinateur qui ne démarre plus, votre webcam ne vous montre plus votre grande beauté ? Vous êtes au bon endroit ! | |

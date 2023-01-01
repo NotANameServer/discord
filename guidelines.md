@@ -10,7 +10,7 @@ Nous vous demandons de faire preuve de patience et de bienveillance, la communau
 
 ### Les salons sérieux
 
-Les salons sérieux portent le nom et la description de la technologie ou du sujet auxquels ils sont dédiés. Par exemple, le canal #python est dédié à l'aide concernant le langage Python. Le canal #bots-discord quant à lui est dédié à la création de bots Discord, quel que soit le langage.
+Les salons sérieux portent le nom et la description de la technologie ou du sujet auxquels ils sont dédiés. Par exemple, le canal #python est dédié à l'aide concernant le langage Python. Le canal #création-bots-discord quant à lui est dédié à la création de bots Discord, quel que soit le langage.
 
 Les catégories *Technologies*, *Languages* et *Rendu 3D* ainsi que les salons #sciences, #etudes-orientation et #questions-professionnelles sont des salons sérieux.
 
@@ -95,7 +95,7 @@ Normalement, les salons sont correctement découpés pour éviter qu'une même q
 
 Si vous posez votre question sur plusieurs serveurs Discord et que vous recevez une réponse sur un autre serveur, merci de revenir sur NaN pour prévenir que le problème est résolu.
 
-Précision concernant les bots Discord : toute demande d'aide concernant de près ou de loin le développement, l'hébergement ou le maintien des bots Discord **doit** se faire dans le salon #bots-discord **même si** la question ne concerne pas immédiatement le bot.
+Précision concernant les bots Discord : toute demande d'aide concernant de près ou de loin le développement, l'hébergement ou le maintien des bots Discord **doit** se faire dans le salon #création-bots-discord **même si** la question ne concerne pas immédiatement le bot.
 
 Précision concernant les bases de données : la section #database concerne principalement les questions relatives aux schémas et aux requêtes. Les questions concernant les bibliothèques spécifiques à leur langage de programmation n'y ont pas leur place.
 
