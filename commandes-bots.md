@@ -269,6 +269,22 @@ Voici une liste non-exhaustive des notions dont vous pouvez avoir besoin pour fa
 Sur Not a Name, on ne préconise ni l'aide en message privé ni l'aide en vocal. Votre problème est peut-être partagé par un autre membre, ou votre question peut en intéresser d'autres. De plus, si une unique personne vous aide et que sa façon de faire est déconseillée, vous vous retrouverez avec d'autres problèmes sur les bras ; là ou une multitude d'autres membres auraient souligné ces mauvaises pratiques.
 ```
 
+### examen / triche / devoirs
+
+```markdown
+**Examens:**
+Comme indiqué en [règle #2](https://discord.com/channels/323076998576603137/358924179954860033/860920025027575838), la loi française est d'application sur le serveur.
+
+Ainsi, selon la [Loi du 23 décembre 1901 réprimant les fraudes dans les examens et concours publics.](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000314853), toute fraude a un examen est un **délit** passible d’une peine de 3 ans de prison, 9000€ d’amende, d'une interdiction de concourir à un examen pendant 5 ans (ce qui inclus le permis de conduire), et d'une interdiction de s’inscrire à un établissement d’enseignement supérieur pendant 5 ans.
+
+Il est donc **interdit** de demander de l'aide pour un examen.
+Nous considérons comme examen tout devoir noté effectué dans l'etablissement scolaire.
+*Petit rappel:* Autoriser internet dans un examen ne signifie pas vous autoriser à demander à quelqu'un d'autre de faire le travail à votre place, uniquement que vous êtes autorisé à vous documenter sur Internet.
+
+**Devoirs maisons:**
+Nous sommes un peu plus laxistes sur ce point, nous autorisons l'aide concernant les devoirs maisons *mais* ce sera une aide de résolution de problèmes, pas à faire le devoir à votre place. Toute demande afin que quelqu'un fasse le devoir à votre place gratuitement ou contre rétribution est **interdite**.
+```
+
 ## Commandes "funs"
 
 

@@ -99,6 +99,19 @@ Précision concernant les bots Discord : toute demande d'aide concernant de prè
 
 Précision concernant les bases de données : la section #database concerne principalement les questions relatives aux schémas et aux requêtes. Les questions concernant les bibliothèques spécifiques à leur langage de programmation n'y ont pas leur place.
 
+### Examens et devoirs
+**Examens:**
+Comme indiqué en [règle #2](https://discord.com/channels/323076998576603137/358924179954860033/860920025027575838), la loi française est d'application sur le serveur.
+
+Ainsi, selon la [Loi du 23 décembre 1901 réprimant les fraudes dans les examens et concours publics.](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000314853), toute fraude a un examen est un **délit** passible d’une peine de 3 ans de prison, 9000€ d’amende, d'une interdiction de concourir à un examen pendant 5 ans (ce qui inclus le permis de conduire), et d'une interdiction de s’inscrire à un établissement d’enseignement supérieur pendant 5 ans.
+
+Il est donc **interdit** de demander de l'aide pour un examen.
+Nous considérons comme examen tout devoir noté effectué dans l'etablissement scolaire.
+*Petit rappel:* Autoriser internet dans un examen ne signifie pas vous autoriser à demander à quelqu'un d'autre de faire le travail à votre place, uniquement que vous êtes autorisé à vous documenter sur Internet.
+
+**Devoirs maisons:**
+Nous sommes un peu plus laxistes sur ce point, nous autorisons l'aide concernant les devoirs maisons *mais* ce sera une aide de résolution de problèmes, pas à faire le devoir à votre place. Toute demande afin que quelqu'un fasse le devoir à votre place gratuitement ou contre rétribution est **interdite**.
+
 ### Sécurité informatique
 
 Parce que sur ce serveur il y a aussi beaucoup de novices en informatique, nous prenons avec des pincettes tout ce qui touche à la sécurité informatique. Ce sujet n'est abordé dans les salons généraux *que* lorsqu'il s'agit de renforcer la protection d'un système ou bien de corriger des failles évidentes (exemple : injection SQL).
