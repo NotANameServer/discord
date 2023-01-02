@@ -182,12 +182,12 @@ Le Rust by Example est aussi très bien pour avoir des explications avec des exe
 Il existe volontairement plusieurs canaux dédiés à certaines catégories de questions et discussions. Cette distinction par canaux est présente pour éviter de dupliquer les messages. Il est inutile et dérangeant de demander dans un canal de répondre à votre question dans un autre : quelqu'un vous répondra en temps voulu, mais certainement pas ailleurs que celui dans lequel votre question est adaptée.
 ```
 
-### mp
+### mp, vocal
 
 ```markdown
-L'aide en message privé (`!mp`)
+L'aide en message privé (`!mp`, `!vocal`)
 
-Sur Not a Name, on ne préconise pas l'aide en message privé. Votre problème est peut-être partagé par un autre membre, ou votre question peut en intéresser d'autres. De plus, si une unique personne vous aide et que sa façon de faire est déconseillée, vous vous retrouverez avec d'autres problèmes sur les bras ; là ou une multitude d'autres membres auraient souligné ces mauvaises pratiques.
+Sur Not a Name, on ne préconise ni l'aide en message privé ni l'aide en vocal. Votre problème est peut-être partagé par un autre membre, ou votre question peut en intéresser d'autres. De plus, si une unique personne vous aide et que sa façon de faire est déconseillée, vous vous retrouverez avec d'autres problèmes sur les bras ; là ou une multitude d'autres membres auraient souligné ces mauvaises pratiques.
 ```
 
 ### recrutement
@@ -261,12 +261,6 @@ Voici une liste non-exhaustive des notions dont vous pouvez avoir besoin pour fa
 🔗 Liens utiles
 📚 [Bibliothèques (wrappers) pour le développement de bots Discord](https://discord.com/developers/docs/topics/community-resources#libraries).
 📕 [Cours pour apprendre un langage](https://www.learndev.info/fr).
-```
-
-### vocal
-
-```markdown
-Sur Not a Name, on ne préconise ni l'aide en message privé ni l'aide en vocal. Votre problème est peut-être partagé par un autre membre, ou votre question peut en intéresser d'autres. De plus, si une unique personne vous aide et que sa façon de faire est déconseillée, vous vous retrouverez avec d'autres problèmes sur les bras ; là ou une multitude d'autres membres auraient souligné ces mauvaises pratiques.
 ```
 
 ### examen / triche / devoirs
