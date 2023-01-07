@@ -100,6 +100,7 @@ Précision concernant les bots Discord : toute demande d'aide concernant de prè
 Précision concernant les bases de données : la section #database concerne principalement les questions relatives aux schémas et aux requêtes. Les questions concernant les bibliothèques spécifiques à leur langage de programmation n'y ont pas leur place.
 
 ### Examens et devoirs
+
 **Examens:**
 Comme indiqué en [règle #2](https://discord.com/channels/323076998576603137/358924179954860033/860920025027575838), la loi française est d'application sur le serveur.
 
