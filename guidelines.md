@@ -119,7 +119,7 @@ Parce que sur ce serveur il y a aussi beaucoup de novices en informatique, nous 
 
 Il est possible de discuter des questions de sécurité informatique dans le salon #sécurité. Ce salon n'est pas public et son accès est controlé par le staff via les tickets. Il vous sera demandé les raisons pour lesquelles vous souhaitez avoir accès à ce salon, vous devrez en plus lire des articles de loi et signer une charte de bonne conduite.
 
-Il ne nous est pas possible d'assurer que le cadre déontologique est strictement respecté en dehors du salon #sécurité. De ce fait, discuter, partager ou promouvoir le sujet du piratage informatique (le pentesting, le reverse-engineering, le cracking, le hacking, le doxing, les exploits, ...) est strictement interdit sur les autres salons. Ces sujets peuvent être abordés dans le channel #securite dans le respect de la loi et de l'éthique.
+Il ne nous est pas possible d'assurer que le cadre déontologique est strictement respecté en dehors du salon #sécurité. De ce fait, discuter, partager ou promouvoir le sujet du piratage informatique (le pentesting, le reverse-engineering, le cracking, le hacking, le doxing, les exploits, ...) est strictement interdit sur les autres salons. Ces sujets peuvent être abordés dans le channel #sécurité dans le respect de la loi et de l'éthique.
 
 ### Web-scraping
 
