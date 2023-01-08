@@ -47,7 +47,7 @@ slots = [
     '860928557538476083', '860928670105600021', '860928737185234944',
     '860928788437925908', '860928835910762516', '860928879831941140',
     '957023249684914256', '1017117136621142066', '1017399866659442719',
-    '1017399878948765817', '1061422428720463952'
+    '1061681906434977802', '1061681934956249098',
 ]
 
 colors = itertools.cycle([
@@ -138,7 +138,12 @@ def main():
         printerr(f"\nThere are {len(slots)} slots available")
         pause()
 
-    assert len(guidelines) <= len(slots), "Not enough slots"
+    if len(guidelines) > len(slots):
+        raise RuntimeError(
+            "Not enough slots, you cannot use the message that "
+            "contains the 'new ticket' button, please remove it "
+            "and add an empty message"
+        )
 
     iterable = enumerate(zip(slots, colors, guidelines))
     for i, (slot, color, (title, content)) in iterable:
