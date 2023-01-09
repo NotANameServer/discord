@@ -23,4 +23,5 @@ Liste des membres du serveur ayant des droits sur sa gestion et sa modération.
 | javascript-typescript | **Mestery#3859** (282201728097583104) |
 | php | **Mjöllnir#3515** (241702391756357633) et **Cara#0385** (88562959478972416) |
 | python | **Dr Lazor#6737** (87605725857058816) |
+| rust | **baptiste0928#0001** (207852811596201985) |
 | securite | **\[Ben\]#4444** (496774441506963466) |
