@@ -7,7 +7,7 @@ Préfixe des commandes : `!`
 ### ask
 
 ```markdown
-Comment poser efficacement une question: <https://discordapp.com/channels/323076998576603137/699260551758610545/699265823922978887>
+Bonjour, il semblerait que la communauté ne comprenne pas votre question. Êtes-vous sûr d'avoir donné un maximum de détails ? Avec plus de détails (par exemple le code source et l'erreur complète) la communauté sera mieux armée pour comprendre votre problème et vous apporter son aide. Essayez d'être clair et montrez vous patient, une question bien posée attire le regard et trouvera rapidement une réponse 🙂
 ```
 
 ### bienvenue (alias: debutant)
