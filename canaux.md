@@ -113,7 +113,7 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | #c | :langage_c: | C |
 | #cpp | :langage_cpp: | C++ |
 | #csharp | :langage_csharp: Cliquez pour voir les liens utiles :<br><br>Cours<br>	- https://learn.microsoft.com/dotnet/csharp/ : C#<br>	- https://learn.microsoft.com/aspnet/core/ : ASP.NET (Web Apps)<br>	- https://www.e-naxos.com/AllDotBlog.html : WPF, Xamarin, MVVM, Linq<br>	- https://codeblog.jonskeet.uk/category/edulinq/ : Linq<br>:pushpin: N'oubliez pas de lire les messages epinglés ! | C# |
-| #html-css | | HTML/CSS |
+| #html-css | <:langage_html:436841854328242181> - <:langage_css:436841887899320320> | HTML/CSS |
 | #java-jvm | Canal pour toutes questions relatives aux langages JVM (Java/Kotlin/Scala/...)<br>:langage_java: !coursjava pour une liste de cours | Java |
 | #javascript-typescript | :langage_js:<br>:langage_ts:<br><br>var:thumbsdown:let/const:thumbsup:<br>Cliquez ici pour voir les liens utiles.<br><br>Cours<br>	- https://developer.mozilla.org/fr/docs/Web/JavaScript : Documentation MDN<br>	- https://javascript.info/ : Cours complet<br>	- https://eloquentjavascript.net/ : Cours complet<br>	- https://ponyfoo.com/articles/tagged/es6-in-depth : Cours ES6<br>	- https://youtu.be/TrDqaABq-UY : Comprendre Observable<br>	- https://github.com/getify/You-Dont-Know-JS : You don't know JS<br><br>Outils<br>	- https://jsonlint.com/ : Validité de votre JSON | Javascript |
 | #langages-fonctionnels | Pour toute question concernant un langage fonctionnel (Haskell, Lisp, ...) ou concernant les paradigmes de programmation fonctionnelle | Fonctionnel |
