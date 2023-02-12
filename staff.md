@@ -8,6 +8,7 @@ Liste des membres du serveur ayant des droits sur sa gestion et sa modération.
 - **Dr Lazor#6737** (87605725857058816)
 - **Elanis#0559** (193048878017150979)
 - **Lynix#3516** (83928726282174464)
+- **Mjöllnir#3515** (241702391756357633)
 - **REMqb#8214** (278688001431961602)
 
 ## Ambassadeurs
