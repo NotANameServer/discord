@@ -174,7 +174,7 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | #notahub | https://github.com/NotANameServer/Not-a-Hub | Not a Hub |
 | #projectw | ProjectW est un jeu multijoueur coopératif bac à sable, orienté action/aventure, en vue du dessus. Il est développé en C++, sur un moteur maison. | ProjectW |
 | #raz | Moteur de jeu multi-plateforme en C++17 : https://github.com/Razakhel/RaZ. N'hésitez pas à star le projet et rejoindre le serveur Discord dédié :  https://discord.gg/25YGDED ! | RaZ |
-| #skift | https://skiftos.org/ - Le système d'exploitation skift | Skift |
+| #skift | https://skiftos.org/ - Le système d'exploitation skift | SkiftOS |
 | #starxium |  | Starxium |
 | #utopia | Jeu de programmation en réseau dont le développement est streamé sur Twitch: https://github.com/DigitalPulseSoftware/Erewhon-Game<br>https://www.twitch.tv/sirlynixvanfrietjes | Utopia |
 | #verya | Un projet de serveur Minecraft où sont revisitées les technologies déjà existantes comme BungeeCord ou ViaVersion en poussant les limites du jeu toujours plus loin. | Verya |
