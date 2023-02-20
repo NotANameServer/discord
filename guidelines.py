@@ -109,7 +109,7 @@ def format_editmessage(slot, color, title, content):
         "title": title,
         "description": content,
     }}, ensure_ascii=False)
-    return f"!editmessage {channel_url}{slot}\n```\n{embed}\n```"
+    return f"!editmessage {channel_url}{slot}\n```json\n{embed}\n```"
 
 
 def main():
