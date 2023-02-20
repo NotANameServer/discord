@@ -38,8 +38,9 @@ import urllib.request
 
 
 download_url = 'https://raw.githubusercontent.com/NotANameServer/discord/main/guidelines.md'
+server_url = 'https://discord.com/channels/323076998576603137/'
+channel_url = f'{server_url}860920579154772018/'
 
-channel_url = 'https://discord.com/channels/323076998576603137/860920579154772018/'
 slots = [
     '860920639182077952', '860920736470663178', '860920938074079233',
     '860920994973745182', '860921064211873792', '860921120818987038',
@@ -57,7 +58,6 @@ colors = itertools.cycle([
     0x7ffe00, 0xfe007f, 0xfe7ffe
 ])
 
-server_url = 'https://discord.com/channels/323076998576603137/'
 substitutions = {
     '#bots-discord':               f'[#bots-discord]({server_url}539809627987247135)',
     '#création-bots-discord':      f'[#création-bots-discord]({server_url}539809627987247135)',
