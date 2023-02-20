@@ -69,6 +69,7 @@ substitutions = {
     '#offres':                     f'[#offres]({server_url}411544328717205504)',
     '#python':                     f'[#python]({server_url}358724995159031820)',
     '#questions-professionnelles': f'[#questions-professionnelles]({server_url}710846454549446698)',
+    '#regles':                     f'[#regles]({server_url}965612387635978260)',
     '#rejoindre-les-canaux':       f'[#rejoindre-les-canaux]({server_url}440592843489280011)',
     '#screenshots':                f'[#screenshots]({server_url}643835487903023104)',
     '#sciences':                   f'[#sciences]({server_url}434331479607083008)',
