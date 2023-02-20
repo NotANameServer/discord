@@ -57,24 +57,25 @@ colors = itertools.cycle([
     0x7ffe00, 0xfe007f, 0xfe7ffe
 ])
 
+server_url = 'https://discord.com/channels/323076998576603137/'
 substitutions = {
-    '#bots-discord': '<#539809627987247135>',
-    '#création-bots-discord': '<#539809627987247135>',
-    '#database': '<#389159935830654976>',
-    '#discussions': '<#323076998576603137>',
-    '#detente': '<#392444836441227274>',
-    '#etudes-orientation': '<#405326955458592770>',
-    '#live': '<#706871523084075009>',
-    '#offres': '<#411544328717205504>',
-    '#python': '<#358724995159031820>',
-    '#questions-professionnelles': '<#710846454549446698>',
-    '#rejoindre-les-canaux': '<#440592843489280011>',
-    '#screenshots': '<#643835487903023104>',
-    '#sciences': '<#434331479607083008>',
-    '#sécurité': '<#910211300313952336>',
-    '#vos-projets': '<#666594934278586368>',
-    ':lourd:': '<:lourd:390149780896088074>',
-    ':modo:': '<:modo:459352634038550529>',
+    '#bots-discord':               f'[#bots-discord]({server_url}539809627987247135)',
+    '#création-bots-discord':      f'[#création-bots-discord]({server_url}539809627987247135)',
+    '#database':                   f'[#database]({server_url}389159935830654976)',
+    '#discussions':                f'[#discussions]({server_url}323076998576603137)',
+    '#detente':                    f'[#detente]({server_url}392444836441227274)',
+    '#etudes-orientation':         f'[#etudes-orientation]({server_url}405326955458592770)',
+    '#live':                       f'[#live]({server_url}706871523084075009)',
+    '#offres':                     f'[#offres]({server_url}411544328717205504)',
+    '#python':                     f'[#python]({server_url}358724995159031820)',
+    '#questions-professionnelles': f'[#questions-professionnelles]({server_url}710846454549446698)',
+    '#rejoindre-les-canaux':       f'[#rejoindre-les-canaux]({server_url}440592843489280011)',
+    '#screenshots':                f'[#screenshots]({server_url}643835487903023104)',
+    '#sciences':                   f'[#sciences]({server_url}434331479607083008)',
+    '#sécurité':                   f'[#sécurité]({server_url}910211300313952336)',
+    '#vos-projets':                f'[#vos-projets]({server_url}666594934278586368)',
+    ':lourd:':                     '<:lourd:390149780896088074>',
+    ':modo:':                      '<:modo:459352634038550529>',
 }
 
 def replace_all(string, substitutions):
