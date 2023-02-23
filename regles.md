@@ -1,7 +1,6 @@
 Bienvenue sur NaN (Not a Name), serveur Discord sur le thème de la programmation. L’objectif du serveur est de fournir un endroit d’échange convivial et agréable. Nous mettons à disposition plusieurs canaux dédiés aux différents langages et domaines de l’informatique.
 
-
-En utilisant Discord, vous vous êtes engagés à respecter la charte de bonne conduite : <https://discord.com/guidelines>.
+En utilisant Discord, vous vous êtes engagés à respecter la charte de bonne conduite : https://discord.com/guidelines.
 
 La 1e règle du serveur est essentielle au maintien d'une ambiance propice au débat, à l'aide apportée aux nouveaux et plus généralement à un travail serein. Le staff se réserve le droit de mettre un terme aux débats foireux, aux dramas et aux autres dérives.
 
@@ -15,7 +14,7 @@ Les contenus illégaux, le piratage, la pornographie, le gore, etc. sont interdi
 
 **3. La publicité, la présentation des projets et les messages de recrutements sont soumis à une règlementation accrue.** (`!recrutement`)
 
-Il existe des salons dédiés à ces messages et l'accès à ces salons est modéré par le staff. Tout message à tendance publicitaire ou de recrutement envoyé en dehors de ces salons ou par messages privés est interdit. Voir la section *Les salons modérés* de la #faq
+Il existe des salons dédiés à ces messages et l'accès à ces salons est modéré par le staff. Tout message à tendance publicitaire ou de recrutement envoyé en dehors de ces salons ou par messages privés est interdit. Voir la section *Les salons modérés* des #guidelines
 
 **4. Le serveur promeut l'utilisation d'un français correct et compréhensible.**
 
@@ -27,4 +26,8 @@ S'il existe des salons prévus aux discussions diverses (#discussions et #detent
 
 **6. Le serveur a ses habitudes.**
 
-Vous pouvez signaler qu'un message transgresse le règlement avec la réaction :modo: `:modo:`. Vous pouvez ouvrir un salon privé avec le staff en envoyant le message `!newticket` dans n'importe quel canal. Nous vous invitons à également lire la #faq où d'autres points du règlement sont abordés.
+Vous pouvez signaler qu'un message transgresse le règlement avec la réaction :modo: (`:modo:`). Vous pouvez ouvrir un salon privé avec le staff en envoyant le message `!newticket` dans n'importe quel canal. 
+
+Nous vous invitons à également lire les #guidelines où d'autres points du règlement sont abordés.
+
+**Visitez aussi #rejoindre-les-canaux afin d'accéder aux canaux.**
