@@ -13,13 +13,13 @@ Bonjour, il semblerait que la communauté ne comprenne pas votre question. Êtes
 ### bienvenue (alias: debutant)
 
 ```markdown
-**Canaux**  
+**Canaux**
 Il y a divers canaux à votre disposition. Certains sont basés sur un thème en général comme #hardware, et d'autres sont spécifiques aux langages comme #python. Afin de pouvoir accéder aux canaux, vous devez vous attribuer un rôle via rejoindre-les-canaux.
 
-**Demander de l'aide**  
+**Demander de l'aide**
 Pour faire une demande d'aide efficace, veillez à directement poser votre question **en incluant le plus d'informations possibles** au lieu de demander si quelqu'un est disponible.
 
-**Partager son code**  
+**Partager son code**
 N'utilisez pas de capture d'écran de votre code mais plutôt le Markdown intégré de Discord. Si votre code est trop long, vous pouvez utiliser un service tiers comme https://paste.artemix.org/.
 ```
 
@@ -69,14 +69,24 @@ Pour apprendre le langage C, le mieux en tant que débutant est le cours de Zest
 
 ### courscpp
 
+```mardown
+**Apprendre le C++**
+La référence pour l'apprentissage du C++ moderne sont les livres [C++ Primer 5th Edition de S. Lippman](https://www.amazon.fr/C-Primer-Stanley-B-Lippman/dp/0321714113) (à ne pas confondre avec le C++ Primer Plus 6th) et [Le guide du C++ Moderne de débutant à développeur](https://livre.fnac.com/a14868645/Mehdi-Benharrats-Le-guide-du-C-moderne-De-debutant-a-developpeur).
+
+Il existe aussi des bons cours en français et en ligne comme celui de [Zeste de Savoir](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/).
+
+Une version papier issue du cours de Zeste de Savoir, intitulée "Le guide du C++ moderne - De débutant à développeur", rédigée par Mehdi Benharrats et Benoït Vittupier est disponible ([Site de l'éditeur](https://www.d-booker.fr/cppmoderne/656-le-guide-du-c-moderne-de-debutant-a-developpeur.html)). Ce cours traite d'un ensemble de notions fondamentales et parfois plus approfondies liées à la programmation mais aussi de principes de conception essentiels et d'idiomes particuliers, à propos du langage dans ses versions "modernes".
+
+Attention au cours d'Openclassrooms, celui-ci est obsolète et de mauvaise qualité, nous vous recommandons fortement de vous pencher sur une autre ressource.
+```
+
 ```json
 {
   "embed":{
     "color":1404123,
-    "url":"https://discordapp.com",
     "description":"La référence pour l'apprentissage du C++ moderne sont les livres [C++ Primer 5th Edition de S. Lippman](https://www.amazon.fr/C-Primer-Stanley-B-Lippman/dp/0321714113) (à ne pas confondre avec le C++ Primer Plus 6th) et [Le guide du C++ Moderne de débutant à développeur](https://livre.fnac.com/a14868645/Mehdi-Benharrats-Le-guide-du-C-moderne-De-debutant-a-developpeur).\n\nIl existe aussi des bons cours en français et en ligne comme celui de [Zeste de Savoir](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/).\n\nUne version papier issue du cours de Zeste de Savoir, intitulée \"Le guide du C++ moderne - De débutant à développeur\", rédigée par Mehdi Benharrats et Benoït Vittupier est disponible ([Site de l'éditeur](https://www.d-booker.fr/cppmoderne/656-le-guide-du-c-moderne-de-debutant-a-developpeur.html)). Ce cours traite d'un ensemble de notions fondamentales et parfois plus approfondies liées à la programmation mais aussi de principes de conception essentiels et d'idiomes particuliers, à propos du langage dans ses versions \"modernes\".\n\nAttention au cours d'Openclassrooms, celui-ci est obsolète et de mauvaise qualité, nous vous recommandons fortement de vous pencher sur une autre ressource.",
     "author":{
-      "icon_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/213px-ISO_C%2B%2B_Logo.svg.png",
+      "icon_url":"https://cdn.discordapp.com/emojis/324889181740466179.png",
       "name":"Apprendre le C++"
     }
   }
@@ -102,34 +112,56 @@ Pour apprendre le HTML et le CSS, je te conseille <https://marksheet.io/> (en an
 
 ### coursjava
 
+```java
+**Cours sur le langage Java**
+:closed_book: **Cours par jmdoudoux**
+Cours en français sur le Java, par jmdoudoux : [Développons en Java](https://www.jmdoudoux.fr/java/dej/indexavecframes.htm)
+:page_facing_up: **Tutoriels Java2S**
+Tutoriels Java, en anglais: [Java2S](http://java2s.com)
+:movie_camera: **Cours sur Java par Dominique Liard (Koor.fr)**
+Playlists de cours sur Java par Dominique Liard (Koor.fr) :
+[Dominique Liard (Koor.fr)](https://www.youtube.com/channel/UCl8T9GRhma8C2PaRfGIjOtA/playlists)
+:movie_camera: **Cours sur Java par José Paumard**
+Chaine youtube de cours sur Java par José Paumard :
+[José Paumard](https://www.youtube.com/channel/UCIatmtIm9z5YEWuHbrUMLsw)
+:pushpin: **Messages épinglés**
+Pensez à regarder également dans les messages épinglés, des ressources y sont listées.
+```
+
 ```json
 {
   "embed":{
     "color":16292119,
-    "fields":[{
+    "fields":[
+      {
         "name":":closed_book: Cours par jmdoudoux",
         "value":"Cours en français sur le Java, par jmdoudoux : [Développons en Java](https://www.jmdoudoux.fr/java/dej/indexavecframes.htm)",
         "inline":false
-      },{
+      },
+      {
         "name":":page_facing_up: Tutoriels Java2S",
-        "value":"Tutoriels Java, en anglais: [Java2S](http://java2s.com/)",
+        "value":"Tutoriels Java, en anglais: [Java2S](http://java2s.com)",
         "inline":false
-      },{
+      },
+      {
         "name":":movie_camera: Cours sur Java par Dominique Liard (Koor.fr)",
         "value":"Playlists de cours sur Java par Dominique Liard (Koor.fr) : \n[Dominique Liard (Koor.fr)](https://www.youtube.com/channel/UCl8T9GRhma8C2PaRfGIjOtA/playlists)",
         "inline":false
-      },{
+      },
+      {
         "name":":movie_camera: Cours sur Java par José Paumard",
         "value":"Chaine youtube de cours sur Java par José Paumard : \n[José Paumard](https://www.youtube.com/channel/UCIatmtIm9z5YEWuHbrUMLsw)",
         "inline":false
-      },{
+      },
+      {
         "name":":pushpin: Messages épinglés",
         "value":"Pensez à regarder également dans les messages épinglés, des ressources y sont listées.",
         "inline":false
-      }],
+      }
+    ],
     "author":{
       "name":"Cours sur le langage Java",
-      "icon_url":"https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png",
+      "icon_url":"https://cdn.discordapp.com/emojis/324892791966793740.png",
       "url":"https://adoptopenjdk.net"
     }
   }
@@ -139,11 +171,66 @@ Pour apprendre le HTML et le CSS, je te conseille <https://marksheet.io/> (en an
 ### coursjs
 
 ```markdown
-Pour apprendre les bases du JavaScript ou approfondir le langage, les cours suivants sont conseillés :
-📝 <https://javascript.info> (anglais)
-📝 <https://eloquentjavascript.net> (anglais)
-📝 <https://github.com/getify/You-Dont-Know-JS> (anglais)
-📺 <https://frontendmasters.com> (anglais) (💰)
+:movie_camera: **Formation Grafikart (recommandée)**
+Cours vidéo en français et gratuit, avec un passage sur Node.js: [Apprendre le JavaScript](https://www.youtube.com/playlist?list=PLjwdMgw5TTLXgsTQE_1PpRkC_yX47ZcGV)
+Cours vidéo en français et gratuit: [Apprendre le TypeScript](https://www.youtube.com/playlist?list=PLjwdMgw5TTLX1tQ1qDNHTsy_lrkCt4VW3)
+:closed_book: **Cours JavaScript moderne**
+Version anglaise: [The Modern JavaScript Tutorial](https://javascript.info) :flag_gb:
+Version française: [Le tutoriel JavaScript moderne](https://fr.javascript.info) :flag_fr:
+:blue_book: **Eloquent JavaScript**
+Cours en anglais sur le JavaScript: [Eloquent JavaScript](https://eloquentjavascript.net)
+:blue_book: **You Don't Know JS**
+Cours en anglais sur le JavaScript: [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+:movie_camera: **FrontendMasters**
+Cours vidéos en anglais et payant sur les technologies web Front-End
+Les cours ont un __accès gratuit pour 6 mois avec le pack Github Student__
+[Frontend Masters](https://frontendmasters.com)
+:pushpin: **Messages épinglés**
+Pensez à regarder également dans les messages épinglés, des ressources y sont listées.
+```
+
+```json
+{
+  "embed":{
+    "color":15981340,
+    "fields":[
+      {
+         "value":"Cours vidéo en français et gratuit, avec un passage sur Node.js: [Apprendre le JavaScript](https://www.youtube.com/playlist?list=PLjwdMgw5TTLXgsTQE_1PpRkC_yX47ZcGV) \nCours vidéo en français et gratuit: [Apprendre le TypeScript](https://www.youtube.com/playlist?list=PLjwdMgw5TTLX1tQ1qDNHTsy_lrkCt4VW3)",
+         "inline":false,
+         "name":":movie_camera: Formation Grafikart (recommandée)"
+      },
+      {
+         "value":"Version anglaise: [The Modern JavaScript Tutorial](https://javascript.info) :flag_gb:\nVersion française: [Le tutoriel JavaScript moderne](https://fr.javascript.info) :flag_fr:",
+         "inline":false,
+         "name":":closed_book: Cours JavaScript moderne"
+      },
+      {
+         "value":"Cours en anglais sur le JavaScript: [Eloquent JavaScript](https://eloquentjavascript.net)",
+         "inline":false,
+         "name":":blue_book: Eloquent JavaScript"
+      },
+      {
+         "value":"Cours en anglais sur le JavaScript: [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)",
+         "inline":false,
+         "name":":blue_book: You Don't Know JS"
+      },
+      {
+         "value":"Cours vidéos en anglais et __payant__ sur les technologies web Front-End\nLes cours ont un __accès gratuit pour 6 mois avec le pack Github Student__\n[Frontend Masters](https://frontendmasters.com)",
+         "inline":false,
+         "name":":movie_camera: FrontendMasters"
+      },
+      {
+         "value":"Pensez à regarder également dans les messages épinglés, des ressources y sont listées.",
+         "inline":false,
+         "name":":pushpin: Messages épinglés"
+      }
+    ],
+    "author":{
+      "name":"Cours sur les langages JavaScript et TypeScript",
+      "icon_url":"https://cdn.discordapp.com/emojis/438290351749332993.png",
+    }
+  }
+}
 ```
 
 ### courshtml
