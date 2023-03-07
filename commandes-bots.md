@@ -69,7 +69,7 @@ Pour apprendre le langage C, le mieux en tant que débutant est le cours de Zest
 
 ### courscpp
 
-```mardown
+```markdown
 **Apprendre le C++**
 La référence pour l'apprentissage du C++ moderne sont les livres [C++ Primer 5th Edition de S. Lippman](https://www.amazon.fr/C-Primer-Stanley-B-Lippman/dp/0321714113) (à ne pas confondre avec le C++ Primer Plus 6th) et [Le guide du C++ Moderne de débutant à développeur](https://livre.fnac.com/a14868645/Mehdi-Benharrats-Le-guide-du-C-moderne-De-debutant-a-developpeur).
 
@@ -112,7 +112,7 @@ Pour apprendre le HTML et le CSS, je te conseille <https://marksheet.io/> (en an
 
 ### coursjava
 
-```java
+```markdown
 **Cours sur le langage Java**
 :closed_book: **Cours par jmdoudoux**
 Cours en français sur le Java, par jmdoudoux : [Développons en Java](https://www.jmdoudoux.fr/java/dej/indexavecframes.htm)
