@@ -118,8 +118,8 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | #javascript-typescript | :langage_js: :langage_ts: Langages JavaScript et TypeScript.<br>var:thumbsdown:let/const:thumbsup:<br>!coursjs pour afficher une liste de cours. | Javascript  |
 | #langages-fonctionnels | :langage_haskell: Langages fonctionnels (Haskell, Lisp, ...) et paradigmes de programmation fonctionnelle.                                       | Fonctionnel |
 | #lua                   | :langage_lua: Langage Lua.                                                                                                                       | Lua         |
-| #php                   | :langage_php: :elephant: Langage PHP et frameworks associés (Laravel, Symfony, etc).<br>!coursphp pour afficher une liste de cours.              | PHP         |
-| #python                | :snake: Langage Python.<br>!courspython pour afficher une liste de cours.                                                                        | Python      |
+| #php                   | :langage_php: Langage PHP et frameworks associés (Laravel, Symfony, etc).<br>!coursphp pour afficher une liste de cours.                         | PHP         |
+| #python                | :langage_python: Langage Python.<br>!courspython pour afficher une liste de cours.                                                               | Python      |
 | #rust                  | :langage_rust: Langage Rust.<br>!coursrust pour afficher une liste de cours.                                                                     | Rust        |
 | #autres-langages       | Canal pour toute question relative à un langage ne possédant pas son canal dédié.                                                                |             |
 
