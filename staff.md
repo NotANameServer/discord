@@ -16,7 +16,6 @@ Liste des membres du serveur ayant des droits sur sa gestion et sa modération.
 | Canaux | Ambassadeurs |
 | ------ | ------------ |
 | bot-discord | **Martin_#9202** (455476176836755468) |
-| csharp | **Kaktus 🌵#0006** (239721911775526913) |
 | java | **florent#8092** (332479154496864259) et **Il_totore#9133** (403609872123428864) |
 | javascript-typescript | **Mestery#3859** (282201728097583104) |
 | php | **Mjöllnir#3515** (241702391756357633) et **Cara#0385** (88562959478972416) |
