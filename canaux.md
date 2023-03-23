@@ -107,21 +107,21 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 
 ### Langages
 
-| Salon | Description | Accès |
-| ----- | ----------- | ----- |
-| #asm | :langage_asm: | ASM |
-| #c | :langage_c: | C |
-| #cpp | :langage_cpp: | C++ |
-| #csharp | :langage_csharp: Cliquez pour voir les liens utiles :<br><br>Cours<br>	- https://learn.microsoft.com/dotnet/csharp/ : C#<br>	- https://learn.microsoft.com/aspnet/core/ : ASP.NET (Web Apps)<br>	- https://www.e-naxos.com/AllDotBlog.html : WPF, Xamarin, MVVM, Linq<br>	- https://codeblog.jonskeet.uk/category/edulinq/ : Linq<br>:pushpin: N'oubliez pas de lire les messages epinglés ! | C# |
-| #html-css | <:langage_html:436841854328242181> - <:langage_css:436841887899320320> | HTML/CSS |
-| #java-jvm | Canal pour toutes questions relatives aux langages JVM (Java/Kotlin/Scala/...)<br>:langage_java: !coursjava pour une liste de cours | Java |
-| #javascript-typescript | :langage_js:<br>:langage_ts:<br><br>var:thumbsdown:let/const:thumbsup:<br>Cliquez ici pour voir les liens utiles.<br><br>Cours<br>	- https://developer.mozilla.org/fr/docs/Web/JavaScript : Documentation MDN<br>	- https://javascript.info/ : Cours complet<br>	- https://eloquentjavascript.net/ : Cours complet<br>	- https://ponyfoo.com/articles/tagged/es6-in-depth : Cours ES6<br>	- https://youtu.be/TrDqaABq-UY : Comprendre Observable<br>	- https://github.com/getify/You-Dont-Know-JS : You don't know JS<br><br>Outils<br>	- https://jsonlint.com/ : Validité de votre JSON | Javascript |
-| #langages-fonctionnels | Pour toute question concernant un langage fonctionnel (Haskell, Lisp, ...) ou concernant les paradigmes de programmation fonctionnelle | Fonctionnel |
-| #lua | :langage_lua: | Lua |
-| #php | :langage_php: Cliquez ici pour voir les liens utiles.<br><br>Cours<br>	- Introduction<br>	  https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/<br>	- [Video] Formation<br>	  https://www.grafikart.fr/formations/php<br>	- [Video] Formation POO<br>	  https://www.grafikart.fr/formations/programmation-objet-php<br>	- POO et MVC<br>	  https://openclassrooms.com/fr/courses/1665806-programmez-en-oriente-objet-en-php<br>	  https://openclassrooms.com/fr/courses/4670706-adoptez-une-architecture-mvc-en-php<br><br>Annexes<br>	- Coder proprement<br>	  https://phptherightway.com/<br>	- Référentiel QA<br>	  https://books.goalkicker.com/PHPBook/	- Conventions<br>	  https://www.php-fig.org/psr/ | PHP |
-| #python | :langage_python: Cliquez ici pour voir les liens utiles.<br><br>Cours<br>	- https://inforef.be/swi/download/apprendre_python3_5.pdf : Cours complet (conseillé)<br>	- https://docs.python.org/3/ : Documentation officielle<br>	- https://pymotw.com/3/ : Module de bibliothèques standards<br><br>Outils / Ressources<br>	- https://www.fullstackpython.com/ : Liste Frameworks Web<br>	- https://github.com/vinta/awesome-python : Awesome List<br>	- https://peps.python.org/pep-0008/ : Coding Conventions<br>	- https://packaging.python.org/en/latest/ : Bonnes pratiques packaging<br> | Python |
-| #rust | Cliquez ici pour voir les liens utiles.<br>Cours<br>	https://doc.rust-lang.org/stable/book/ : Rust Book - cours complet (conseillé)<br>	https://doc.rust-lang.org/stable/rust-by-example/ : Rust by Example | Rust |
-| #autres-langages | Pour toute question sur un langage ne possédant pas son canal dédié. | |
+| Salon                  | Description                                                                                                                                      | Accès       |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
+| #asm                   | :langage_asm: Langages assembleurs.                                                                                                              | ASM         |
+| #c                     | :langage_c: Langage C.<br>!courc pour afficher une liste de cours.                                                                               | C           |
+| #cpp                   | :langage_cpp: Langage C++.<br>!courscpp pour afficher une liste de cours.                                                                        | C++         |
+| #csharp                | :langage_csharp: Langage C#.<br>!courscsharp pour afficher une liste de cours.                                                                   | C#          |
+| #html-css              | :langage_html:-:langage_css: Langages HTML/CSS.<br>!courshtml pour afficher une liste de cours.                                                  | HTML/CSS    |
+| #java-jvm              | :langage_java: Langages JVM (Java/Kotlin/Scala/...).<br>!coursjava pour afficher une liste de cours.                                             | Java        |
+| #javascript-typescript | :langage_js: :langage_ts: Langages JavaScript et TypeScript.<br>var:thumbsdown:let/const:thumbsup:<br>!coursjs pour afficher une liste de cours. | Javascript  |
+| #langages-fonctionnels | :langage_haskell: Langages fonctionnels (Haskell/Lisp/...) et paradigmes de programmation fonctionnelle.                                         | Fonctionnel |
+| #lua                   | :langage_lua: Langage Lua.                                                                                                                       | Lua         |
+| #php                   | :langage_php: Langage PHP et frameworks associés (Laravel, Symfony, etc).<br>!coursphp pour afficher une liste de cours.                         | PHP         |
+| #python                | :langage_python: Langage Python.<br>!courspython pour afficher une liste de cours.                                                               | Python      |
+| #rust                  | :langage_rust: Langage Rust.<br>!coursrust pour afficher une liste de cours.                                                                     | Rust        |
+| #autres-langages       | Canal pour toute question relative à un langage ne possédant pas son canal dédié.                                                                |             |
 
 ### Technologies
 
