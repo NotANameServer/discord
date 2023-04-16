@@ -18,7 +18,7 @@ Liste des membres du serveur ayant des droits sur sa gestion et sa modération.
 | bot-discord | **Martin_#9202** (455476176836755468) |
 | java | **florent#8092** (332479154496864259) et **Il_totore#9133** (403609872123428864) |
 | javascript-typescript | **Mestery#3859** (282201728097583104) |
-| php | **Mjöllnir#3515** (241702391756357633) et **Cara#0385** (88562959478972416) |
+| php | **Mjöllnir#3515** (241702391756357633) |
 | python | **Dr Lazor#6737** (87605725857058816) |
 | rust | **baptiste0928#0001** (207852811596201985) |
 | securite | **\[Ben\]#4444** (496774441506963466) |
