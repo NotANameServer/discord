@@ -134,7 +134,7 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | #hardware | Un doute sur le choix de votre configuration ? Une hésitation sur quelle carte graphique choisir ? Pour toutes vos demandes et questions concernant le hardware, c'est ici. | |
 | #sécurité | | Sécurité |
 | #support-technique | Un problème de mise à jour, un ordinateur qui ne démarre plus, votre webcam ne vous montre plus votre grande beauté ? Vous êtes au bon endroit ! | |
-| #systeme-et-reseau | Un problème avec la configuration de votre serveur, de votre réseau, vous vous êtes vous même bloqué via iptables ? Nous pouvons vous aider, peut-être. | Système et Réseau |
+| #systeme-et-reseau | Un problème avec la configuration de votre serveur, de votre réseau ? Nous pouvons vous aider, peut-être. Ce canal accepte aussi les questions concernant Git. | Système et Réseau |
 
 ### Rendu 3D
 
