@@ -80,7 +80,7 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | #regles | Le passage obligatoire avant de discuter ici| Staff |
 | #annonces | Annonces importantes du serveur (et sondages à l'occasion) | Staff |
 | #rejoindre-les-cannaux | Débloquez l'accès aux canaux de programmation et autres sujets ici | Staff |
-| #faq | | Staff |
+| #guidelines | | Staff |
 
 ### Général
 
