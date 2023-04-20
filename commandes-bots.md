@@ -47,13 +47,6 @@ NaN ne cautionne pas l'aide apportée sur des sujets où la légalité est doute
 Voici une liste de cours et documentations pour plusieurs langages (par TnTakara) : <https://learndev.info/>
 ```
 
-### coursblender
-
-```markdown
-Le cours Blender d'OpenClassrooms étant vastement obsolète et même faux par endroits, il est ivement conseillé de t'orienter vers cette suite de tutos qui a l'avantage d'être à jour et d'être faite par un professionnel expérimenté :
-<https://www.youtube.com/watch?v=xtsDulnyLf0&list=PLuZVx6uIcP-QSUx9zyGto6ZWSABeAH_76>
-```
-
 ### coursc
 
 ```markdown
