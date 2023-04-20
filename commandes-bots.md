@@ -360,14 +360,6 @@ La publicité, la présentation des projets et les messages de recrutements sont
 Il existe des salons dédiés à ces messages et l'accès à ces salons est modéré par le staff. Tout message à tendance publicitaire ou de recrutement envoyé en dehors de ces salons ou par messages privés est interdit. Voir la section *Les salons modérés* des <#860920579154772018>
 ```
 
-### regle7
-
-```markdown
-Rappel de la règle n°7 du serveur : `Poster un message pour demander si quelqu'un peut vous aider est contre-productif, poser directement vos questions vous apportera plus d'aide.`
-
-N'hésitez pas à donner directement votre problème au lieu d'attendre que quelqu'un soit disponible !
-```
-
 ### salon
 
 ```markdown
