@@ -275,6 +275,7 @@ Pensez à regarder également dans les messages épinglés, des ressources y son
 ```
 
 ```json
+{
 "embed": {
   "color": 16147968,
   "fields": [
@@ -300,6 +301,7 @@ Pensez à regarder également dans les messages épinglés, des ressources y son
     "url": "https://www.rust-lang.org/",
     "icon_url": "https://cdn.discordapp.com/emojis/436842016559857664.png"
   }
+}
 }
 ```
 
