@@ -334,12 +334,6 @@ N'hésitez pas à donner directement votre problème au lieu d'attendre que quel
 Vous ne voyez pas le canal indiqué par les autres utilisateurs ? Voici la marche à suivre : <https://discordapp.com/channels/323076998576603137/699260551758610545/699265804994215997>
 ```
 
-### joinchannel
-
-```markdown
-Pour rejoindre un canal de langage (et d'autres), cliquez sur le lien suivant: https://discord.com/channels/323076998576603137/440592843489280011/440593868464062472
-```
-
 ### debutant
 
 ```markdown
