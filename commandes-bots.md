@@ -304,36 +304,6 @@ Pensez à regarder également dans les messages épinglés, des ressources y son
 Il existe volontairement plusieurs canaux dédiés à certaines catégories de questions et discussions. Cette distinction par canaux est présente pour éviter de dupliquer les messages. Il est inutile et dérangeant de demander dans un canal de répondre à votre question dans un autre : quelqu'un vous répondra en temps voulu, mais certainement pas ailleurs que celui dans lequel votre question est adaptée.
 ```
 
-### mp, vocal
-
-```markdown
-L'aide en message privé (`!mp`, `!vocal`)
-
-Sur Not a Name, on ne préconise ni l'aide en message privé ni l'aide en vocal. Votre problème est peut-être partagé par un autre membre, ou votre question peut en intéresser d'autres. De plus, si une unique personne vous aide et que sa façon de faire est déconseillée, vous vous retrouverez avec d'autres problèmes sur les bras ; là ou une multitude d'autres membres auraient souligné ces mauvaises pratiques.
-```
-
-### recrutement
-
-```markdown
-La publicité, la présentation des projets et les messages de recrutements sont soumis à une règlementation accrue. (`!recrutement`)
-
-Il existe des salons dédiés à ces messages et l'accès à ces salons est modéré par le staff. Tout message à tendance publicitaire ou de recrutement envoyé en dehors de ces salons ou par messages privés est interdit. Voir la section *Les salons modérés* des <#860920579154772018>
-```
-
-### regle7
-
-```markdown
-Rappel de la règle n°7 du serveur : `Poster un message pour demander si quelqu'un peut vous aider est contre-productif, poser directement vos questions vous apportera plus d'aide.`
-
-N'hésitez pas à donner directement votre problème au lieu d'attendre que quelqu'un soit disponible !
-```
-
-### salon
-
-```markdown
-Vous ne voyez pas le canal indiqué par les autres utilisateurs ? Voici la marche à suivre : <https://discordapp.com/channels/323076998576603137/699260551758610545/699265804994215997>
-```
-
 ### devbots
 
 ```markdown
@@ -379,6 +349,36 @@ Nous considérons comme examen tout devoir noté effectué dans l'etablissement 
 
 **Devoirs maisons:**
 Nous sommes un peu plus laxistes sur ce point, nous autorisons l'aide concernant les devoirs maisons *mais* ce sera une aide de résolution de problèmes, pas à faire le devoir à votre place. Toute demande afin que quelqu'un fasse le devoir à votre place gratuitement ou contre rétribution est **interdite**.
+```
+
+### mp, vocal
+
+```markdown
+L'aide en message privé (`!mp`, `!vocal`)
+
+Sur Not a Name, on ne préconise ni l'aide en message privé ni l'aide en vocal. Votre problème est peut-être partagé par un autre membre, ou votre question peut en intéresser d'autres. De plus, si une unique personne vous aide et que sa façon de faire est déconseillée, vous vous retrouverez avec d'autres problèmes sur les bras ; là ou une multitude d'autres membres auraient souligné ces mauvaises pratiques.
+```
+
+### recrutement
+
+```markdown
+La publicité, la présentation des projets et les messages de recrutements sont soumis à une règlementation accrue. (`!recrutement`)
+
+Il existe des salons dédiés à ces messages et l'accès à ces salons est modéré par le staff. Tout message à tendance publicitaire ou de recrutement envoyé en dehors de ces salons ou par messages privés est interdit. Voir la section *Les salons modérés* des <#860920579154772018>
+```
+
+### regle7
+
+```markdown
+Rappel de la règle n°7 du serveur : `Poster un message pour demander si quelqu'un peut vous aider est contre-productif, poser directement vos questions vous apportera plus d'aide.`
+
+N'hésitez pas à donner directement votre problème au lieu d'attendre que quelqu'un soit disponible !
+```
+
+### salon
+
+```markdown
+Vous ne voyez pas le canal indiqué par les autres utilisateurs ? Voici la marche à suivre : <https://discordapp.com/channels/323076998576603137/699260551758610545/699265804994215997>
 ```
 
 ## Commandes "funs"
