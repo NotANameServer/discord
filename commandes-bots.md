@@ -41,13 +41,6 @@ NaN ne cautionne pas l'aide apportée sur des sujets où la légalité est doute
 }
 ```
 
-### configpc
-
-```markdown
-**Comment faire une demande de config** : <https://discordapp.com/channels/323076998576603137/699260551758610545/699266110494605412>
-**Comment proposer correctement une config** : <https://discordapp.com/channels/323076998576603137/699260551758610545/699266296478564453>
-```
-
 ### cours
 
 ```markdown
