@@ -96,7 +96,7 @@ Attention au cours d'Openclassrooms, celui-ci est obsolète et de mauvaise quali
 ### courscsharp
 
 ```markdown
-Voici un ensemble de ressources intéressantes pour commencer votre apprentissage, ou l'approfondir : 
+Voici un ensemble de ressources intéressantes pour commencer votre apprentissage, ou l'approfondir :
 
 - <https://docs.microsoft.com/en-us/dotnet/csharp/> Cours complet sur l'apprentissage du langage
 - <https://docs.microsoft.com/fr-fr/aspnet/?view=aspnetcore-2.2#pivot=core> Apprendre ASP.NET (Web).
@@ -247,7 +247,7 @@ Alternativement il existe aussi de bons cours en français :
 ### courspython
 
 ```markdown
-Le Python est actuellement le choix le plus conseillé pour commencer l'apprentissage de la programmation. En effet, contrairement à d'autres langages : 
+Le Python est actuellement le choix le plus conseillé pour commencer l'apprentissage de la programmation. En effet, contrairement à d'autres langages :
 - il n'est pas entièrement orienté objet comme Java et C#,
 - il est beaucoup plus haut niveau que le C.
 Certaines complexités de ces langages n'étant pas présentes dans le Python, il vous permettra de vous concentrer sur l'apprentissage pur et dur de l'algorithmie sans être dérangé par des complexités propres à certains langages, et pas forcément intéressantes, ni utiles à comprendre pour votre apprentissage.
@@ -258,9 +258,51 @@ Le cours le plus conseillé pour commencer votre apprentissage est celui de Gér
 ### coursrust
 
 ```markdown
-La meilleure ressource pour apprendre le Rust est le Rust Book officiel : <https://doc.rust-lang.org/stable/book/>
+:closed_book: Rust Book
+La meilleure ressource pour apprendre le Rust est le Book officiel. Une traduction en français est disponible, ainsi qu'une [édition papier et ebook](https://nostarch.com/rust-programming-language-2nd-edition).
 
-Le Rust by Example est aussi très bien pour avoir des explications avec des exemples de code en Rust : <https://doc.rust-lang.org/stable/rust-by-example/>
+:flag_gb: [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) (recommandé)
+:flag_fr: [Le langage de programmation Rust](https://jimskapt.github.io/rust-book-fr/)
+
+:blue_book: Idiomatic Rust
+Idiomatic Rust liste de nombreuses ressources pour progresser en Rust, découvrir son écosystème, et écrire du code propre et idiomatique : [Idiomatic Rust](https://github.com/mre/idiomatic-rust)
+
+:page_facing_up: Rust by Example
+Rust by Example présente les concepts de Rust à travers divers exemples de codes documentés : [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
+
+:pushpin: Messages épinglés
+Pensez à regarder également dans les messages épinglés, des ressources y sont listées.
+```
+
+```json
+{
+"embed": {
+  "color": 16147968,
+  "fields": [
+    {
+      "name": ":closed_book: Rust Book",
+      "value": "La meilleure ressource pour apprendre le Rust est le Book officiel. Une traduction en français est disponible, ainsi qu'une [édition papier et ebook](https://nostarch.com/rust-programming-language-2nd-edition).\n\n:flag_gb: [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) (recommandé)\n:flag_fr: [Le langage de programmation Rust](https://jimskapt.github.io/rust-book-fr/)"
+    },
+    {
+      "name": ":blue_book: Idiomatic Rust",
+      "value": "Idiomatic Rust liste de nombreuses ressources pour progresser en Rust, découvrir son écosystème, et écrire du code propre et idiomatique : [Idiomatic Rust](https://github.com/mre/idiomatic-rust)"
+    },
+    {
+      "name": ":page_facing_up: Rust by Example",
+      "value": "Rust by Example présente les concepts de Rust à travers divers exemples de codes documentés : [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)"
+    },
+    {
+      "name": ":pushpin: Messages épinglés",
+      "value": "Pensez à regarder également dans les messages épinglés, des ressources y sont listées."
+    }
+  ],
+  "author": {
+    "name": "Cours sur le langage Rust",
+    "url": "https://www.rust-lang.org/",
+    "icon_url": "https://cdn.discordapp.com/emojis/436842016559857664.png"
+  }
+}
+}
 ```
 
 ### crosspost
