@@ -82,7 +82,7 @@ Le serveur met à disposition diverses réactions pratiques :
 
 Pour les non-connaisseurs de Discord, il existe un moyen de poster du code bien formaté, lisible et coloré. Référez-vous à la documentation de Discord :
 
-<https://support.discord.com/hc/fr/articles/210298617-Bases-de-la-mise-en-forme-de-texte-Markdown-mise-en-forme-du-chat-gras-italique-soulign%C3%A9>.
+[Documentation Discord](https://support.discord.com/hc/fr/articles/210298617-Bases-de-la-mise-en-forme-de-texte-Markdown-mise-en-forme-du-chat-gras-italique-soulign%C3%A9).
 
 Si jamais votre code est beaucoup trop long pour tenir en un message ou que vous remplissez votre écran avec, il existe des sites pour poster vos codes. Il vous suffit de copier-coller votre code dans le site et de le sauvegarder, vous serez redirigés sur une page où votre code a été sauvegardé et vous pourrez copier-coller l'URL unique sur Discord.
 
