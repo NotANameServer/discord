@@ -14,7 +14,7 @@ Bonjour, il semblerait que la communauté ne comprenne pas votre question. Êtes
 
 ```markdown
 **Canaux**
-Il y a divers canaux à votre disposition. Certains sont basés sur un thème en général comme #hardware, et d'autres sont spécifiques aux langages comme #python. Afin de pouvoir accéder aux canaux, vous devez vous attribuer un rôle via rejoindre-les-canaux.
+Il y a divers canaux à votre disposition. Certains sont basés sur un thème en général comme `#hardware`, et d'autres sont spécifiques aux langages comme `#python`. Afin de pouvoir accéder aux canaux, vous devez vous attribuer un rôle via #rejoindre-les-canaux.
 
 **Demander de l'aide**
 Pour faire une demande d'aide efficace, veillez à directement poser votre question **en incluant le plus d'informations possibles** au lieu de demander si quelqu'un est disponible.
@@ -34,31 +34,17 @@ NaN ne cautionne pas l'aide apportée sur des sujets où la légalité est doute
 ```json
 {
   "embed":{
-    "description":"Pour les non-connaisseurs de Discord, il existe un moyen de poster du code bien formaté, lisible et coloré. Référez-vous à la documentation de Discord :\n\n[Documentation Discord](https://support.discord.com/hc/fr/articles/210298617-Bases-de-la-mise-en-forme-de-texte-Markdown-mise-en-forme-du-chat-gras-italique-souligné)\n\nSi votre code est assez long, preferez plutôt l'envoi d'un fichier (avec la bonne extension!) directement, Discord saura le mettre en forme pour qu'on puisse le lire ou le télécharger.\n\nMerci de **ne pas envoyer** de screenshot/photo de votre code directement.",
+    "description":"Pour les non-connaisseurs de Discord, il existe un moyen de poster du code bien formaté, lisible et coloré. Référez-vous à la documentation de Discord :\n\n[Documentation Discord](https://support.discord.com/hc/fr/articles/210298617-Bases-de-la-mise-en-forme-de-texte-Markdown-mise-en-forme-du-chat-gras-italique-souligné)\n\nSi votre code est assez long, préférez plutôt l'envoi d'un fichier (avec la bonne extension!) directement, Discord saura le mettre en forme pour qu'on puisse le lire ou le télécharger.\n\nMerci de **ne pas envoyer** de screenshot/photo de votre code directement.",
     "title":"Poster du code (`!code`)",
     "color":8323199
   }
 }
 ```
 
-### configpc
-
-```markdown
-**Comment faire une demande de config** : <https://discordapp.com/channels/323076998576603137/699260551758610545/699266110494605412>
-**Comment proposer correctement une config** : <https://discordapp.com/channels/323076998576603137/699260551758610545/699266296478564453>
-```
-
 ### cours
 
 ```markdown
 Voici une liste de cours et documentations pour plusieurs langages (par TnTakara) : <https://learndev.info/>
-```
-
-### coursblender
-
-```markdown
-Le cours Blender d'OpenClassrooms étant vastement obsolète et même faux par endroits, il est ivement conseillé de t'orienter vers cette suite de tutos qui a l'avantage d'être à jour et d'être faite par un professionnel expérimenté :
-<https://www.youtube.com/watch?v=xtsDulnyLf0&list=PLuZVx6uIcP-QSUx9zyGto6ZWSABeAH_76>
 ```
 
 ### coursc
@@ -311,56 +297,6 @@ Pensez à regarder également dans les messages épinglés, des ressources y son
 Il existe volontairement plusieurs canaux dédiés à certaines catégories de questions et discussions. Cette distinction par canaux est présente pour éviter de dupliquer les messages. Il est inutile et dérangeant de demander dans un canal de répondre à votre question dans un autre : quelqu'un vous répondra en temps voulu, mais certainement pas ailleurs que celui dans lequel votre question est adaptée.
 ```
 
-### mp, vocal
-
-```markdown
-L'aide en message privé (`!mp`, `!vocal`)
-
-Sur Not a Name, on ne préconise ni l'aide en message privé ni l'aide en vocal. Votre problème est peut-être partagé par un autre membre, ou votre question peut en intéresser d'autres. De plus, si une unique personne vous aide et que sa façon de faire est déconseillée, vous vous retrouverez avec d'autres problèmes sur les bras ; là ou une multitude d'autres membres auraient souligné ces mauvaises pratiques.
-```
-
-### recrutement
-
-```markdown
-La publicité, la présentation des projets et les messages de recrutements sont soumis à une règlementation accrue. (`!recrutement`)
-
-Il existe des salons dédiés à ces messages et l'accès à ces salons est modéré par le staff. Tout message à tendance publicitaire ou de recrutement envoyé en dehors de ces salons ou par messages privés est interdit. Voir la section *Les salons modérés* des <#860920579154772018>
-```
-
-### regle7
-
-```markdown
-Rappel de la règle n°7 du serveur : `Poster un message pour demander si quelqu'un peut vous aider est contre-productif, poser directement vos questions vous apportera plus d'aide.`
-
-N'hésitez pas à donner directement votre problème au lieu d'attendre que quelqu'un soit disponible !
-```
-
-### salon
-
-```markdown
-Vous ne voyez pas le canal indiqué par les autres utilisateurs ? Voici la marche à suivre : <https://discordapp.com/channels/323076998576603137/699260551758610545/699265804994215997>
-```
-
-### joinchannel
-
-```markdown
-Pour rejoindre un canal de langage (et d'autres), cliquez sur le lien suivant: https://discord.com/channels/323076998576603137/440592843489280011/440593868464062472
-```
-
-### debutant
-
-```markdown
-Canaux
-
-Il y a divers canaux à votre disposition. Certains sont basés sur un thème en général comme `#hardware`, et d'autres sont spécifiques aux langages comme `#python`. Afin de pouvoir accéder aux canaux, vous devez vous attribuer un rôle via <#440592843489280011>.
-
-Demander de l'aide
-Pour faire une demande d'aide efficace, veillez à directement poser votre question **en incluant le plus d'informations possibles** au lieu de demander si quelqu'un est disponible.
-
-Partager son code
-N'utilisez pas de capture d'écran de votre code mais plutôt le Markdown intégré de Discord. Si votre code est trop long, vous pouvez utiliser un service tiers comme https://paste.artemix.org/.
-```
-
 ### devbots
 
 ```markdown
@@ -406,6 +342,28 @@ Nous considérons comme examen tout devoir noté effectué dans l'etablissement 
 
 **Devoirs maisons:**
 Nous sommes un peu plus laxistes sur ce point, nous autorisons l'aide concernant les devoirs maisons *mais* ce sera une aide de résolution de problèmes, pas à faire le devoir à votre place. Toute demande afin que quelqu'un fasse le devoir à votre place gratuitement ou contre rétribution est **interdite**.
+```
+
+### mp, vocal
+
+```markdown
+L'aide en message privé (`!mp`, `!vocal`)
+
+Sur Not a Name, on ne préconise ni l'aide en message privé ni l'aide en vocal. Votre problème est peut-être partagé par un autre membre, ou votre question peut en intéresser d'autres. De plus, si une unique personne vous aide et que sa façon de faire est déconseillée, vous vous retrouverez avec d'autres problèmes sur les bras ; là ou une multitude d'autres membres auraient souligné ces mauvaises pratiques.
+```
+
+### recrutement
+
+```markdown
+La publicité, la présentation des projets et les messages de recrutements sont soumis à une règlementation accrue. (`!recrutement`)
+
+Il existe des salons dédiés à ces messages et l'accès à ces salons est modéré par le staff. Tout message à tendance publicitaire ou de recrutement envoyé en dehors de ces salons ou par messages privés est interdit. Voir la section *Les salons modérés* des <#860920579154772018>
+```
+
+### salon
+
+```markdown
+Vous ne voyez pas le canal indiqué par les autres utilisateurs ? Voici la marche à suivre : <https://discordapp.com/channels/323076998576603137/699260551758610545/699265804994215997>
 ```
 
 ## Commandes "funs"
