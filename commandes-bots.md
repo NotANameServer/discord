@@ -370,6 +370,18 @@ Nous considérons comme examen tout devoir noté effectué dans l'etablissement 
 Nous sommes un peu plus laxistes sur ce point, nous autorisons l'aide concernant les devoirs maisons *mais* ce sera une aide de résolution de problèmes, pas à faire le devoir à votre place. Toute demande afin que quelqu'un fasse le devoir à votre place gratuitement ou contre rétribution est **interdite**.
 ```
 
+### mentoring
+
+```json
+{
+  "embed":{
+    "description":"Le serveur ne propose pas de système de mentoring, cela necessite que le mentor soit **qualifié** et ce système se base sur le fait qu'une personne seule aurait toute les bonnes réponses.\nCe n'est pas un moyen d'apprentissage recommandée par la communauté NaN.\nNous conseillons plutôt de suivre un des nombreux cours proposés sur le serveur via `!cours`, `!cours{langage}` et les messages épinglés dans les differents canaux.\n\nA noter que le mentoring gratuit ET rémunéré sont interdits ici.\n\nVous êtes bien sûr quand même les bienvenus dans les differents canaux de la communauté pour y poser des questions.",
+    "title":"À propos du mentoring (`!mentoring`)",
+    "color": 3325119
+  }
+}
+```
+
 ### mp, vocal
 
 ```markdown
