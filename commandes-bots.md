@@ -291,6 +291,32 @@ Pensez à regarder également dans les messages épinglés, des ressources y son
 }
 ```
 
+### courssql, coursdb
+```json
+{
+  "embed": {
+    "color": 15638942,
+    "fields": [
+      {
+        "name": ":flag_gb: SQL Tutorial",
+        "value": "(Gratuit) [SQL Tutorial](https://sqlzoo.net/wiki/SQL_Tutorial)"
+      },
+      {
+        "name": ":flag_fr: Sql.sh",
+        "value": "(Gratuit) [SQL.sh](https://sql.sh)"
+      },
+      {
+        "name": ":flag_gb: :money_with_wings:  Formation SQL from Zero to Hero (Postgres)",
+        "value": "(Payant) [Formation SQL from Zero to Hero (Postgres)](https://www.udemy.com/the-complete-sql-masterclass-for-data-analytics)"
+      }
+    ],
+    "author": {
+      "name": "Cours sur les bases de données"
+    }
+  }
+}
+```
+
 ### crosspost
 
 ```markdown
