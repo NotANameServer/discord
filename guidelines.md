@@ -87,8 +87,7 @@ Pour les non-connaisseurs de Discord, il existe un moyen de poster du code bien 
 Si votre code est assez long, préférez plutôt l'envoi d'un fichier (avec la bonne extension!) directement, Discord saura le mettre en forme pour qu'on puisse le lire ou le télécharger.
 Si votre code est trop long pour tenir dans un fichier sur discord, il existe des sites pour poster vos codes. Il vous suffit de copier-coller votre code dans le site et de le sauvegarder, vous serez redirigés sur une page où votre code a été sauvegardé et vous pourrez copier-coller l'URL unique sur Discord.
 
-- <https://paste.artemix.org/>
-- <https://bin.readthedocs.fr/>
+Exemple: <https://bin.readthedocs.fr/>
 
 Merci de **ne pas envoyer** de screenshot/photo de votre code directement.
 

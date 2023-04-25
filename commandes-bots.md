@@ -20,7 +20,7 @@ Il y a divers canaux à votre disposition. Certains sont basés sur un thème en
 Pour faire une demande d'aide efficace, veillez à directement poser votre question **en incluant le plus d'informations possibles** au lieu de demander si quelqu'un est disponible.
 
 **Partager son code**
-N'utilisez pas de capture d'écran de votre code mais plutôt le Markdown intégré de Discord. Si votre code est trop long, vous pouvez utiliser un service tiers comme https://paste.artemix.org/.
+N'utilisez pas de capture d'écran de votre code mais plutôt le Markdown intégré de Discord. Si votre code est trop long, vous pouvez utiliser un service tiers comme https://bin.readthedocs.fr/.
 ```
 
 ### borderline
