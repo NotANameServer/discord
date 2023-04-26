@@ -233,12 +233,73 @@ Alternativement il existe aussi de bons cours en français :
 ### courspython
 
 ```markdown
-Le Python est actuellement le choix le plus conseillé pour commencer l'apprentissage de la programmation. En effet, contrairement à d'autres langages :
-- il n'est pas entièrement orienté objet comme Java et C#,
-- il est beaucoup plus haut niveau que le C.
-Certaines complexités de ces langages n'étant pas présentes dans le Python, il vous permettra de vous concentrer sur l'apprentissage pur et dur de l'algorithmie sans être dérangé par des complexités propres à certains langages, et pas forcément intéressantes, ni utiles à comprendre pour votre apprentissage.
+:langage_python: Documentation
+https://docs.python.org/fr/3/
+📖 Cours écrit
+https://inforef.be/swi/download/apprendre_python3_5.pdf
+🎬 Cours vidéo
+https://tinyurl.com/yt-jasonchampagne
+Module de bibliothèques standards
+https://pymotw.com/3/
+Liste de frameworks web
+https://www.fullstackpython.com/
+Awesome List
+https://github.com/vinta/awesome-python
+Coding Conventions
+https://peps.python.org/pep-0008/
+Bonnes pratiques packaging
+https://packaging.python.org/en/latest/
+📚 Plus encore
+https://hub.notaname.fr/langages/python/apprendre-python-quoi-lire-quoi-regarder.html
+```
 
-Le cours le plus conseillé pour commencer votre apprentissage est celui de Gérard Swinnen, disponible ici : https://inforef.be/swi/download/apprendre_python3_5.pdf
+```json
+{
+  "embed":{
+    "author":{
+      "name":"Apprendre le Python",
+      "icon_url":"https://cdn.discordapp.com/emojis/436841178936246272.png"
+    },
+    "color":815124,
+    "fields":[{
+        "value":"https://docs.python.org/fr/3/",
+        "name":"<:langage_python:436841178936246272> Documentation",
+        "inline":false
+      },{
+        "value":"https://inforef.be/swi/download/apprendre_python3_5.pdf",
+        "name":"📖 Cours écrit",
+        "inline":false
+      },{
+        "value":"https://tinyurl.com/yt-jasonchampagne",
+        "name":"🎬 Cours vidéo",
+        "inline":false
+      },{
+        "value":"https://pymotw.com/3/",
+        "name":"Module de bibliothèques standards",
+        "inline":false
+      },{
+        "value":"https://www.fullstackpython.com/",
+        "name":"Liste de frameworks web",
+        "inline":false
+      },{
+        "value":"https://github.com/vinta/awesome-python",
+        "name":"Awesome List",
+        "inline":false
+      },{
+        "value":"https://peps.python.org/pep-0008/",
+        "name":"Coding Conventions",
+        "inline":false
+      },{
+        "value":"https://packaging.python.org/en/latest/",
+        "name":"Bonnes pratiques packaging",
+        "inline":false
+      },{
+        "value":"https://hub.notaname.fr/langages/python/apprendre-python-quoi-lire-quoi-regarder.html",
+        "name":"📚 Plus encore",
+        "inline":false
+      }]
+  }
+}
 ```
 
 ### coursrust
