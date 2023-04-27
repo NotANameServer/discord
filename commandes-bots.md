@@ -233,73 +233,34 @@ Alternativement il existe aussi de bons cours en français :
 ### courspython
 
 ```markdown
-:langage_python: Documentation
-https://docs.python.org/fr/3/
+Références Python (!courspython)
+Cours
+🍋 En ligne ZdS
+🌐 En ligne SdZ
 📖 Cours écrit
-https://inforef.be/swi/download/apprendre_python3_5.pdf
 🎬 Cours vidéo
-https://tinyurl.com/yt-jasonchampagne
-Module de bibliothèques standards
-https://pymotw.com/3/
-Liste de frameworks web
-https://www.fullstackpython.com/
-Awesome List
-https://github.com/vinta/awesome-python
-Coding Conventions
-https://peps.python.org/pep-0008/
-Bonnes pratiques packaging
-https://packaging.python.org/en/latest/
-📚 Plus encore
-https://hub.notaname.fr/langages/python/apprendre-python-quoi-lire-quoi-regarder.html
+Documentation
+🐍 Officielle
+🔋 Libraries
+🔧 Modèle de données
+📦 Packaging
+Livres
+🐿️ Cookbook
+📓 Expert Py. Prog.
+Articles
+:nan: Not a Name
+🍊 Zeste de Savoir
+🕸️ Fullstack
+Conférences
+🤵‍♂️ Data Model
+👺 Beyond PEP8
+🏎️ Concurrency
+📌 Regardez aussi les messages épinglés !
+En haut à droite de votre écran.
 ```
 
 ```json
-{
-  "embed":{
-    "author":{
-      "name":"Apprendre le Python",
-      "icon_url":"https://cdn.discordapp.com/emojis/436841178936246272.png"
-    },
-    "color":815124,
-    "fields":[{
-        "value":"https://docs.python.org/fr/3/",
-        "name":"<:langage_python:436841178936246272> Documentation",
-        "inline":false
-      },{
-        "value":"https://inforef.be/swi/download/apprendre_python3_5.pdf",
-        "name":"📖 Cours écrit",
-        "inline":false
-      },{
-        "value":"https://tinyurl.com/yt-jasonchampagne",
-        "name":"🎬 Cours vidéo",
-        "inline":false
-      },{
-        "value":"https://pymotw.com/3/",
-        "name":"Module de bibliothèques standards",
-        "inline":false
-      },{
-        "value":"https://www.fullstackpython.com/",
-        "name":"Liste de frameworks web",
-        "inline":false
-      },{
-        "value":"https://github.com/vinta/awesome-python",
-        "name":"Awesome List",
-        "inline":false
-      },{
-        "value":"https://peps.python.org/pep-0008/",
-        "name":"Coding Conventions",
-        "inline":false
-      },{
-        "value":"https://packaging.python.org/en/latest/",
-        "name":"Bonnes pratiques packaging",
-        "inline":false
-      },{
-        "value":"https://hub.notaname.fr/langages/python/apprendre-python-quoi-lire-quoi-regarder.html",
-        "name":"📚 Plus encore",
-        "inline":false
-      }]
-  }
-}
+{"embed":{"author":{"name":"Références Python (!courspython)","icon_url":"https://cdn.discordapp.com/emojis/436841178936246272.png"},"color":815124,"fields":[{"name":"Cours","value":"🍋 [En ligne ZdS](https://zestedesavoir.com/tutoriels/2514/un-zeste-de-python/)\n🌐 [En ligne SdZ](https://user.oc-static.com/ftp/livre/python/apprenez_a_programmer_en_python.pdf)\n📖 [Cours écrit](https://inforef.be/swi/download/apprendre_python3_5.pdf)\n🎬 [Cours vidéo](https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC)","inline":true},{"name":"Documentation","value":"🐍 [Officielle](https://docs.python.org/fr/3/)\n🔋 [Libraries](https://pymotw.com/3/)\n🔧 [Modèle de données](https://docs.python.org/fr/3/reference/datamodel.html)\n📦 [Packaging](https://packaging.python.org/en/latest/)","inline":true},{"name":"Livres","value":"🐿️ [Cookbook](https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/)\n📓 [Expert Py. Prog.](https://www.packtpub.com/product/expert-python-programming-fourth-edition/9781801071109)","inline":true},{"name":"Articles","value":"<:nan:642454964836368386> [Not a Name](https://hub.notaname.fr/langages/python/)\n🍊 [Zeste de Savoir](https://zestedesavoir.com/bibliotheque/?tag=python)\n🕸️ [Fullstack](https://www.fullstackpython.com/)","inline":true},{"name":"Conférences","value":"👺 [Beyond PEP8](https://youtu.be/wf-BqAjZb8M)\n🏎️ [Concurrency](https://youtu.be/9zinZmE3Ogk)\n🤵‍♂️ [Data Model](https://youtu.be/cKPlPJyQrt4)","inline":true},{"name":"📌 Regardez aussi les messages épinglés !","value":"En haut à droite de votre écran.","inline":false}]}}
 ```
 
 ### coursrust
