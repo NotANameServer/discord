@@ -22,3 +22,4 @@ Liste des membres du serveur ayant des droits sur sa gestion et sa modération.
 | python | **Dr Lazor#6737** (87605725857058816) |
 | rust | **baptiste0928#0001** (207852811596201985) |
 | securite | **\[Ben\]#4444** (496774441506963466) |
+| systeme-et-reseau | **-MoNsTeRRR#2160** (199688749712539648) |
