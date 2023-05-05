@@ -14,13 +14,34 @@ Bonjour, il semblerait que la communauté ne comprenne pas votre question. Êtes
 
 ```markdown
 **Canaux**
-Il y a divers canaux à votre disposition. Certains sont basés sur un thème en général comme `#hardware`, et d'autres sont spécifiques aux langages comme `#python`. Afin de pouvoir accéder aux canaux, vous devez vous attribuer un rôle via #rejoindre-les-canaux.
+Il y a divers canaux à votre disposition. Certains sont basés sur un thème en général comme `#hardware`, et d'autres sont spécifiques aux langages comme `#python`. Afin de pouvoir accéder aux canaux, vous devez vous attribuer un rôle via <id:customize> et <id:browse>.
 
 **Demander de l'aide**
 Pour faire une demande d'aide efficace, veillez à directement poser votre question **en incluant le plus d'informations possibles** au lieu de demander si quelqu'un est disponible.
 
 **Partager son code**
 N'utilisez pas de capture d'écran de votre code mais plutôt le Markdown intégré de Discord. Si votre code est trop long, vous pouvez utiliser un service tiers comme https://bin.readthedocs.fr/.
+```
+
+```json
+{
+  "embed":{
+    "fields":[{
+        "name":"**Canaux**",
+        "value":"Il y a divers canaux à votre disposition. Certains sont basés sur un thème en général comme `#hardware`, et d'autres sont spécifiques aux langages comme `#python`. Afin de pouvoir accéder aux canaux, vous devez vous attribuer un rôle via <id:customize> et <id:browse>.",
+        "inline":false
+      },{
+        "name":"Demander de l'aide",
+        "value":"Pour faire une demande d'aide efficace, veillez à directement poser votre question **en incluant le plus d'informations possibles** au lieu de demander si quelqu'un est disponible.",
+        "inline":false
+      },{
+        "name":"Partager son code",
+        "value":"N'utilisez pas de capture d'écran de votre code mais plutôt le Markdown intégré de Discord. Si votre code est trop long, vous pouvez utiliser un service tiers comme https://bin.readthedocs.fr/.",
+        "inline":false
+      }],
+    "color":8407071
+  }
+}
 ```
 
 ### borderline
