@@ -75,34 +75,33 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 
 ### Important
 
-| Salon | Description | Accès |
-| ----- | ----------- | ----- |
-| #regles | Le passage obligatoire avant de discuter ici| Staff |
-| #annonces | Annonces importantes du serveur (et sondages à l'occasion) | Staff |
-| #rejoindre-les-cannaux | Débloquez l'accès aux canaux de programmation et autres sujets ici | Staff |
-| #guidelines | | Staff |
+| Salon       | Description                                                | Accès |
+| ----------- | ---------------------------------------------------------- | ----- |
+| #regles     | Le passage obligatoire avant de discuter ici               | Staff |
+| #annonces   | Annonces importantes du serveur (et sondages à l'occasion) | Staff |
+| #guidelines |                                                            | Staff |
 
 ### Général
 
-| Salon | Description | Accès |
-| ----- | ----------- | ----- |
-| #discussions | Canal général pour accueillir toutes les discussions n'ayant pas leur place dans les autres canaux. | |
-| #detente | Pour parler de tout et de rien, préférez ce canal au canal #discussions pour les sujets non-sérieux. | |
-| #suggestions | Les suggestions se font maintenant via le GitHub dédié à la gestion du serveur : https://github.com/NotANameServer/discord |
-| #github-comments | Suivez les propositions d'évolution du serveur et proposez vos propres idées via https://github.com/NotANameServer/discord ! |
-| #stats | Statistiques officielles du serveur, fournies par NaB | @NotABot |
-| #bienvenue | Rentrées et sorties du serveur | @NotABot |
+| Salon            | Description                                                                                                                  | Accès    |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------- | -------- |
+| #discussions     | Canal général pour accueillir toutes les discussions n'ayant pas leur place dans les autres canaux.                          |          |
+| #detente         | Pour parler de tout et de rien, préférez ce canal au canal #discussions pour les sujets non-sérieux.                         |          |
+| #github-comments | Suivez les propositions d'évolution du serveur et proposez vos propres idées via https://github.com/NotANameServer/discord ! |          |
+| #suggestions     | Les suggestions se font maintenant via le GitHub dédié à la gestion du serveur : https://github.com/NotANameServer/discord   |          |
+| #stats           | Statistiques officielles du serveur, fournies par NaB                                                                        | @NotABot |
+| #bienvenue       | Entrées et sorties du serveur                                                                                                | @NotABot |
 
 ### Communautaire
 
-| Salon | Description | Accès |
-| ----- | ----------- | ----- |
-| #offres | Canal réservé aux offres d'emplois/de contrats rémunérés | Recruteurs |
-| #live | Notre communauté propose quelques streameurs cool ! Retrouvez la liste épinglée. | @NotABot |
+| Salon              | Description | Accès |
+| ------------------ | ----------- | ----- |
+| #offres            | Canal réservé aux offres d'emplois/de contrats rémunérés | Recruteurs |
+| #live              | Notre communauté propose quelques streameurs cool ! Retrouvez la liste épinglée. | @NotABot |
 | #questions-professionnelles | Ce salon est réservé aux questions et discussions sur la vie professionnelle (entreprise, boulot, salaire), **merci de ne pas parler d'autre chose.** | |
-| #screenshots | Envie de partager ce sur quoi vous travaillez ? Montrez-nous en image ! ||
-| #vos-projets | Salon de présentation de vos projets personnels. **Lisez le règlement épinglé avant d'y présenter un projet.** Toute discussion est interdite, merci de le faire dans un autre canal. | VosProjets |
-| #defis |  | Ambassadeurs Staff |
+| #screenshots       | Envie de partager ce sur quoi vous travaillez ? Montrez-nous en image ! ||
+| #vos-projets       | Salon de présentation de vos projets personnels. **Lisez le règlement épinglé avant d'y présenter un projet.** Toute discussion est interdite, merci de le faire dans un autre canal. | VosProjets |
+| #defis             |  | Ambassadeurs Staff |
 | #defis-discussions |  | Défis |
 
 ### Langages
@@ -130,37 +129,38 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | #architecture-dev | Une question non liée à un langage ? Une discussion sur un principe de programmation ou d'architecture ? Bienvenue dans votre demeure. | |
 | #création-bots-discord | Pour toutes vos questions concernant la création de bots Discord, qu'importe le langage / framework. | Bots Discord |
 | #database | Une question concernant un SGBD ? La manière de structurer vos données, etc ? C'est ici !<br><br>Pour les questions liées à l'utilisation d'une bibliothèque, merci de plutôt demander dans le canal de langage associé ! | DB |
-| #manufacture-de-création-de-langage | | Manufacture de langages |
 | #hardware | Un doute sur le choix de votre configuration ? Une hésitation sur quelle carte graphique choisir ? Pour toutes vos demandes et questions concernant le hardware, c'est ici. | |
+| #intelligence-artificielle | Canal réservé aux discussions techniques et grand public autour de l'intelligence artificielle. |  |
+| #manufacture-de-création-de-langage | | Manufacture de langages |
 | #sécurité | | Sécurité |
 | #support-technique | Un problème de mise à jour, un ordinateur qui ne démarre plus, votre webcam ne vous montre plus votre grande beauté ? Vous êtes au bon endroit ! | |
 | #systeme-et-reseau | Un problème avec la configuration de votre serveur, de votre réseau ? Nous pouvons vous aider, peut-être. Ce canal accepte aussi les questions concernant Git. | Système et Réseau |
 
 ### Rendu 3D
 
-| Salon | Description | Accès |
-| ----- | ----------- | ----- |
-| #rendu3d | Canal regroupant toutes les questions concernant la création de rendu 3D. | 3D |
-| #opengl | Canal regroupant toutes les questions concernant l'utilisation d'OpenGL. | 3D |
-| #vulkan | Canal regroupant toutes les questions concernant l'utilisation de Vulkan. | 3D |
+| Salon    | Description                                                               | Accès |
+| -------- | ------------------------------------------------------------------------- | ----- |
+| #rendu3d | Canal regroupant toutes les questions concernant la création de rendu 3D. | 3D    |
+| #opengl  | Canal regroupant toutes les questions concernant l'utilisation d'OpenGL.  | 3D    |
+| #vulkan  | Canal regroupant toutes les questions concernant l'utilisation de Vulkan. | 3D    |
 
 ### Développement de jeu vidéo
 
-| Salon | Description | Accès |
-| ----- | ----------- | ----- |
-| #assets | Partage de ressources / assets pour la création de jeux.<br><br>Lisez les règles avant de poster quoi que ce soit. | Game-Dev |
-| #game-dev | Une question sur le développement de jeux en particulier ? | Game-Dev |
-| #moteurs-de-jeux | Canal regroupant les questions concernant les moteurs de jeux. | Game-Dev |
-| #not-a-gamejam | https://itch.io/jam/not-a-gamejam | Game-Dev |
+| Salon            | Description                                                                                                        | Accès    |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------ | -------- |
+| #assets          | Partage de ressources / assets pour la création de jeux.<br><br>Lisez les règles avant de poster quoi que ce soit. | Game-Dev |
+| #game-dev        | Une question sur le développement de jeux en particulier ?                                                         | Game-Dev |
+| #moteurs-de-jeux | Canal regroupant les questions concernant les moteurs de jeux.                                                     | Game-Dev |
+| #not-a-gamejam   | https://itch.io/jam/not-a-gamejam                                                                                  | Game-Dev |
 
 ### Autres
 
-| Salon | Description | Accès |
-| ----- | ----------- | ----- |
-| #commandes-bots | Pour tous vos tests de commandes sur les bots, histoire de ne pas polluer les autres salons | |
-| #etudes-orientation | Des interrogations sur votre parcours scolaire ? C'est par ici ! | |
-| #jeux | Venez discuter de vos jeux favoris | |
-| #sciences | Une question concernant les sciences en général (Physique, Chimie, Math, ...) ? Vous êtes le bienvenu. | |
+| Salon               | Description                                                                                            | Accès |
+| ------------------- | ------------------------------------------------------------------------------------------------------ | ----- |
+| #commandes-bots     | Pour tous vos tests de commandes sur les bots, histoire de ne pas polluer les autres salons            |       |
+| #etudes-orientation | Des interrogations sur votre parcours scolaire ? C'est par ici !                                       |       |
+| #jeux               | Venez discuter de vos jeux favoris                                                                     |       |
+| #sciences           | Une question concernant les sciences en général (Physique, Chimie, Math, ...) ? Vous êtes le bienvenu. |       |
 
 ### Projets
 
@@ -183,8 +183,8 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 
 ### Canaux vocaux
 
-| Salon | Description | Accès |
-| ----- | ----------- | ----- |
-| 🎮 Vocal Jeux | | Joueur |
-| Vocal Général | | |
-| Deuxième canal vocal | | |
+| Salon                | Accès  |
+| -------------------- | ------ |
+| 🎮 Vocal Jeux        | Joueur |
+| Vocal Général        |        |
+| Deuxième canal vocal |        |
