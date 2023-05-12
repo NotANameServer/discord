@@ -9,13 +9,6 @@ Bot créé à l'origine pour gérer les rôles par réaction sur Not a Name, il 
 Compte : Not a Bot#1925 (436483239268581376)  
 GitHub : https://github.com/DigitalPulseSoftware/NotaBot
 
-## Dyno
-
-Bot de modération gérant ce qui n'est pas encore implémenté dans NaB (principalement les commandes de bots).
-
-Compte : Dyno#3861 (155149108183695360)  
-Site : https://dyno.gg
-
 ## Compiler
 
 Bot de programmation gérant possibilité d'exécuter des scripts depuis le serveur.
