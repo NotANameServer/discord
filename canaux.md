@@ -109,7 +109,7 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | Salon                  | Description                                                                                                                                      | Accès       |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
 | #asm                   | :langage_asm: Langages assembleurs.                                                                                                              | ASM         |
-| #c                     | :langage_c: Langage C.<br>!courc pour afficher une liste de cours.                                                                               | C           |
+| #c-langage             | :langage_c: Langage C.<br>!coursc pour afficher une liste de cours.                                                                               | C           |
 | #cpp                   | :langage_cpp: Langage C++.<br>!courscpp pour afficher une liste de cours.                                                                        | C++         |
 | #csharp                | :langage_csharp: Langage C#.<br>!courscsharp pour afficher une liste de cours.                                                                   | C#          |
 | #html-css              | :langage_html:-:langage_css: Langages HTML/CSS.<br>!courshtml pour afficher une liste de cours.                                                  | HTML/CSS    |
