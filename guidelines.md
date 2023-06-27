@@ -133,6 +133,10 @@ Toute demande d'aide concernant le web-scraping doit être accompagné d'une ré
 
 Plus d'informations sur l'état du cadre légal du web-scraping : <https://lexing.be/le-scraping-est-il-legal/>.
 
+### Les IA génératives
+
+
+
 ## Les salons modérés
 
 Suite à de *très* nombreux abus passés, comme repris par la 3e règle, les messages publicitaires, les offres d'emploi et la présentation des vos projets se font uniquement dans leurs salons respectifs et sous réserve de l'approbation du staff. Contactez le staff via un ticket `!newticket`.
