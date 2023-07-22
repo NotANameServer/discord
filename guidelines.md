@@ -28,6 +28,15 @@ La plupart des salons sont invisibles, vous pouvez les rendre visibles via le me
 
 Sur Not a Name, on ne préconise ni l'aide en message privé ni l'aide en vocal. Votre problème est peut-être partagé par un autre membre, ou votre question peut en intéresser d'autres. De plus, si une unique personne vous aide et que sa façon de faire est déconseillée, vous vous retrouverez avec d'autres problèmes sur les bras ; là ou une multitude d'autres membres auraient souligné ces mauvaises pratiques.
 
+### Les réponses générées par IA
+
+L'intelligence artificielle étant devenue largement accessible au public, un grand nombre de personnes sont tentées de poser leurs questions techniques à ces programmes en pensant obtenir une réponse fiable. Ce n'est pas une bonne idée, les réponses données par ces programmes sont loin d'être fiables et peuvent induire en erreur les débutants. Un certain nombre d'erreurs difficiles à déceler aux premiers abords peuvent se glisser dans une réponse globalement bien rédigée, donnant l'illusion d'une réponse valable et de bonne qualité, mais qui dans la pratique peut avoir des effets négatifs sur les projets qui se baseront dessus.
+De plus, nous vous rappelons que NaN est une serveur __communautaire__, les gens qui posent des questions et demandent de l'aide doivent pouvoir discuter avec des humains qui seront en capacité de comprendre leurs besoins, le serveur n'a pas vocation à se transformer en une sorte de chatbot géant ou ne seraient échangées plus que des réponses générées automatiquement...
+
+Pour ces raisons, il est **interdit** d'utiliser ChatGPT ou toute autre IA générative pour répondre aux questions des membres.
+
+Pour plus d'informations à ce sujet, voir par exemple la [Politique de Stack Overflow](https://stackoverflow.com/help/gpt-policy).
+
 ### Les mentions
 
 Sur Not a Name, la plupart des utilisateurs préfèrent ne pas recevoir de notification sonore (être ping/mentionné) sans bonne raison.
@@ -132,10 +141,6 @@ Le scraping n'est pas correctement couvert par un cadre légal. Sur NaN, nous n'
 Toute demande d'aide concernant le web-scraping doit être accompagné d'une référence vers le passage qui autorise le scraping dans les CGU du site. À défaut, la demande d'aide tombera sous la règle concernant le respect de la loi et sera classée sans suite.
 
 Plus d'informations sur l'état du cadre légal du web-scraping : <https://lexing.be/le-scraping-est-il-legal/>.
-
-### Les IA génératives
-
-
 
 ## Les salons modérés
 
