@@ -49,7 +49,7 @@ Ceux qui ne sont pas dérangés par les notifications peuvent se renommer pour a
 
 ### A propos des débats
 
-Les débats doivent se dérouler dans le calme et chaque parti doit faire preuve d'honnêteté et de charité intellectuelle. Faire preuve d'honnêteté intellectuelle c'est oser se remettre en question, avancer des sources les plus neutres et fiables possibles et correctement contextualiser son propos. Le principe de charité est un type de compréhension des propos d'autrui qui consiste à attribuer aux déclarations de ce dernier un maximum de rationalité ([wiki](https://fr.wikipedia.org/wiki/Principe_de_charit%C3%A9)).  À l'inverse, véhiculer des idées toutes faites, mal sourcées ou sortie de leur contexte dans le seul but de convaincre n'est pas de l'honnêteté intellectuelle.
+Les débats doivent se dérouler dans le calme et chaque parti doit faire preuve d'honnêteté et de charité intellectuelle. Faire preuve d'honnêteté intellectuelle c'est oser se remettre en question, avancer des sources les plus neutres et fiables possibles et correctement contextualiser son propos. Le principe de charité est un type de compréhension des propos d'autrui qui consiste à attribuer aux déclarations de ce dernier un maximum de rationalité ([wiki](https://fr.wikipedia.org/wiki/Principe_de_charité)).  À l'inverse, véhiculer des idées toutes faites, mal sourcées ou sortie de leur contexte dans le seul but de convaincre n'est pas de l'honnêteté intellectuelle.
 
 Le but d'un débat est de comprendre où se situe le vrai, l’imprécis et le faux. Il s'agit aussi de mieux comprendre les idées et opinions de tout un chacun pour enrichir sa propre vision du monde.
 
@@ -72,7 +72,7 @@ Les ambassadeurs sont des membres habitués qui font un travail de fond dans le 
 Le serveur met à disposition diverses réactions pratiques :
 
 - :lourd: : Utilisé pour désigner un message lourd dans une conversation.
-- :mention: : Utilisé pour signaler qu'une notification vous a dérangé, qu'elle était inutile et intrusive.
+- <:mention:415903059969966090> : Utilisé pour signaler qu'une notification vous a dérangé, qu'elle était inutile et intrusive.
 - :bellhop_bell: : Utilisé pour indiquer aux autres si vous voulez être mentionné quand on vous répond.
 - :arrow_double_up: : Indique que la réponse à votre question se trouve un peu plus haut dans la conversation.
 - :pushpin: : Demander à épingler un message dans le canal. Le message est automatiquement épinglé au bout de 10 réactions.
@@ -112,8 +112,8 @@ Il est donc **interdit** de demander de l'aide pour un examen.
 Nous considérons comme examen tout devoir noté effectué dans l'etablissement scolaire.
 *Petit rappel:* Autoriser internet dans un examen ne signifie pas vous autoriser à demander à quelqu'un d'autre de faire le travail à votre place, uniquement que vous êtes autorisé à vous documenter sur Internet.
 
-**Devoirs maisons:**
-Nous sommes un peu plus laxistes sur ce point, nous autorisons l'aide concernant les devoirs maisons *mais* ce sera une aide de résolution de problèmes, pas à faire le devoir à votre place. Toute demande afin que quelqu'un fasse le devoir à votre place gratuitement ou contre rétribution est **interdite**.
+**Devoirs maison:**
+Nous sommes un peu plus laxistes sur ce point, nous autorisons l'aide concernant les devoirs maison *mais* ce sera une aide de résolution de problèmes, pas à faire le devoir à votre place. Toute demande afin que quelqu'un fasse le devoir à votre place gratuitement ou contre rétribution est **interdite**.
 
 ### Sécurité informatique
 
