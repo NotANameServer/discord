@@ -447,6 +447,18 @@ Il existe des salons dédiés à ces messages et l'accès à ces salons est mod�
 Vous ne voyez pas le canal indiqué par les autres utilisateurs ? Voici la marche à suivre : <https://discordapp.com/channels/323076998576603137/699260551758610545/699265804994215997>
 ```
 
+### scrapping / webscrapping
+
+```json
+{
+  "embed":{
+    "title":"Web-scraping",
+    "color":65024,
+    "description":"Le scraping de données est la pratique de programmatiquement télécharger des données depuis un site. Il est possible de scraper en forgeant des requêtes HTTP ou bien en automatisant un navigateur web.\n\nLe scraping n'est pas correctement couvert par un cadre légal. Sur NaN, nous n'autorisons le web-scraping que lorsque celui-ci peut s'effectuer dans le respect strict des conditions d'utilisation du site en question. En d'autres termes, lorsqu'un site propose une API et que vous voulez interagir avec ce site : vous *devez* utiliser cette API.\n\nToute demande d'aide concernant le web-scraping doit être accompagné d'une référence vers le passage qui autorise le scraping dans les CGU du site. À défaut, la demande d'aide tombera sous la règle concernant le respect de la loi et sera classée sans suite.\n\nPlus d'informations sur l'état du cadre légal du web-scraping : <https://lexing.be/le-scraping-est-il-legal/>."
+  }
+}
+```
+
 ## Commandes "funs"
 
 
