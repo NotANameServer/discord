@@ -54,6 +54,10 @@ Les salons où les discussions hors-sujet sont les bienvenues sont #discussions 
 
 Les salons vocaux ont pour vocation d'être un endroit de discussions entre membres habitués de NaN. Dans la ligné du point sur l'aide en vocal ci-dessous, ils ne peuvent pas servir dans l'unique but de poser/répondre à des questions. En particulier les salons vocaux servent aussi de point de rendez-vous pour les diverses activités sur NaN qui sont organisées par les animateurs et les ambassadeurs. Lorsque vous rejoignez un salon alors qu'une activitée est en cours, vous êtes priés de ne pas interrompre les intervenants.
 
+### Rejoindre les salons (`!salon`)
+
+La plupart des salons sont invisibles, vous pouvez les rendre visibles via le menu se trouvant dans <id:customize> et <id:browse>.
+
 ### L'aide en message privé et en vocal (`!mp`, `!vocal`)
 
 Sur Not a Name, on ne préconise ni l'aide en message privé ni l'aide en vocal. Votre problème est peut-être partagé par un autre membre, ou votre question peut en intéresser d'autres. De plus, si une unique personne vous aide et que sa façon de faire est déconseillée, vous vous retrouverez avec d'autres problèmes sur les bras ; là ou une multitude d'autres membres auraient souligné ces mauvaises pratiques.
