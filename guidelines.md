@@ -2,6 +2,28 @@
 
 ## Sommaire
 
+- 📗 [**Les salons**](#les-salons)
+  - 📘 [**Les salons sérieux**](#les-salons-sérieux)
+  - 📣 [**Les salons vocaux**](#les-salons-vocaux)
+  - ❎ [**Demander de l'aide dans plusieurs salons**](#demander-de-laide-dans-plusieurs-salons-crosspost)
+- 🗨️ [**L'aide en message privé et en vocal**](#laide-en-message-privé-et-en-vocal-mp-vocal)
+- 🛂 [**Les salons modérés**](#les-salons-modérés)
+  - 🚀 [**#vos-projets**](#vos-projets)
+  - 💵 [**#offres**](#offres)
+  - 🎥 [**#live**](#live)
+- <:mention:415903059969966090> [**Les mentions**](#les-mentions)
+- 💬 [**À propos des débats**](#à-propos-des-débats)
+- 🏛️ [**Les ambassadeurs**](#les-ambassadeurs)
+- 👋 [**Les réactions utiles**](#les-réactions-utiles)
+- 📄 [**Poster du code**](#poster-du-code-code)
+- 🧑‍🎓 [**Examens et devoirs**](#examens-et-devoirs)
+- 🛡️ [**Sécurité informatique**](#sécurité-informatique)
+- 🕸️ [**Web-scraping**](#web-scraping)
+- 🤖 [**Les réponses générées par IA**](#les-réponses-générées-par-ia)
+- **Méta**
+  - <:github:1131608653493960827> [**Le GitHub**](#le-github)
+  - <:banhammer:698209587626508288> [**Contacter le staff**](#contacter-le-staff)
+
 ```
 {
   "embed": {
@@ -55,7 +77,7 @@ En ce qui concerne la fonctionnalité "répondre" de discord, celle-ci sert surt
 
 Ceux qui ne sont pas dérangés par les notifications peuvent se renommer pour ajouter l'emoticon 🛎️ `:bellhop_bell:` à leur pseudo.
 
-### A propos des débats
+### À propos des débats
 
 Les débats doivent se dérouler dans le calme et chaque parti doit faire preuve d'honnêteté et de charité intellectuelle. Faire preuve d'honnêteté intellectuelle c'est oser se remettre en question, avancer des sources les plus neutres et fiables possibles et correctement contextualiser son propos. Le principe de charité est un type de compréhension des propos d'autrui qui consiste à attribuer aux déclarations de ce dernier un maximum de rationalité ([wiki](https://fr.wikipedia.org/wiki/Principe_de_charité)).  À l'inverse, véhiculer des idées toutes faites, mal sourcées ou sortie de leur contexte dans le seul but de convaincre n'est pas de l'honnêteté intellectuelle.
 
