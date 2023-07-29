@@ -1,4 +1,38 @@
-## Guidelines
+# Guidelines
+
+## Sommaire
+
+- 📗 [**Les salons**](#les-salons)
+  - 📘 [**Les salons sérieux**](#les-salons-sérieux)
+  - 📣 [**Les salons vocaux**](#les-salons-vocaux)
+  - ❎ [**Demander de l'aide dans plusieurs salons**](#demander-de-laide-dans-plusieurs-salons-crosspost)
+- 🗨️ [**L'aide en message privé et en vocal**](#laide-en-message-privé-et-en-vocal-mp-vocal)
+- 🛂 [**Les salons modérés**](#les-salons-modérés)
+  - 🚀 [**#vos-projets**](#vos-projets)
+  - 💵 [**#offres**](#offres)
+  - 🎥 [**#live**](#live)
+- <:mention:415903059969966090> [**Les mentions**](#les-mentions)
+- 💬 [**À propos des débats**](#à-propos-des-débats)
+- 🏛️ [**Les ambassadeurs**](#les-ambassadeurs)
+- 👋 [**Les réactions utiles**](#les-réactions-utiles)
+- 📄 [**Poster du code**](#poster-du-code-code)
+- 🧑‍🎓 [**Examens et devoirs**](#examens-et-devoirs)
+- 🛡️ [**Sécurité informatique**](#sécurité-informatique)
+- 🕸️ [**Web-scraping**](#web-scraping)
+- 🤖 [**Les réponses générées par IA**](#les-réponses-générées-par-ia)
+- **Méta**
+  - <:github:1131608653493960827> [**Le GitHub**](#le-github)
+  - <:banhammer:698209587626508288> [**Contacter le staff**](#contacter-le-staff)
+
+```
+{
+  "embed": {
+    "title": ":scroll: Sommaire",
+    "description": "- 📗 [**Les salons**](https://discord.com/channels/323076998576603137/860920579154772018/860920639182077952)\n - 📘 [**Les salons sérieux**](https://discord.com/channels/323076998576603137/860920579154772018/860920736470663178)\n - 📣 [**Les salons vocaux**](https://discord.com/channels/323076998576603137/860920579154772018/860920938074079233)\n - ❎ [**Demander de l'aide dans plusieurs salons**](https://discord.com/channels/323076998576603137/860920579154772018/860928737185234944)\n- 🗨️ [**L'aide en message privé et en vocal**](https://discord.com/channels/323076998576603137/860920579154772018/860921064211873792)\n- 🛂 [**Les salons modérés**](https://discord.com/channels/323076998576603137/860920579154772018/860928879831941140)\n - 🚀 [**#vos-projets**](https://discord.com/channels/323076998576603137/860920579154772018/1017117136621142066)\n - 💵 [**#offres**](https://discord.com/channels/323076998576603137/860920579154772018/1017399866659442719)\n - 🎥 [**#live**](https://discord.com/channels/323076998576603137/860920579154772018/1061681906434977802)\n- <:mention:415903059969966090> [**Les mentions**](https://discord.com/channels/323076998576603137/860920579154772018/860921172912111656)\n- 💬 [**A propos des débats**](https://discord.com/channels/323076998576603137/860920579154772018/860921226150412289)\n- 🏛️ [**Les ambassadeurs**](https://discord.com/channels/323076998576603137/860920579154772018/860927662649114655)\n- 👋 [**Les réactions utiles**](https://discord.com/channels/323076998576603137/860920579154772018/860928557538476083)\n- 📄 [**Poster du code**](https://discord.com/channels/323076998576603137/860920579154772018/860928670105600021)\n- 🧑‍🎓 [**Examens et devoirs**](https://discord.com/channels/323076998576603137/860920579154772018/860928788437925908)\n- 🛡️ [**Sécurité informatique**](https://discord.com/channels/323076998576603137/860920579154772018/860928835910762516)\n- 🕸️ [**Web-scraping**](https://discord.com/channels/323076998576603137/860920579154772018/860928879831941140)\n- 🤖 [**Les réponses générées par IA**](https://discord.com/channels/323076998576603137/860920579154772018/860921120818987038)\n- **Méta**\n - <:github:1131608653493960827> [**Le GitHub**](https://discord.com/channels/323076998576603137/860920579154772018/1061681934956249098)\n - <:banhammer:698209587626508288> [**Contacter le staff**](https://discord.com/channels/323076998576603137/860920579154772018/1132630854032699522)",
+    "color": 16556100
+  }
+}
+```
 
 ### Les salons
 
@@ -22,7 +56,7 @@ Les salons vocaux ont pour vocation d'être un endroit de discussions entre memb
 
 ### Rejoindre les salons (`!salon`)
 
-La plupart des salons sont invisibles, vous pouvez les rendre visibles via le menu se trouvant dans #rejoindre-les-canaux.
+La plupart des salons sont invisibles, vous pouvez les rendre visibles via le menu se trouvant dans <id:customize> et <id:browse>.
 
 ### L'aide en message privé et en vocal (`!mp`, `!vocal`)
 
@@ -56,9 +90,9 @@ En ce qui concerne la fonctionnalité "répondre" de discord, celle-ci sert surt
 
 Ceux qui ne sont pas dérangés par les notifications peuvent se renommer pour ajouter l'emoticon 🛎️ `:bellhop_bell:` à leur pseudo.
 
-### A propos des débats
+### À propos des débats
 
-Les débats doivent se dérouler dans le calme et chaque parti doit faire preuve d'honnêteté et de charité intellectuelle. Faire preuve d'honnêteté intellectuelle c'est oser se remettre en question, avancer des sources les plus neutres et fiables possibles et correctement contextualiser son propos. Le principe de charité est un type de compréhension des propos d'autrui qui consiste à attribuer aux déclarations de ce dernier un maximum de rationalité ([wiki](https://fr.wikipedia.org/wiki/Principe_de_charit%C3%A9)).  À l'inverse, véhiculer des idées toutes faites, mal sourcées ou sortie de leur contexte dans le seul but de convaincre n'est pas de l'honnêteté intellectuelle.
+Les débats doivent se dérouler dans le calme et chaque parti doit faire preuve d'honnêteté et de charité intellectuelle. Faire preuve d'honnêteté intellectuelle c'est oser se remettre en question, avancer des sources les plus neutres et fiables possibles et correctement contextualiser son propos. Le principe de charité est un type de compréhension des propos d'autrui qui consiste à attribuer aux déclarations de ce dernier un maximum de rationalité ([wiki](https://fr.wikipedia.org/wiki/Principe_de_charité)).  À l'inverse, véhiculer des idées toutes faites, mal sourcées ou sortie de leur contexte dans le seul but de convaincre n'est pas de l'honnêteté intellectuelle.
 
 Le but d'un débat est de comprendre où se situe le vrai, l’imprécis et le faux. Il s'agit aussi de mieux comprendre les idées et opinions de tout un chacun pour enrichir sa propre vision du monde.
 
@@ -81,7 +115,7 @@ Les ambassadeurs sont des membres habitués qui font un travail de fond dans le 
 Le serveur met à disposition diverses réactions pratiques :
 
 - :lourd: : Utilisé pour désigner un message lourd dans une conversation.
-- :mention: : Utilisé pour signaler qu'une notification vous a dérangé, qu'elle était inutile et intrusive.
+- <:mention:415903059969966090> : Utilisé pour signaler qu'une notification vous a dérangé, qu'elle était inutile et intrusive.
 - :bellhop_bell: : Utilisé pour indiquer aux autres si vous voulez être mentionné quand on vous répond.
 - :arrow_double_up: : Indique que la réponse à votre question se trouve un peu plus haut dans la conversation.
 - :pushpin: : Demander à épingler un message dans le canal. Le message est automatiquement épinglé au bout de 10 réactions.
@@ -121,8 +155,8 @@ Il est donc **interdit** de demander de l'aide pour un examen.
 Nous considérons comme examen tout devoir noté effectué dans l'etablissement scolaire.
 *Petit rappel:* Autoriser internet dans un examen ne signifie pas vous autoriser à demander à quelqu'un d'autre de faire le travail à votre place, uniquement que vous êtes autorisé à vous documenter sur Internet.
 
-**Devoirs maisons:**
-Nous sommes un peu plus laxistes sur ce point, nous autorisons l'aide concernant les devoirs maisons *mais* ce sera une aide de résolution de problèmes, pas à faire le devoir à votre place. Toute demande afin que quelqu'un fasse le devoir à votre place gratuitement ou contre rétribution est **interdite**.
+**Devoirs maison:**
+Nous sommes un peu plus laxistes sur ce point, nous autorisons l'aide concernant les devoirs maison *mais* ce sera une aide de résolution de problèmes, pas à faire le devoir à votre place. Toute demande afin que quelqu'un fasse le devoir à votre place gratuitement ou contre rétribution est **interdite**.
 
 ### Sécurité informatique
 
