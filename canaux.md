@@ -134,7 +134,7 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | #manufacture-de-création-de-langage | | Manufacture de langages |
 | #sécurité | | Sécurité |
 | #support-technique | Un problème de mise à jour, un ordinateur qui ne démarre plus, votre webcam ne vous montre plus votre grande beauté ? Vous êtes au bon endroit ! | |
-| #systeme-et-reseau | Un problème avec la configuration de votre serveur, de votre réseau ? Nous pouvons vous aider, peut-être. Ce canal accepte aussi les questions concernant Git. | |
+| #système-réseau-devops | Un problème avec la configuration de votre serveur, de votre réseau ? Nous pouvons vous aider, peut-être. Ce canal accepte aussi les questions concernant Git et le DevOps. | |
 
 ### Rendu 3D
 
