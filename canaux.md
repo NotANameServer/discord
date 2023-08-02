@@ -108,18 +108,18 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 
 | Salon                  | Description                                                                                                                                      | Accès       |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| #asm                   | :langage_asm: Langages assembleurs.                                                                                                              | ASM         |
-| #c-langage             | :langage_c: Langage C.<br>!coursc pour afficher une liste de cours.                                                                               | C           |
-| #cpp                   | :langage_cpp: Langage C++.<br>!courscpp pour afficher une liste de cours.                                                                        | C++         |
-| #csharp                | :langage_csharp: Langage C#.<br>!courscsharp pour afficher une liste de cours.                                                                   | C#          |
-| #html-css              | :langage_html:-:langage_css: Langages HTML/CSS.<br>!courshtml pour afficher une liste de cours.                                                  | HTML/CSS    |
-| #java-jvm              | :langage_java: Langages JVM (Java/Kotlin/Scala/...).<br>!coursjava pour afficher une liste de cours.                                             | Java        |
-| #javascript-typescript | :langage_js: :langage_ts: Langages JavaScript et TypeScript.<br>var:thumbsdown:let/const:thumbsup:<br>!coursjs pour afficher une liste de cours. | Javascript  |
-| #langages-fonctionnels | :langage_haskell: Langages fonctionnels (Haskell/Lisp/...) et paradigmes de programmation fonctionnelle.                                         | Fonctionnel |
-| #lua                   | :langage_lua: Langage Lua.                                                                                                                       | Lua         |
-| #php                   | :langage_php: Langage PHP et frameworks associés (Laravel, Symfony, etc).<br>!coursphp pour afficher une liste de cours.                         | PHP         |
-| #python                | :langage_python: Langage Python.<br>!courspython pour afficher une liste de cours.                                                               | Python      |
-| #rust                  | :langage_rust: Langage Rust.<br>!coursrust pour afficher une liste de cours.                                                                     | Rust        |
+| #asm                   | :langage_asm: Langages assembleurs.                                                                                                              |             |
+| #c-langage             | :langage_c: Langage C.<br>!coursc pour afficher une liste de cours.                                                                              |             |
+| #cpp                   | :langage_cpp: Langage C++.<br>!courscpp pour afficher une liste de cours.                                                                        |             |
+| #csharp                | :langage_csharp: Langage C#.<br>!courscsharp pour afficher une liste de cours.                                                                   |             |
+| #html-css              | :langage_html:-:langage_css: Langages HTML/CSS.<br>!courshtml pour afficher une liste de cours.                                                  |             |
+| #java-jvm              | :langage_java: Langages JVM (Java/Kotlin/Scala/...).<br>!coursjava pour afficher une liste de cours.                                             |             |
+| #javascript-typescript | :langage_js: :langage_ts: Langages JavaScript et TypeScript.<br>var:thumbsdown:let/const:thumbsup:<br>!coursjs pour afficher une liste de cours. |             |
+| #langages-fonctionnels | :langage_haskell: Langages fonctionnels (Haskell/Lisp/...) et paradigmes de programmation fonctionnelle.                                         |             |
+| #lua                   | :langage_lua: Langage Lua.                                                                                                                       |             |
+| #php                   | :langage_php: Langage PHP et frameworks associés (Laravel, Symfony, etc).<br>!coursphp pour afficher une liste de cours.                         |             |
+| #python                | :langage_python: Langage Python.<br>!courspython pour afficher une liste de cours.                                                               |             |
+| #rust                  | :langage_rust: Langage Rust.<br>!coursrust pour afficher une liste de cours.                                                                     |             |
 | #autres-langages       | Canal pour toute question relative à un langage ne possédant pas son canal dédié.                                                                |             |
 
 ### Technologies
@@ -127,31 +127,31 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | Salon | Description | Accès |
 | ----- | ----------- | ----- |
 | #architecture-dev | Une question non liée à un langage ? Une discussion sur un principe de programmation ou d'architecture ? Bienvenue dans votre demeure. | |
-| #création-bots-discord | Pour toutes vos questions concernant la création de bots Discord, qu'importe le langage / framework. | Bots Discord |
-| #database | Une question concernant un SGBD ? La manière de structurer vos données, etc ? C'est ici !<br><br>Pour les questions liées à l'utilisation d'une bibliothèque, merci de plutôt demander dans le canal de langage associé ! | DB |
+| #création-bots-discord | Pour toutes vos questions concernant la création de bots Discord, qu'importe le langage / framework. ||
+| #database | Une question concernant un SGBD ? La manière de structurer vos données, etc ? C'est ici !<br><br>Pour les questions liées à l'utilisation d'une bibliothèque, merci de plutôt demander dans le canal de langage associé ! | |
 | #hardware | Un doute sur le choix de votre configuration ? Une hésitation sur quelle carte graphique choisir ? Pour toutes vos demandes et questions concernant le hardware, c'est ici. | |
 | #intelligence-artificielle | Canal réservé aux discussions techniques et grand public autour de l'intelligence artificielle. |  |
 | #manufacture-de-création-de-langage | | Manufacture de langages |
 | #sécurité | | Sécurité |
 | #support-technique | Un problème de mise à jour, un ordinateur qui ne démarre plus, votre webcam ne vous montre plus votre grande beauté ? Vous êtes au bon endroit ! | |
-| #systeme-et-reseau | Un problème avec la configuration de votre serveur, de votre réseau ? Nous pouvons vous aider, peut-être. Ce canal accepte aussi les questions concernant Git. | Système et Réseau |
+| #systeme-et-reseau | Un problème avec la configuration de votre serveur, de votre réseau ? Nous pouvons vous aider, peut-être. Ce canal accepte aussi les questions concernant Git. | |
 
 ### Rendu 3D
 
 | Salon    | Description                                                               | Accès |
 | -------- | ------------------------------------------------------------------------- | ----- |
-| #rendu3d | Canal regroupant toutes les questions concernant la création de rendu 3D. | 3D    |
-| #opengl  | Canal regroupant toutes les questions concernant l'utilisation d'OpenGL.  | 3D    |
-| #vulkan  | Canal regroupant toutes les questions concernant l'utilisation de Vulkan. | 3D    |
+| #rendu3d | Canal regroupant toutes les questions concernant la création de rendu 3D. |       |
+| #opengl  | Canal regroupant toutes les questions concernant l'utilisation d'OpenGL.  |       |
+| #vulkan  | Canal regroupant toutes les questions concernant l'utilisation de Vulkan. |       |
 
 ### Développement de jeu vidéo
 
 | Salon            | Description                                                                                                        | Accès    |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------ | -------- |
-| #assets          | Partage de ressources / assets pour la création de jeux.<br><br>Lisez les règles avant de poster quoi que ce soit. | Game-Dev |
-| #game-dev        | Une question sur le développement de jeux en particulier ?                                                         | Game-Dev |
-| #moteurs-de-jeux | Canal regroupant les questions concernant les moteurs de jeux.                                                     | Game-Dev |
-| #not-a-gamejam   | https://itch.io/jam/not-a-gamejam                                                                                  | Game-Dev |
+| #assets          | Partage de ressources / assets pour la création de jeux.<br><br>Lisez les règles avant de poster quoi que ce soit. |          |
+| #game-dev        | Une question sur le développement de jeux en particulier ?                                                         |          |
+| #moteurs-de-jeux | Canal regroupant les questions concernant les moteurs de jeux.                                                     |          |
+| #not-a-gamejam   | https://itch.io/jam/not-a-gamejam                                                                                  |          |
 
 ### Autres
 
