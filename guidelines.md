@@ -184,7 +184,7 @@ Nous précisons que nous refusons systématiquement les propositions de partenar
 
 ### #vos-projets
 
-Le salon #vos-projets est réservé à l'exposition de vos créations en rapport avec les axes du serveur (développement, infographie, sciences, etc.) Un état d'avancement minimum est requis pour soumettre vos créations. Les idées, les projets secrets et les serveurs de jeux n'ont pas leur place dans NaN. Pour les petites créations, vous pouvez toujours passer par le salon #screenshots.
+Le salon #vos-projets est réservé à l'exposition de vos créations en rapport avec les axes du serveur (développement, infographie, sciences, etc.) Un état d'avancement minimum est requis pour soumettre vos créations. Les idées, les projets secrets et les serveurs de jeux n'ont pas leur place dans NaN. Pour les petites créations, vous pouvez toujours passer par le salon #screenshots. Son accès est restreint par le rôle "Salons Communautaires".
 
 ### #offres
 
