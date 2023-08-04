@@ -11,7 +11,7 @@
   - 🚀 [**#vos-projets**](#vos-projets)
   - 💵 [**#offres**](#offres)
   - 🎥 [**#live**](#live)
-- <:mention:415903059969966090> [**Les mentions**](#les-mentions)
+- :mention: [**Les mentions**](#les-mentions)
 - 💬 [**À propos des débats**](#à-propos-des-débats)
 - 🏛️ [**Les ambassadeurs**](#les-ambassadeurs)
 - 👋 [**Les réactions utiles**](#les-réactions-utiles)
@@ -115,7 +115,7 @@ Les ambassadeurs sont des membres habitués qui font un travail de fond dans le 
 Le serveur met à disposition diverses réactions pratiques :
 
 - :lourd: : Utilisé pour désigner un message lourd dans une conversation.
-- <:mention:415903059969966090> : Utilisé pour signaler qu'une notification vous a dérangé, qu'elle était inutile et intrusive.
+- :mention: : Utilisé pour signaler qu'une notification vous a dérangé, qu'elle était inutile et intrusive.
 - :bellhop_bell: : Utilisé pour indiquer aux autres si vous voulez être mentionné quand on vous répond.
 - :arrow_double_up: : Indique que la réponse à votre question se trouve un peu plus haut dans la conversation.
 - :pushpin: : Demander à épingler un message dans le canal. Le message est automatiquement épinglé au bout de 10 réactions.
