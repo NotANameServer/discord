@@ -2,7 +2,7 @@
 
 Jeu de combat 2D où deux mains s'affrontent avec divers objets du quotidien, leurs servant d'armes.
 
-Auteur : FlameofChange#3103 (143021917836804096)  
+Auteur : FlameofChange (flameofchange) (143021917836804096)  
 Description du salon : **Hand2Hand projet** est un jeu de combat... de mains ! Chaque joueur contrôle une main tenant un objet servant à la fois d'arme et d'identificateur.
 Les combos sont sous la forme d'arbres, rater une attaque fait recommencer du début en payant une recovery.
 

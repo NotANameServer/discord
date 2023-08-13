@@ -12,5 +12,5 @@ les autres.
 
 L'outil est développé sur github: <https://github.com/NotANameServer/incipyt>.
 
-Auteurs : Avanini#7636 (523513501206183946), Lazor#6737 (87605725857058816) et Triphase#9083 (201484914686689280)  
+Auteurs : Avanini (avanini) (523513501206183946), Lazor (drlazor8) (87605725857058816) et Triphase (triphase) (201484914686689280)  
 Description du salon : Outil pour bootstraper un projet Python <https://github.com/NotANameServer/incipyt>
