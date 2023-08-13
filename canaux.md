@@ -167,6 +167,7 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | Salon | Description | Accès |
 | ----- | ----------- | ----- |
 | #altairx | Conception d'un processeur VLIW en utilisant des techniques modernes - https://github.com/Kannagi/AltairX | AltairX |
+| #cardia | Cardia est un moteur de jeu C++20 qui utilise python comme langage de script. Lien du repo: https://github.com/TNtube/Cardia | Cardia |
 | #dungeon-manager | Jeu 2D Action/Gestion où il faut gérer un donjon fait avec Godot en C#.<br/>Discord: http://discord.gg/UsR2V2ZVE4 | DungeonManager |
 | #logic | https://github.com/logic-lang/logic | Logic |
 | #hand2hand | **Hand2Hand projet** est un jeu de combat... de mains ! Chaque joueur contrôle une main tenant un objet servant à la fois d'arme et d'identificateur.<br>Les combos sont sous la forme d'arbres, rater une attaque fait recommencer du début en payant une recovery.<br>Le jeu est codé en **Purebasic**, facilitant la mise en place de jeux compacts. **FlameofChange** s'en occupe tout seul depuis décembre 2019, à l'exception de contributeurs spontanés, des sons "empruntés" et de petites libraries.<br>Le contenu se complète au fur et à mesure, et Hand2Hand a encore un long chemin à faire avant une 1.0.<br>Discord :  https://discord.gg/Xfn2zNN | Hand2Hand
