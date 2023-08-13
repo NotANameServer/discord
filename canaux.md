@@ -181,7 +181,6 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | #skift | https://skiftos.org/ - Le système d'exploitation skift | SkiftOS |
 | #starxium |  | Starxium |
 | #utopia | Jeu de programmation en réseau dont le développement est streamé sur Twitch: https://github.com/DigitalPulseSoftware/Erewhon-Game<br>https://www.twitch.tv/sirlynixvanfrietjes | Utopia |
-| #verya | Un projet de serveur Minecraft où sont revisitées les technologies déjà existantes comme BungeeCord ou ViaVersion en poussant les limites du jeu toujours plus loin. | Verya |
 
 ### Canaux vocaux
 
