@@ -175,6 +175,7 @@ La hiérarchie des différents canaux de discussion sur NotAName regroupés par 
 | #nazara-engine | https://github.com/DigitalPulseSoftware/NazaraEngine | Nazara |
 | #nverse | Jeu PvP en team style arènes ou FFA sur des maps avec plusieurs dimensions | Neuroshok |
 | #notahub | https://github.com/NotANameServer/Not-a-Hub | Not a Hub |
+| #onioncorn-siotls | Serveur WSGI Python HTTP/2 TLS/1.3 basé sur liburing | onioncorn/siotls |
 | #projectw | ProjectW est un jeu multijoueur coopératif bac à sable, orienté action/aventure, en vue du dessus. Il est développé en C++, sur un moteur maison. | ProjectW |
 | #raz | Moteur de jeu multi-plateforme en C++17 : https://github.com/Razakhel/RaZ. N'hésitez pas à star le projet et rejoindre le serveur Discord dédié :  https://discord.gg/25YGDED ! | RaZ |
 | #skift | https://skiftos.org/ - Le système d'exploitation skift | SkiftOS |
