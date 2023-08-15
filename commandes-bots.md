@@ -74,6 +74,20 @@ Voici une liste de cours et documentations pour plusieurs langages (par TnTakara
 Pour apprendre le langage C, le mieux en tant que débutant est le cours de Zeste de Savoir (https://zestedesavoir.com/tutoriels/755/le-langage-c-1/). Sinon le livre de Kernighan & Ritchie reste une référence mais pas la plus aisée.
 ```
 
+### cdebutant
+
+```markdown
+Choisir le langage C pour faire un projet est déconseillé de nos jours surtout pour les débutants en programmation. En effet ce langage est remplie de pièges tels que:
+- Les undefinied behaviors
+- Les fuites de mémoires
+- Les use after free
+et bien d'autres.
+Le C devrait uniquement être choisis si c'est obligatoire par exemple un exercice de cours obligeant l'utilisation de ce langage.
+Si vous souhaitez créer un programme ou projet nécessitant de la gestion mémoire et/ou un contrôle fin sur le programme.
+Il est recommandé de choisir le langage rust ou le C++.
+Plus d'infos sur les idées reçues et pourquoi le C est déconseillé ici: [Les idées reçues sur le C](https://hub.notaname.fr/langages/c/debunk-c.html)
+```
+
 ### courscpp
 
 ```markdown
