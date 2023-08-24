@@ -8,34 +8,6 @@ Pour souscrire à un salon, les membres sont invités à ouvrir le salon génér
 
 ## Rôles
 
-### Rôles non-colorés
-
-Les rôles dits *non-colorés* sont les rôles qui donnent accès aux salons dédiés à une thématique de l'informatique générale. La catégorie la plus importante étant celle du *développement* qui n'existe pas en temps que tel mais qui est découpé aux travers de nombreux langages de programmation.
-
-**Langages** :
-- ASM
-- C
-- C++
-- C#
-- Fonctionnel
-- Java
-- Javascript
-- Lua
-- HTML/CSS
-- PHP
-- Python
-- Rust
-
-**Technologies** :
-- Rendu 3D (3D)
-- Base de Données (DB)
-- Système et réseau
-- Développement de jeux vidéos (Game-Dev)
-- Développement de bots Discord (Bots Discord)
-
-**Défis**:
-- Défis
-
 ### Rôles colorés
 
 Les rôles dits *colorés* permettent aux membres d'arborer les couleurs de leur langage de programmation favoris. Ce rôle ne sert qu'à ça, arborer des couleurs et n'est pas un gage de compétence.
@@ -51,23 +23,7 @@ Les rôles dits *colorés* permettent aux membres d'arborer les couleurs de leur
 - PHP
 - Python
 - Rust
-
-### Rôles de projets
-
-Les rôles *projets* donnent accès aux salons dédié au développement des projets que les membres ont décidés de développer dans le cadre de NotAName.
-
-- AltairX
-- DungeonManager
-- Hand 2 hand (Hand2Hand)
-- Logic
-- Nazara Engine
-- Neuroshok
-- Not a Hub
-- RaZ
-- ProjectW
-- SkiftOS
-- Starxium
-- Utopia
+- Système et réseau
 
 ## Canaux et catégories
 
