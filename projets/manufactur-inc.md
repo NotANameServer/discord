@@ -1,6 +1,6 @@
 # Manufactur'inc
 
-Gérez votre entreprise des plans jusqu'au détails de la qualité du travail en passant par l'écologie
+Jeu où vous gérez votre entreprise des plans jusqu'à la qualité du travail en passant par l'écologie
 
 Auteur : Elanis (elanis42) (1144202778135232534)  
 Description du salon : 
