@@ -114,7 +114,62 @@ Voici un ensemble de ressources intéressantes pour commencer votre apprentissag
 ### courscss
 
 ```markdown
-Pour apprendre le HTML et le CSS, je te conseille <https://marksheet.io/> (en anglais), un petit cours pas piqué des hannetons qui surpasse largement celui de OC.
+Pour apprendre le HTML et le CSS, voici <https://marksheet.io/> (en anglais), un petit cours pas piqué des hannetons qui surpasse largement celui de OC.
+```
+
+```json
+```json
+{
+  "embed":{
+    "description":"Pour apprendre le HTML et le CSS, voici <https://marksheet.io/> (en anglais), un petit cours pas piqué des hannetons qui surpasse largement celui de OC.",
+    "title":"Apprendre le CSS",
+    "color": 2444253
+  }
+}
+```
+```
+
+### coursflex
+
+```markdown
+**Apprentissage des Flexbox 📕**
+Lex flexbox sont une méthode de mise en page moderne qui permet de positionner des éléments sur une page.
+
+- Exercice interactif pour apprendre et s’entraîner: Flexbox Froggy
+- Cours illustré très qualitatif en anglais: Guide to Flexbox, CSSTricks
+- Documentation: Flexbox - MDN
+
+**Apprentissage de Grid 📘**
+Grid est un système de layout basé sur les grilles qui permet de concevoir des interfaces basées sur des grilles.
+
+- Exercice interactif pour apprendre et s’entraîner: Grid Garden
+- Cours illustré très qualitatif en anglais: Guide to Grid, CSSTricks
+- Documentation: Grid - MDN
+
+**Cours vidéo 🎥**
+- Cours très qualitatif en anglais donné par Jen Kramer: Grids and Flexbox - Frontendmasters
+- Cours très qualitatif donné par Grafikart: Formation CSS - Grafikart
+```
+
+```json
+{
+  "embed":{
+    "fields":[{
+        "value":"Lex flexbox sont une méthode de mise en page moderne qui permet de positionner des éléments sur une page.\n\n- Exercice interactif pour apprendre et s’entraîner: [Flexbox Froggy](https://flexboxfroggy.com/#fr)\n- Cours illustré très qualitatif en anglais: [Guide to Flexbox, CSSTricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) \n- Documentation: [Flexbox - MDN](https://developer.mozilla.org/fr/docs/Learn/CSS/CSS_layout/Flexbox)",
+        "inline":false,
+        "name":"Apprentissage des Flexbox :closed_book:"
+      },{
+        "value":"Grid est un système de layout  basé sur les grilles qui permet de concevoir des interfaces basées sur des grilles.\n\n- Exercice interactif pour apprendre et s’entraîner: [Grid Garden](https://cssgridgarden.com/#fr)\n- Cours illustré très qualitatif en anglais: [Guide to Grid, CSSTricks](https://css-tricks.com/snippets/css/complete-guide-grid/) \n- Documentation: [Grid - MDN](https://developer.mozilla.org/fr/docs/Learn/CSS/CSS_layout/Grids)",
+        "inline":false,
+        "name":"Apprentissage de Grid :blue_book:"
+      },{
+        "value":"- Cours très qualitatif en anglais donné par Jen Kramer: [Grids and Flexbox - Frontendmasters](https://frontendmasters.com/courses/css-grids-flexbox/) \n- Cours très qualitatif donné par Grafikart: [Formation CSS - Grafikart](https://grafikart.fr/formations/css)",
+        "inline":false,
+        "name":"Cours vidéo :movie_camera:"
+      }],
+    "color":10965038
+  }
+}
 ```
 
 ### coursjava
