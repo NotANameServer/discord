@@ -118,7 +118,6 @@ Pour apprendre le HTML et le CSS, voici <https://marksheet.io/> (en anglais), un
 ```
 
 ```json
-```json
 {
   "embed":{
     "description":"Pour apprendre le HTML et le CSS, voici <https://marksheet.io/> (en anglais), un petit cours pas piqué des hannetons qui surpasse largement celui de OC.",
@@ -126,7 +125,6 @@ Pour apprendre le HTML et le CSS, voici <https://marksheet.io/> (en anglais), un
     "color": 2444253
   }
 }
-```
 ```
 
 ### coursflex
