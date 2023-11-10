@@ -72,7 +72,7 @@ Sur Not a Name, la plupart des utilisateurs préfèrent ne pas recevoir de notif
 Quelques bonnes raisons:
 
 * répondre à une question qui a été posée il y a longtemps (plus de 15 minutes) lorsque la personne ne semble plus active;
-* répondre à une question où la personne a explicitement demandé d'être mentionnée (avec 🛎️ `:bellhop_bell:`);
+* répondre à une question où la personne a explicitement demandé d'être mentionnée (avec 🔔 `:bell:`);
 * interpeler un membre qui est reconnu comme expert d'un domaine lorsqu'il y a une question/un débat sur ce domaine.
 
 Quelques mauvaises raisons:
@@ -82,7 +82,7 @@ Quelques mauvaises raisons:
 
 En ce qui concerne la fonctionnalité "répondre" de discord, celle-ci sert surtout à ramener un vieux message pour rétablir le contexte de la conversation. En ce sens, il est inutile d'utiliser "répondre" pour répondre au dernier message envoyé.
 
-Ceux qui ne sont pas dérangés par les notifications peuvent se renommer pour ajouter l'emoticon 🛎️ `:bellhop_bell:` à leur pseudo.
+Ceux qui ne sont pas dérangés par les notifications peuvent se renommer pour ajouter l'emoticon 🔔 `:bell:` à leur pseudo.
 
 ### À propos des débats
 
@@ -110,7 +110,7 @@ Le serveur met à disposition diverses réactions pratiques :
 
 - <:lourd:390149780896088074> : Utilisé pour désigner un message lourd dans une conversation.
 - <:mention:415903059969966090> : Utilisé pour signaler qu'une notification vous a dérangé, qu'elle était inutile et intrusive.
-- :bellhop_bell: : Utilisé pour indiquer aux autres si vous voulez être mentionné quand on vous répond.
+- :bell: : Utilisé pour indiquer aux autres si vous voulez être mentionné quand on vous répond.
 - :arrow_double_up: : Indique que la réponse à votre question se trouve un peu plus haut dans la conversation.
 - :pushpin: : Demander à épingler un message dans le canal. Le message est automatiquement épinglé au bout de 10 réactions.
 - <:modo:459352634038550529> : Sert à prévenir les modérateurs qu'un message transgresse les règles.
