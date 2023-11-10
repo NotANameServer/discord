@@ -63,7 +63,7 @@ De plus, nous vous rappelons que NaN est une serveur __communautaire__, les gens
 
 Pour ces raisons, il est **interdit** d'utiliser ChatGPT ou toute autre IA générative pour répondre aux questions des membres.
 
-Pour plus d'informations à ce sujet, voir par exemple la [Politique de Stack Overflow](https://stackoverflow.com/help/gpt-policy).
+Pour plus d'informations à ce sujet, voir par exemple la [Politique de Stack Overflow](https://stackoverflow.com/help/ai-policy).
 
 ### Les mentions
 
