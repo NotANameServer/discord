@@ -438,7 +438,7 @@ Plus d'informations sur l'état du cadre légal du web-scraping : <https://lexin
 ### gpt
 
 ```markdown
->>> ### :robot: Les réponses générées par IA (`!gpt`)
+>>> ### :robot: Les réponses générées par IA (`!gpt` `!chatgpt`)
 
 L'intelligence artificielle étant devenue largement accessible au public, un grand nombre de personnes sont tentées de poser leurs questions techniques à ces programmes en pensant obtenir une réponse fiable. Ce n'est pas une bonne idée, les réponses données par ces programmes sont loin d'être fiables et peuvent induire en erreur les débutants. Un certain nombre d'erreurs difficiles à déceler aux premiers abords peuvent se glisser dans une réponse globalement bien rédigée, donnant l'illusion d'une réponse valable et de bonne qualité, mais qui dans la pratique peut avoir des effets négatifs sur les projets qui se baseront dessus.
 De plus, nous vous rappelons que NaN est une serveur __communautaire__, les gens qui posent des questions et demandent de l'aide doivent pouvoir discuter avec des humains qui seront en capacité de comprendre leurs besoins, le serveur n'a pas vocation à se transformer en une sorte de chatbot géant ou ne seraient échangées plus que des réponses générées automatiquement...
