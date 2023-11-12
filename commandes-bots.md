@@ -418,6 +418,19 @@ Plus d'informations sur l'état du cadre légal du web-scraping : <https://lexin
 {"embed":{"title":"Web-scraping","color":65024,"description":"Le scraping de données est la pratique de programmatiquement télécharger des données depuis un site. Il est possible de scraper en forgeant des requêtes HTTP ou bien en automatisant un navigateur web.\n\nLe scraping n'est pas correctement couvert par un cadre légal. Sur NaN, nous n'autorisons le web-scraping que lorsque celui-ci peut s'effectuer dans le respect strict des conditions d'utilisation du site en question. En d'autres termes, lorsqu'un site propose une API et que vous voulez interagir avec ce site : vous *devez* utiliser cette API.\n\nToute demande d'aide concernant le web-scraping doit être accompagné d'une référence vers le passage qui autorise le scraping dans les CGU du site. À défaut, la demande d'aide tombera sous la règle concernant le respect de la loi et sera classée sans suite.\n\nPlus d'informations sur l'état du cadre légal du web-scraping : <https://lexing.be/le-scraping-est-il-legal/>."}}
 ```
 
+### gpt
+
+```markdown
+>>> ### :robot: Les réponses générées par IA (`!gpt` `!chatgpt`)
+
+L'intelligence artificielle étant devenue largement accessible au public, un grand nombre de personnes sont tentées de poser leurs questions techniques à ces programmes en pensant obtenir une réponse fiable. Ce n'est pas une bonne idée, les réponses données par ces programmes sont loin d'être fiables et peuvent induire en erreur les débutants. Un certain nombre d'erreurs difficiles à déceler aux premiers abords peuvent se glisser dans une réponse globalement bien rédigée, donnant l'illusion d'une réponse valable et de bonne qualité, mais qui dans la pratique peut avoir des effets négatifs sur les projets qui se baseront dessus.
+De plus, nous vous rappelons que NaN est une serveur __communautaire__, les gens qui posent des questions et demandent de l'aide doivent pouvoir discuter avec des humains qui seront en capacité de comprendre leurs besoins, le serveur n'a pas vocation à se transformer en une sorte de chatbot géant ou ne seraient échangées plus que des réponses générées automatiquement...
+
+Pour ces raisons, il est **interdit** d'utiliser ChatGPT ou toute autre IA générative pour répondre aux questions des membres.
+
+Pour plus d'informations à ce sujet, voir par exemple la [Politique de Stack Overflow](<https://stackoverflow.com/help/ai-policy>)
+```
+
 ## Commandes "funs"
 
 
