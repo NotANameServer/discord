@@ -417,10 +417,10 @@ Il existe des salons dédiés à ces messages et l'accès à ces salons est mod�
 >>> Vous ne voyez pas le canal indiqué par les autres utilisateurs ? Voici la marche à suivre : <https://discordapp.com/channels/323076998576603137/699260551758610545/699265804994215997>
 ```
 
-### scrapping / webscrapping
+### scraping / webscraping
 
 ```markdown
->>> ### :spider_web: Web-scraping
+>>> ### :spider_web: Web-scraping (`!scraping`, `!webscraping`)
 
 Le scraping de données est la pratique de programmatiquement télécharger des données depuis un site. Il est possible de scraper en forgeant des requêtes HTTP ou bien en automatisant un navigateur web.
 
