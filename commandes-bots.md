@@ -92,18 +92,6 @@ Voici un ensemble de ressources intéressantes pour commencer votre apprentissag
 - <https://codeblog.jonskeet.uk/category/edulinq/> EduLinq, pour comprendre Linq en profondeur
 ```
 
-### courscss
-
-```markdown
-# Apprendre le CSS
-
-Pour apprendre le HTML et le CSS, voici <https://marksheet.io/> (en anglais), un petit cours pas piqué des hannetons qui surpasse largement celui de OC.
-```
-
-```json
-{"embed":{"description":"Pour apprendre le HTML et le CSS, voici <https://marksheet.io/> (en anglais), un petit cours pas piqué des hannetons qui surpasse largement celui de OC.","title":"Apprendre le CSS","color":2444253}}
-```
-
 ### coursflex
 
 ```markdown
@@ -197,15 +185,22 @@ Pensez à regarder également dans les messages épinglés, des ressources y son
 {"embed":{"color":15981340,"fields":[{"value":"Cours vidéo en français et gratuit, avec un passage sur Node.js: [Apprendre le JavaScript](https://www.youtube.com/playlist?list=PLjwdMgw5TTLXgsTQE_1PpRkC_yX47ZcGV) \nCours vidéo en français et gratuit: [Apprendre le TypeScript](https://www.youtube.com/playlist?list=PLjwdMgw5TTLX1tQ1qDNHTsy_lrkCt4VW3)","inline":false,"name":":movie_camera: Formation Grafikart (recommandée)"},{"value":"Version anglaise: [The Modern JavaScript Tutorial](https://javascript.info) :flag_gb:\nVersion française: [Le tutoriel JavaScript moderne](https://fr.javascript.info) :flag_fr:","inline":false,"name":":closed_book: Cours JavaScript moderne"},{"value":"Cours en anglais sur le JavaScript: [Eloquent JavaScript](https://eloquentjavascript.net)","inline":false,"name":":blue_book: Eloquent JavaScript"},{"value":"Cours en anglais sur le JavaScript: [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)","inline":false,"name":":blue_book: You Don't Know JS"},{"value":"Cours vidéos en anglais et __payant__ sur les technologies web Front-End: [Frontend Masters](https://frontendmasters.com)\nLes cours ont un __accès gratuit pour 6 mois avec le pack Github Student__.","inline":false,"name":":movie_camera: FrontendMasters"},{"value":"Pensez à regarder également dans les messages épinglés, des ressources y sont listées.","inline":false,"name":":pushpin: Messages épinglés"}],"author":{"name":"Cours sur les langages JavaScript et TypeScript","icon_url":"https://cdn.discordapp.com/emojis/438290351749332993.png",}}}
 ```
 
-### courshtml
+### courshtml / courscss
 
 ```markdown
-Pour apprendre le HTML et le CSS, je te conseille <https://marksheet.io/> (en anglais), un petit cours pas piqué des hannetons qui surpasse largement celui de OC.
+>>> ### <:langage_html:436841854328242181> Cours sur les langages HTML et CSS
+**📕 Marksheet**
+Cours en anglais sur le HTML et CSS surpassant celui de OC: [Marksheet](<https://marksheet.io>)
 
-Alternativement il existe aussi de bons cours en français :
-- <https://www.grafikart.fr/formations/html>
-- <https://www.grafikart.fr/formations/css>
-- <https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web/Les_bases_HTML>
+**🎥 Formations vidéo par Grafikart**
+- Formation HTML: [Apprendre l'HTML](<https://www.grafikart.fr/formations/html>)
+- Formation CSS: [Découverte du CSS](<https://www.grafikart.fr/formations/css>)
+
+**📘 Cours du MDN**
+Cours publié par le MDN sur le HTML: [Les bases du HTML](<https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web/Les_bases_HTML>)
+
+**📌 Messages épinglés**
+Pensez à regarder également dans les messages épinglés, des ressources y sont listées.
 ```
 
 ### courspython
