@@ -237,16 +237,22 @@ En haut à droite de votre écran.
 ```markdown
 > ### <:langage_python:436841178936246272> Références Python (`!courspython`)
 > 
-> **Cours**                            **Documentation**                 **Livres**
-> 🍋 [En ligne ZdS](<https://zestedesavoir.com/tutoriels/2514/un-zeste-de-python/>)        🐍 [Officielle](<https://docs.python.org/fr/3/>)                        🦎 [Fluent](<https://fluentpython.com/>)
-> 🌐 [En ligne SdZ](<https://user.oc-static.com/ftp/livre/python/apprenez_a_programmer_en_python.pdf>)        🔋 [Libraries](<https://pymotw.com/3/>)                        🐿️ [Cookbook](<https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/>)
-> 📖 [Cours écrit](<https://inforef.be/swi/download/apprendre_python3_5.pdf>)          🔧 [Modèle de données](<https://docs.python.org/fr/3/reference/datamodel.html>)    🪷 [Expert Py. Prog.](<https://www.packtpub.com/product/expert-python-programming-fourth-edition/9781801071109>)
-> 🎬 [Cours vidéo](<https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC>)         📦 [Packaging](<https://packaging.python.org/en/latest/>)                     📚 [More books](<https://realpython.com/best-python-books/>)
+> **Cours**                            **Documentation**
+> 🍋 [En ligne ZdS](<https://zestedesavoir.com/tutoriels/2514/un-zeste-de-python/>)        🐍 [Officielle](<https://docs.python.org/fr/3/>)
+> 🌐 [En ligne SdZ](<https://user.oc-static.com/ftp/livre/python/apprenez_a_programmer_en_python.pdf>)        🔋 [Libraries](<https://pymotw.com/3/>)
+> 📖 [Cours écrit](<https://inforef.be/swi/download/apprendre_python3_5.pdf>)          🔧 [Data Model](<https://docs.python.org/fr/3/reference/datamodel.html>)
+> 🎬 [Cours vidéo](<https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC>)         📦 [Packaging](<https://packaging.python.org/en/latest/>)
 > 
 > **Articles**                        **Conférences**
 > <:nan:642454964836368386> [Not a Name](<https://hub.notaname.fr/langages/python/>)          👺 [Beyond PEP8](<https://youtu.be/wf-BqAjZb8M>)
-> 🍊 [Zeste de Savoir](<https://zestedesavoir.com/bibliotheque/?tag=python>)    🏎️ [Concurrency](<https://youtu.be/9zinZmE3Ogk>)
-> 🕸️ [Fullstack](<https://www.fullstackpython.com/>)                🤵‍♂️ [Data Model](<https://youtu.be/cKPlPJyQrt4>)
+> 🍊 [Zeste de Savoir](<https://zestedesavoir.com/bibliotheque/?tag=python>)   🏎️ [Concurrency](<https://youtu.be/9zinZmE3Ogk>)
+> 🕸️ [Fullstack](<https://www.fullstackpython.com/>)              🤵‍♂️ [Data Model](<https://youtu.be/cKPlPJyQrt4>)
+> 
+> **Livres**
+> 🦎 [Fluent](<https://fluentpython.com/>)
+> 🐿️ [Cookbook](<https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/>)
+> 🪷 [Expert](<https://www.packtpub.com/product/expert-python-programming-fourth-edition/9781801071109>)
+> 📚 [More books](<https://realpython.com/best-python-books/>)
 > 
 > **📌 Regardez aussi les messages épinglés !**
 > En haut à droite de votre écran.
