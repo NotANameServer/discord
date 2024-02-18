@@ -102,22 +102,6 @@ Ensemble de livres sur WPF, Xamarin, MVVM, Linq, ... : [Collection All Dot Blog]
 Pensez à regarder également dans les messages épinglés, des ressources y sont listées.
 ```
 
-```json
-{"embed":{"author":{"url":"https://docs.microsoft.com/fr-fr/dotnet/csharp/","icon_url":"https://cdn.discordapp.com/emojis/436841440048447488.png","name":"Cours sur le langage C#"},"color":3343996,"content_scan_version":1,"fields":[{"inline":false,"name":":closed_book: Cours C# par Microsoft","value":"Cours en français sur le C#: [C# Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)"},{"inline":false,"name":":blue_book: Apprendre ASP.Net (Web)","value":"Cours et documentation sur le framework ASP.Net: [Documentation d'ASP.Net](https://docs.microsoft.com/fr-fr/aspnet/core/)"},{"inline":false,"name":":blue_book: EduLinq, comprendre Linq en profondeur","value":"Cours en anglais sur Linq: [Edulinq](https://codeblog.jonskeet.uk/category/edulinq/)"},{"inline":false,"name":":book: Ensemble de livres","value":"Ensemble de livres sur WPF, Xamarin, MVVM, Linq, ... : [Collection All Dot Blog](https://www.e-naxos.com/AllDotBlog.html)"},{"inline":false,"name":":pushpin: Messages épinglés","value":"Pensez à regarder également dans les messages épinglés, des ressources y sont listées."}]}}
-```
-
-### courscss
-
-```markdown
->>> ### :langage_css: Apprendre le CSS
-
-Pour apprendre le HTML et le CSS, voici <https://marksheet.io/> (en anglais), un petit cours pas piqué des hannetons qui surpasse largement celui de OC.
-```
-
-```json
-{"embed":{"description":"Pour apprendre le HTML et le CSS, voici <https://marksheet.io/> (en anglais), un petit cours pas piqué des hannetons qui surpasse largement celui de OC.","title":"Apprendre le CSS","color":2444253}}
-```
-
 ### coursflex
 
 ```markdown
@@ -144,29 +128,22 @@ Grid est un système de layout basé sur les grilles qui permet de concevoir des
 {"embed":{"fields":[{"value":"Lex flexbox sont une méthode de mise en page moderne qui permet de positionner des éléments sur une page.\n\n- Exercice interactif pour apprendre et s’entraîner: [Flexbox Froggy](https://flexboxfroggy.com/#fr)\n- Cours illustré très qualitatif en anglais: [Guide to Flexbox, CSSTricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) \n- Documentation: [Flexbox - MDN](https://developer.mozilla.org/fr/docs/Learn/CSS/CSS_layout/Flexbox)","inline":false,"name":"Apprentissage des Flexbox :closed_book:"},{"value":"Grid est un système de layout  basé sur les grilles qui permet de concevoir des interfaces basées sur des grilles.\n\n- Exercice interactif pour apprendre et s’entraîner: [Grid Garden](https://cssgridgarden.com/#fr)\n- Cours illustré très qualitatif en anglais: [Guide to Grid, CSSTricks](https://css-tricks.com/snippets/css/complete-guide-grid/) \n- Documentation: [Grid - MDN](https://developer.mozilla.org/fr/docs/Learn/CSS/CSS_layout/Grids)","inline":false,"name":"Apprentissage de Grid :blue_book:"},{"value":"- Cours très qualitatif en anglais donné par Jen Kramer: [Grids and Flexbox - Frontendmasters](https://frontendmasters.com/courses/css-grids-flexbox/) \n- Cours très qualitatif donné par Grafikart: [Formation CSS - Grafikart](https://grafikart.fr/formations/css)","inline":false,"name":"Cours vidéo :movie_camera:"}],"color":10965038}}
 ```
 
-### courshtml
+### courshtml / courscss
 
 ```markdown
->>> ### :langage_html: Cours sur les langages HTML et CSS
-
-**:closed_book: Marksheet**
+>>> ### <:langage_html:436841854328242181> Cours sur les langages HTML et CSS
+**📕 Marksheet**
 Cours en anglais sur le HTML et CSS surpassant celui de OC: [Marksheet](<https://marksheet.io>)
 
-**:movie_camera: Formation vidéo HTML**
-Formation vidéo sur le HTML par Grafikart: [Apprendre le HTML](<https://www.grafikart.fr/formations/html>)
+**🎥 Formations vidéo par Grafikart**
+- Formation HTML: [Apprendre l'HTML](<https://www.grafikart.fr/formations/html>)
+- Formation CSS: [Découverte du CSS](<https://www.grafikart.fr/formations/css>)
 
-**:movie_camera: Formation vidéo CSS**
-Formation vidéo sur le CSS par Grafikart: [Découverte du CSS](<https://www.grafikart.fr/formations/css>)
-
-**:blue_book: Cours du MDN**
+**📘 Cours du MDN**
 Cours publié par le MDN sur le HTML: [Les bases du HTML](<https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web/Les_bases_HTML>)
 
-**:pushpin: Messages épinglés**
+**📌 Messages épinglés**
 Pensez à regarder également dans les messages épinglés, des ressources y sont listées.
-```
-
-```json
-{"embed":{"author":{"icon_url":"https://cdn.discordapp.com/emojis/436841854328242181.png","name":"Cours sur les langages HTML et CSS"},"color":14896678,"content_scan_version":1,"fields":[{"inline":false,"name":":closed_book: Marksheet","value":"Cours en anglais sur le HTML et CSS surpassant celui de OC: [Marksheet](https://marksheet.io)"},{"inline":false,"name":":movie_camera: Formation vidéo HTML","value":"Formation vidéo sur le HTML par Grafikart: [Apprendre l'HTML](https://www.grafikart.fr/formations/html)"},{"inline":false,"name":":movie_camera: Formation vidéo CSS","value":"Formation vidéo sur le CSS par Grafikart: [Découverte du CSS](https://www.grafikart.fr/formations/css)"},{"inline":false,"name":":blue_book: Cours du MDN","value":"Cours publié par le MDN sur le HTML: [Les bases du HTML](https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web/Les_bases_HTML)"},{"inline":false,"name":":pushpin: Messages épinglés","value":"Pensez à regarder également dans les messages épinglés, des ressources y sont listées."}]}}
 ```
 
 ### coursjava
@@ -228,27 +205,51 @@ Pensez à regarder également dans les messages épinglés, des ressources y son
 ### courspython
 
 ```markdown
->>> ### :langage_python: Références Python (`!courspython`)
-
-**Cours**                      **Documentation**               **Livres**
-:lemon: [En ligne ZdS](<https://zestedesavoir.com/tutoriels/2514/un-zeste-de-python/>)  :snake: [Officielle](<https://docs.python.org/fr/3/>)                      :chipmunk: [Cookbook](<https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/>)
-:globe_with_meridians: [En ligne SdZ](<https://user.oc-static.com/ftp/livre/python/apprenez_a_programmer_en_python.pdf>)  :battery: [Libraries](<https://pymotw.com/3/>)                      :lotus: [Expert Py. Prog.](<https://www.packtpub.com/product/expert-python-programming-fourth-edition/9781801071109>)
-:book: [Cours écrit](<https://inforef.be/swi/download/apprendre_python3_5.pdf>)    :wrench: [Modèle de données](<https://docs.python.org/fr/3/reference/datamodel.html>)  :books: [More books](<https://realpython.com/best-python-books/>)
-:clapper: [Cours vidéo](<https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC>)   :package: [Packaging](<https://packaging.python.org/en/latest/>)
-
-**Articles**                      **Conférences**
-:nan: [Not a Name](<https://hub.notaname.fr/langages/python/>)        :japanese_goblin: [Beyond PEP8](<https://youtu.be/wf-BqAjZb8M>)
-:tangerine: [Zeste de Savoir](<https://zestedesavoir.com/bibliotheque/?tag=python>)  :race_car: [Concurrency](<https://youtu.be/9zinZmE3Ogk>)
-:spider_web: [Fullstack](<https://www.fullstackpython.com/>)              :man_in_tuxedo: [Data Model](<https://youtu.be/cKPlPJyQrt4>)
-
-**:pushpin: Regardez aussi les messages épinglés !**
+Références Python (!courspython)
+Cours
+🍋 En ligne ZdS
+🌐 En ligne SdZ
+📖 Cours écrit
+🎬 Cours vidéo
+Documentation
+🐍 Officielle
+🔋 Libraries
+🔧 Modèle de données
+📦 Packaging
+Livres
+🦎 Fluent
+🐿️ Cookbook
+🪷 Expert Py. Prog.
+📚 More books
+Articles
+:nan: Not a Name
+🍊 Zeste de Savoir
+🕸️ Fullstack
+Conférences
+🤵‍♂️ Data Model
+👺 Beyond PEP8
+🏎️ Concurrency
+📌 Regardez aussi les messages épinglés !
 En haut à droite de votre écran.
 ```
 
-```json
-{"embed":{"author":{"name":"Références Python (!courspython)","icon_url":"https://cdn.discordapp.com/emojis/436841178936246272.png"},"color":815124,"fields":[{"name":"Cours","value":"🍋 [En ligne ZdS](https://zestedesavoir.com/tutoriels/2514/un-zeste-de-python/)\n🌐 [En ligne SdZ](https://user.oc-static.com/ftp/livre/python/apprenez_a_programmer_en_python.pdf)\n📖 [Cours écrit](https://inforef.be/swi/download/apprendre_python3_5.pdf)\n🎬 [Cours vidéo](https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC)","inline":true},{"name":"Documentation","value":"🐍 [Officielle](https://docs.python.org/fr/3/)\n🔋 [Libraries](https://pymotw.com/3/)\n🔧 [Modèle de données](https://docs.python.org/fr/3/reference/datamodel.html)\n📦 [Packaging](https://packaging.python.org/en/latest/)","inline":true},{"name":"Livres","value":"🐿️ [Cookbook](https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/)\n🪷 [Expert Py. Prog.](https://www.packtpub.com/product/expert-python-programming-fourth-edition/9781801071109)\n📚 [More books](https://realpython.com/best-python-books/)","inline":true},{"name":"Articles","value":"<:nan:642454964836368386> [Not a Name](https://hub.notaname.fr/langages/python/)\n🍊 [Zeste de Savoir](https://zestedesavoir.com/bibliotheque/?tag=python)\n🕸️ [Fullstack](https://www.fullstackpython.com/)","inline":true},{"name":"Conférences","value":"👺 [Beyond PEP8](https://youtu.be/wf-BqAjZb8M)\n🏎️ [Concurrency](https://youtu.be/9zinZmE3Ogk)\n🤵‍♂️ [Data Model](https://youtu.be/cKPlPJyQrt4)","inline":true},{"name":"📌 Regardez aussi les messages épinglés !","value":"En haut à droite de votre écran.","inline":false}]}}
+```markdown
+> ### <:langage_python:436841178936246272> Références Python (`!courspython`)
+> 
+> **Cours**                            **Documentation**                 **Livres**
+> 🍋 [En ligne ZdS](<https://zestedesavoir.com/tutoriels/2514/un-zeste-de-python/>)        🐍 [Officielle](<https://docs.python.org/fr/3/>)                        🦎 [Fluent](<https://fluentpython.com/>)
+> 🌐 [En ligne SdZ](<https://user.oc-static.com/ftp/livre/python/apprenez_a_programmer_en_python.pdf>)        🔋 [Libraries](<https://pymotw.com/3/>)                        🐿️ [Cookbook](<https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/>)
+> 📖 [Cours écrit](<https://inforef.be/swi/download/apprendre_python3_5.pdf>)          🔧 [Modèle de données](<https://docs.python.org/fr/3/reference/datamodel.html>)    🪷 [Expert Py. Prog.](<https://www.packtpub.com/product/expert-python-programming-fourth-edition/9781801071109>)
+> 🎬 [Cours vidéo](<https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC>)         📦 [Packaging](<https://packaging.python.org/en/latest/>)                     📚 [More books](<https://realpython.com/best-python-books/>)
+> 
+> **Articles**                        **Conférences**
+> <:nan:642454964836368386> [Not a Name](<https://hub.notaname.fr/langages/python/>)          👺 [Beyond PEP8](<https://youtu.be/wf-BqAjZb8M>)
+> 🍊 [Zeste de Savoir](<https://zestedesavoir.com/bibliotheque/?tag=python>)    🏎️ [Concurrency](<https://youtu.be/9zinZmE3Ogk>)
+> 🕸️ [Fullstack](<https://www.fullstackpython.com/>)                🤵‍♂️ [Data Model](<https://youtu.be/cKPlPJyQrt4>)
+> 
+> **📌 Regardez aussi les messages épinglés !**
+> En haut à droite de votre écran.
 ```
-
 
 ### coursrust
 
