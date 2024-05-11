@@ -107,3 +107,8 @@ Contenu:
 - Changements du logo du serveur
 - Changement de la bannière
 - Rename des canaux et catégories Important / Général
+
+## 2024
+
+Contenu:
+- Icone ping
