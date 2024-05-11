@@ -4,21 +4,21 @@ Liste des membres du serveur ayant des droits sur sa gestion et sa modération.
 
 ## Staff
 
-- **Charles#1065** (228622678901260290)
-- **Elanis#0559** (193048878017150979)
-- **Lynix#3516** (83928726282174464)
-- **Mjöllnir#3515** (241702391756357633)
-- **REMqb#8214** (278688001431961602)
+- **charles1065** (228622678901260290)
+- **elanis42** (193048878017150979)
+- **lynix** (83928726282174464)
+- **mjollnir4** (241702391756357633)
+- **remqb** (278688001431961602)
 
 ## Ambassadeurs
 
 | Canal                  | Ambassadeurs                                                                     |
 | ---------------------- | -------------------------------------------------------------------------------- |
-| #création-bots-discord | **Martin_#9202** (455476176836755468)                                            |
-| #java-jvm              | **florent#8092** (332479154496864259) et **Il_totore#9133** (403609872123428864) |
-| #javascript-typescript | **Mestery#3859** (282201728097583104)                                            |
-| #php                   | **Mjöllnir#3515** (241702391756357633)                                           |
-| #python                | **Dr Lazor#6737** (87605725857058816)                                            |
-| #rust                  | **baptiste0928#0001** (207852811596201985)                                       |
-| #sécurité              | **\[Ben\]#4444** (496774441506963466)                                            |
-| #systeme-et-reseau     | **-MoNsTeRRR#2160** (199688749712539648)                                         |
+| #création-bots-discord | **martin_9202** (455476176836755468) et **rapougnac** (253554702858452992)       |
+| #java-jvm              | **florent35** (332479154496864259) et **il_totore** (403609872123428864) |
+| #javascript-typescript | **mestery** (282201728097583104)                                            |
+| #php                   | **mjollnir4** (241702391756357633)                                           |
+| #python                | **drlazor8** (87605725857058816)                                            |
+| #rust                  | **baptiste0928** (207852811596201985)                                       |
+| #sécurité              | **ben4444** (496774441506963466)                                            |
+| #systeme-et-reseau     | **monsterrr_csgo** (199688749712539648)                                         |
