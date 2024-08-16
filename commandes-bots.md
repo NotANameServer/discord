@@ -230,6 +230,8 @@ Conférences
 🤵‍♂️ Data Model
 👺 Beyond PEP8
 🏎️ Concurrency
+Vidéos
+Ⓜ️ mCoding
 📌 Regardez aussi les messages épinglés !
 En haut à droite de votre écran.
 ```
@@ -248,8 +250,8 @@ En haut à droite de votre écran.
 > 🍊 [Zeste de Savoir](<https://zestedesavoir.com/bibliotheque/?tag=python>)   🏎️ [Concurrency](<https://youtu.be/9zinZmE3Ogk>)
 > 🕸️ [Fullstack](<https://www.fullstackpython.com/>)               🤵‍♂️ [Data Model](<https://youtu.be/cKPlPJyQrt4>)
 > 
-> **Livres**
-> 🦎 [Fluent](<https://fluentpython.com/>)
+> **Livres**                           **Vidéos**
+> 🦎 [Fluent](<https://fluentpython.com/>)                    Ⓜ️ [mCoding](<https://www.youtube.com/@mCoding>)
 > 🐿️ [Cookbook](<https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/>)
 > 🪷 [Expert](<https://www.packtpub.com/product/expert-python-programming-fourth-edition/9781801071109>)
 > 📚 [More books](<https://realpython.com/best-python-books/>)
