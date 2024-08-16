@@ -237,16 +237,16 @@ En haut à droite de votre écran.
 ```markdown
 > ### <:langage_python:436841178936246272> Références Python (`!courspython`)
 > 
-> **Cours**                            **Documentation**
+> **Cours**                           **Documentation**
 > 🍋 [En ligne ZdS](<https://zestedesavoir.com/tutoriels/2514/un-zeste-de-python/>)        🐍 [Officielle](<https://docs.python.org/fr/3/>)
 > 🌐 [En ligne SdZ](<https://user.oc-static.com/ftp/livre/python/apprenez_a_programmer_en_python.pdf>)        🔋 [Libraries](<https://pymotw.com/3/>)
 > 📖 [Cours écrit](<https://inforef.be/swi/download/apprendre_python3_5.pdf>)          🔧 [Data Model](<https://docs.python.org/fr/3/reference/datamodel.html>)
 > 🎬 [Cours vidéo](<https://www.youtube.com/watch?v=HWxBtxPBCAc&list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC>)         📦 [Packaging](<https://packaging.python.org/en/latest/>)
 > 
-> **Articles**                        **Conférences**
+> **Articles**                       **Conférences**
 > <:nan:642454964836368386> [Not a Name](<https://hub.notaname.fr/langages/python/>)          👺 [Beyond PEP8](<https://youtu.be/wf-BqAjZb8M>)
 > 🍊 [Zeste de Savoir](<https://zestedesavoir.com/bibliotheque/?tag=python>)   🏎️ [Concurrency](<https://youtu.be/9zinZmE3Ogk>)
-> 🕸️ [Fullstack](<https://www.fullstackpython.com/>)              🤵‍♂️ [Data Model](<https://youtu.be/cKPlPJyQrt4>)
+> 🕸️ [Fullstack](<https://www.fullstackpython.com/>)               🤵‍♂️ [Data Model](<https://youtu.be/cKPlPJyQrt4>)
 > 
 > **Livres**
 > 🦎 [Fluent](<https://fluentpython.com/>)
