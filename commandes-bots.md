@@ -66,14 +66,13 @@ Pour apprendre le langage C, le mieux en tant que débutant est le cours de Zest
 ### courscpp
 
 ```markdown
-# Apprendre le C++
-
-La référence pour l'apprentissage du C++ moderne sont les livres [C++ Primer 5th Edition de S. Lippman](https://www.amazon.fr/C-Primer-Stanley-B-Lippman/dp/0321714113) (à ne pas confondre avec le C++ Primer Plus 6th) et [Le guide du C++ Moderne de débutant à développeur](https://livre.fnac.com/a14868645/Mehdi-Benharrats-Le-guide-du-C-moderne-De-debutant-a-developpeur).
-
-Il existe aussi des bons cours en français et en ligne comme celui de [Zeste de Savoir](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/).
-
-Une version papier issue du cours de Zeste de Savoir, intitulée "Le guide du C++ moderne - De débutant à développeur", rédigée par Mehdi Benharrats et Benoït Vittupier est disponible ([Site de l'éditeur](https://www.d-booker.fr/cppmoderne/656-le-guide-du-c-moderne-de-debutant-a-developpeur.html)). Ce cours traite d'un ensemble de notions fondamentales et parfois plus approfondies liées à la programmation mais aussi de principes de conception essentiels et d'idiomes particuliers, à propos du langage dans ses versions "modernes".
-
+### :langage_cpp:﻿ Apprendre le C++
+La référence pour l'apprentissage du C++ moderne sont les livres [C++ Primer 5th Edition de S. Lippman](<https://www.amazon.fr/C-Primer-Stanley-B-Lippman/dp/0321714113>) (à ne pas confondre avec le C++ Primer Plus 6th) et [Le guide du C++ Moderne de débutant à développeur](<https://livre.fnac.com/a14868645/Mehdi-Benharrats-Le-guide-du-C-moderne-De-debutant-a-developpeur>).
+﻿
+Il existe aussi de bons cours en français et en ligne comme celui de [Zeste de Savoir](<https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/>).
+﻿
+Une version papier issue du cours de Zeste de Savoir, intitulée *Le guide du C++ moderne - De débutant à développeur*, rédigée par Mehdi Benharrats et Benoît Vittupier est disponible ([Site de l'éditeur](<https://www.d-booker.fr/cppmoderne/656-le-guide-du-c-moderne-de-debutant-a-developpeur.html>)). Ce cours traite d'un ensemble de notions fondamentales et parfois plus approfondies liées à la programmation, mais aussi de principes de conception essentiels et d'idiomes particuliers, à propos du langage dans ses versions "modernes".
+﻿
 Attention au cours d'Openclassrooms, celui-ci est obsolète et de mauvaise qualité, nous vous recommandons fortement de vous pencher sur une autre ressource.
 ```
 
