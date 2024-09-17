@@ -203,7 +203,7 @@ Cours publié par le MDN sur le HTML: [Les bases du HTML](<https://developer.moz
 - [Web Accessibility Initiative (WAI)](<https://www.w3.org/WAI/>) (EN)
 - [Web Content Accessibility Guidelines (WCAG)](<https://www.w3.org/TR/WCAG22/>) (EN)
 - https://w3c.github.io/accessibility-intro/ (EN)
-- [DesignGouv site](<https://design.numerique.gouv.fr/ >) (FR)
+- [DesignGouv site](<https://design.numerique.gouv.fr/>) (FR)
 - [DesignGouv playlist](<https://www.youtube.com/playlist?list=PLzwHdQWfGYgaOs3drhozCyHWW4pVO4Skw>) (FR / vidéo)
 
 **📌 Messages épinglés**
