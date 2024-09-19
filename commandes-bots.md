@@ -192,11 +192,19 @@ Pensez à regarder également dans les messages épinglés, des ressources y son
 Cours en anglais sur le HTML et CSS surpassant celui de OC: [Marksheet](<https://marksheet.io>)
 
 **🎥 Formations vidéo par Grafikart**
-- Formation HTML: [Apprendre l'HTML](<https://www.grafikart.fr/formations/html>)
+- Formation HTML: [Apprendre le HTML](<https://www.grafikart.fr/formations/html>)
 - Formation CSS: [Découverte du CSS](<https://www.grafikart.fr/formations/css>)
 
 **📘 Cours du MDN**
 Cours publié par le MDN sur le HTML: [Les bases du HTML](<https://developer.mozilla.org/fr/docs/Apprendre/Commencer_avec_le_web/Les_bases_HTML>)
+
+**✨ Qualité et Accessibilité**
+
+- [Web Accessibility Initiative (WAI)](<https://www.w3.org/WAI/>) (EN)
+- [Web Content Accessibility Guidelines (WCAG)](<https://www.w3.org/TR/WCAG22/>) (EN)
+- https://w3c.github.io/accessibility-intro/ (EN)
+- [DesignGouv site](<https://design.numerique.gouv.fr/>) (FR)
+- [DesignGouv playlist](<https://www.youtube.com/playlist?list=PLzwHdQWfGYgaOs3drhozCyHWW4pVO4Skw>) (FR / vidéo)
 
 **📌 Messages épinglés**
 Pensez à regarder également dans les messages épinglés, des ressources y sont listées.
