@@ -24,6 +24,7 @@
 - **Méta**
   - <:github:1131608653493960827> [**Le GitHub**](#le-github)
   - <:banhammer:698209587626508288> [**Contacter le staff**](#contacter-le-staff)
+
 ```json
 {
   "embed":{
@@ -33,6 +34,7 @@
     "title":":scroll: Sommaire"
   }
 }
+```
 
 ### 📗 Les salons
 Pensez à lire la description et les messages épinglés des différents salons que vous rejoignez. Ils précisent le sens de leurs salons et apportent des informations souvent importantes (ressources, cours, etc.)
