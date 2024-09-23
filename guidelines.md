@@ -44,14 +44,16 @@ Si vous comptez rejoindre un salon pour demander de l'aide, merci de donner un m
 Nous vous demandons de faire preuve de patience et de bienveillance, la communauté est formée de bénévoles qui vont vous accorder du temps pour vous répondre. Néanmoins, il est également possible que vous n'obteniez aucune réponse si votre problème est trop spécifique, ou encore si personne ne comprend votre question.
 
 ### 📘 Les salons sérieux
-Les salons sérieux portent le nom et la description de la technologie ou du sujet auxquels ils sont dédiés. Par exemple, le canal #python est dédié à l'aide concernant le langage Python. Le canal #création-bots-discord quant à lui est dédié à la création de bots Discord, quel que soit le langage.
+Les salons sérieux portent le nom et la description de la technologie ou du sujet auxquels ils sont dédiés. Par exemple, le canal [#python](<https://discord.com/channels/323076998576603137/358724995159031820>) est dédié à l'aide concernant le langage Python. Le canal [#création-bots-discord](<https://discord.com/channels/323076998576603137/539809627987247135>) quant à lui est dédié à la création de bots Discord, quel que soit le langage.
 
-Les catégories *Technologies*, *Langages* et *Rendu 3D* ainsi que les salons #sciences, #etudes-orientation et #questions-professionnelles sont des salons sérieux.
+Les catégories *Technologies*, *Langages* et *Rendu 3D* ainsi que les salons [#sciences](<https://discord.com/channels/323076998576603137/434331479607083008>), [#etudes-orientation](<https://discord.com/channels/323076998576603137/405326955458592770>) et [#questions-professionnelles](<https://discord.com/channels/323076998576603137/710846454549446698>) sont des salons sérieux.
 
-Les salons où les discussions hors-sujet sont les bienvenues sont #discussions et #detente.
+Les salons où les discussions hors-sujet sont les bienvenues sont [#discussions](<https://discord.com/channels/323076998576603137/323076998576603137>) et [#detente](<https://discord.com/channels/323076998576603137/392444836441227274>).
 
 ### 📣 Les salons vocaux
 Les salons vocaux ont pour vocation d'être un endroit de discussions entre membres habitués de NaN. Dans la ligné du point sur l'aide en vocal ci-dessous, ils ne peuvent pas servir dans l'unique but de poser/répondre à des questions. En particulier les salons vocaux servent aussi de point de rendez-vous pour les diverses activités sur NaN qui sont organisées par les animateurs et les ambassadeurs. Lorsque vous rejoignez un salon alors qu'une activité est en cours, vous êtes priés de ne pas interrompre les intervenants.
+
+Veuillez lire [ce message](<https://discord.com/channels/323076998576603137/446972878718500874/1199374727081377812>) pour savoir comment afficher et rejoindre les canaux vocaux.
 
 ### 🗨️ L'aide en message privé et en vocal (`!mp`, `!vocal`)
 Sur Not a Name, on ne préconise ni l'aide en message privé ni l'aide en vocal. Votre problème est peut-être partagé par un autre membre, ou votre question peut en intéresser d'autres. De plus, si une unique personne vous aide et que sa façon de faire est déconseillée, vous vous retrouverez avec d'autres problèmes sur les bras ; là ou une multitude d'autres membres auraient souligné ces mauvaises pratiques.
@@ -74,10 +76,10 @@ Quelques bonnes raisons:
 - interpeler un membre qui est reconnu comme expert d'un domaine lorsqu'il y a une question/un débat sur ce domaine.
 
 Quelques mauvaises raisons:
-- utiliser la fonctionnalité "répondre" de discord à outrance et sans désactiver la notification automatique;
+- utiliser la fonctionnalité \"répondre\" de discord à outrance et sans désactiver la notification automatique;
 - monopoliser l'attention d'un membre à outrance, par exemple pour que celui-ci réponde plus rapidement à un message , le serveur n'est pas votre SAV.
 
-En ce qui concerne la fonctionnalité "répondre" de discord, celle-ci sert surtout à ramener un vieux message pour rétablir le contexte de la conversation. En ce sens, il est inutile d'utiliser "répondre" pour répondre au dernier message envoyé.
+En ce qui concerne la fonctionnalité \"répondre\" de discord, celle-ci sert surtout à ramener un vieux message pour rétablir le contexte de la conversation. En ce sens, il est inutile d'utiliser \"répondre\" pour répondre au dernier message envoyé.
 
 Ceux qui ne sont pas dérangés par les notifications peuvent se renommer pour ajouter l'émoticône 🔔 `:bell:` à leur pseudo.
 
