@@ -120,32 +120,29 @@ Grid est un système de layout basé sur les grilles qui permet de concevoir des
 ### coursjava
 
 ```markdown
-# Cours sur le langage Java
+>>> ### :langage_java: Cours sur le langage Java
+**:closed_book: Cours en français par jmdoudoux**
+- [Développons en Java](<https://www.jmdoudoux.fr/java/dej/indexavecframes.htm>)
 
-## 📕 Cours par jmdoudoux
+**:page_facing_up: Tutoriels Java2S**
+- Tutoriels Java, en anglais: [Java2S](<http://java2s.com>)
 
-Cours en français sur le Java, par jmdoudoux : [Développons en Java](https://www.jmdoudoux.fr/java/dej/indexavecframes.htm)
+**:movie_camera: Playlists de cours par Dominique Liard (Koor.fr)**
+- [Apprendre la programmation avec le langage Java](<https://www.youtube.com/watch?v=pXaaacSkPqc&list=PLBNheBxhHLQxfJhoz193-dRwvc2rl8AOW>)
+- [Java/Swing](<https://www.youtube.com/watch?v=SQae_yJBK1c&list=PLBNheBxhHLQw30CKVBgfD1ateFz43qcU_>)
+- [JDBC](<https://www.youtube.com/watch?v=yS-hF0irE84&list=PLBNheBxhHLQwM9BZbJbR3FaIKVODP2rBt>)
+- [Java EE/Jakarta EE](<https://www.youtube.com/watch?v=yjJALFHAb-o&list=PLBNheBxhHLQyuFBZHx20kGByDoySutwBf>)
+- [Android](<https://www.youtube.com/watch?v=TCJFoExOBUE&list=PLBNheBxhHLQxmCCiHGkXBAIsC1VKpZkSe>)
 
-## 📄 Tutoriels Java2S
+**:movie_camera: Cours par José Paumard**
+- [Chaîne youtube](<https://www.youtube.com/@coursenlignejava/videos>)
 
-Tutoriels Java, en anglais: [Java2S](http://java2s.com)
+**:books: MOOCs de l'EPFL**
+- [Initiation à la programmation](<https://www.coursera.org/learn/initiation-programmation-java>)
+- [Introduction à la programmation orientée objet](<https://www.coursera.org/learn/programmation-orientee-objet-java>)
 
-## 🎥 Cours sur Java par Dominique Liard (Koor.fr)
-
-Playlists de cours sur Java par Dominique Liard (Koor.fr) :
-[Dominique Liard (Koor.fr)](https://www.youtube.com/channel/UCl8T9GRhma8C2PaRfGIjOtA/playlists)
-
-## 🎥 Cours sur Java par José Paumard
-
-Chaine youtube de cours sur Java par José Paumard :
-[José Paumard](https://www.youtube.com/channel/UCIatmtIm9z5YEWuHbrUMLsw)
-
-## :pushpin: Messages épinglés
+**:pushpin: Messages épinglés**
 Pensez à regarder également dans les messages épinglés, des ressources y sont listées.
-```
-
-```json
-{"embed":{"color":16292119,"fields":[{"name":":closed_book: Cours par jmdoudoux","value":"Cours en français sur le Java, par jmdoudoux : [Développons en Java](https://www.jmdoudoux.fr/java/dej/indexavecframes.htm)","inline":false},{"name":":page_facing_up: Tutoriels Java2S","value":"Tutoriels Java, en anglais: [Java2S](http://java2s.com)","inline":false},{"name":":movie_camera: Cours sur Java par Dominique Liard (Koor.fr)","value":"Playlists de cours sur Java par Dominique Liard (Koor.fr) : \n[Dominique Liard (Koor.fr)](https://www.youtube.com/channel/UCl8T9GRhma8C2PaRfGIjOtA/playlists)","inline":false},{"name":":movie_camera: Cours sur Java par José Paumard","value":"Chaine youtube de cours sur Java par José Paumard : \n[José Paumard](https://www.youtube.com/channel/UCIatmtIm9z5YEWuHbrUMLsw)","inline":false},{"name":":pushpin: Messages épinglés","value":"Pensez à regarder également dans les messages épinglés, des ressources y sont listées.","inline":false}],"author":{"name":"Cours sur le langage Java","icon_url":"https://cdn.discordapp.com/emojis/324892791966793740.png","url":"https://adoptopenjdk.net"}}}
 ```
 
 ### coursjs
