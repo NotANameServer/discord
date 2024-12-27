@@ -320,18 +320,18 @@ Il existe volontairement plusieurs canaux dédiés à certaines catégories de q
 ### devbots
 
 ```markdown
-# Informations sur la création de bots Discord
+### Informations sur la création de bots Discord
 
-## ⚠ Avertissement
+**⚠️ Avertissement**
 Pas mal de personnes veulent créer un bot Discord, mais s'il vous plaît, **apprenez déjà un langage de programmation** ainsi que **les outils nécessaires**.
 Vous pouvez créer un bot avec différents langages de programmation ( Script, Python, C#, etc.).
 Mais cela demande d'avoir des bases dans ce langage et la compréhension de certaines notions.
 
-## ❓ Je ne comprends rien
+**❓ Je ne comprends rien**
 Si vous ne comprenez pas ce que vous faites, c'est probablement qu'il vous manque certaines choses et concepts à apprendre.
 Veillez aussi à lire et essayer de comprendre les messages d'erreurs.
 
-## 👍 Les éléments de base
+**👍 Les éléments de base**
 De plus, débuter par la création d'un bot Discord est une mauvaise idée. En effet, la création d'un bot requiert beaucoup de connaissances, parfois, les bases ne suffisent pas.
 
 Voici une liste non-exhaustive des notions dont vous pouvez avoir besoin pour faire un bot :
@@ -343,13 +343,11 @@ Voici une liste non-exhaustive des notions dont vous pouvez avoir besoin pour fa
 - les classes, les objets, ce que sont les attributs et les méthodes
 - l'asynchrone (important) et les événements
 
-## 🔗 Liens utiles
-📚 [Bibliothèques (wrappers) pour le développement de bots Discord](https://discord.com/developers/docs/topics/community-resources#libraries).
-📕 [Cours pour apprendre un langage](https://www.learndev.info/fr).
-```
-
-```json
-{"embed":{"fields":[{"name":":warning: Avertissement","inline":false,"value":"Pas mal de personnes veulent créer un bot Discord, mais s'il vous plaît, **apprenez déjà un langage de programmation** ainsi que **les outils nécessaires**.\nVous pouvez créer un bot avec différents langages de programmation (JavaScript, Python, C#, etc.). \nMais cela demande d'avoir des bases dans ce langage et la compréhension de certaines notions."},{"name":":question: Je ne comprends rien","inline":false,"value":"Si vous ne comprenez pas ce que vous faites, c'est probablement qu'il vous manque certaines choses et concepts à apprendre. \nVeillez aussi à lire et essayer de comprendre les messages d'erreurs."},{"name":":thumbup: Les éléments de base","inline":false,"value":"De plus, débuter par la création d'un bot Discord est une mauvaise idée. En effet, la création d'un bot requiert beaucoup de connaissances, parfois, les bases ne suffisent pas.\n\nVoici une liste non-exhaustive des notions dont vous pouvez avoir besoin pour faire un bot :\n- les structures de contrôle (if, else, etc.)\n- les boucles (for, while, etc.)\n- les variables et les structures de données (listes, objets, etc.)\n- la gestion des exceptions\n- la définition et appel de fonctions\n- les classes, les objets, ce que sont les attributs et les méthodes\n- l'asynchrone (important) et les événements"},{"name":":link: Liens utiles","inline":false,"value":":books: [Bibliothèques (wrappers) pour le développement de bots Discord](https://discord.com/developers/docs/topics/community-resources#libraries).\n:closed_book: [Cours pour apprendre un langage](https://www.learndev.info/fr)."}],"title":"Informations sur la création de bots Discord","color":10655420,"url":"https://discord.com/developers/docs/intro"}}
+**🔗 Liens utiles**
+- [Documentation de discord](<https://discord.com/developers/docs/intro>)
+- 📚 [Liste officielle de bibliothèques (wrappers) pour le développement de bots Discord](<https://discord.com/developers/docs/topics/community-resources#libraries>)
+- 📚 [Liste communautaire de bibliothèques (wrappers) pour le développement de bots Discord](<https://libs.advaith.io/>)
+- 📕 [Cours pour apprendre un langage](<https://www.learndev.info/fr>)
 ```
 
 ### examen / triche / devoirs
