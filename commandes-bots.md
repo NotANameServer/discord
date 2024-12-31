@@ -83,12 +83,21 @@ Attention au cours d'Openclassrooms, celui-ci est obsolète et de mauvaise quali
 ### courscsharp
 
 ```markdown
-Voici un ensemble de ressources intéressantes pour commencer votre apprentissage, ou l'approfondir :
-
-- <https://docs.microsoft.com/en-us/dotnet/csharp/> Cours complet sur l'apprentissage du langage
-- <https://docs.microsoft.com/fr-fr/aspnet/?view=aspnetcore-2.2#pivot=core> Apprendre ASP.NET (Web).
-- <http://www.e-naxos.com/AllDotBlog.html> Ensemble de livres sur : WPF, Xamarin, MVVM, Linq, etc
-- <https://codeblog.jonskeet.uk/category/edulinq/> EduLinq, pour comprendre Linq en profondeur
+> ### <:langage_csharp:436841440048447488> Cours sur le langage C# #
+> **📕 Cours C# par Microsoft**
+> Cours en français sur le C#: [C# Documentation](<https://docs.microsoft.com/en-us/dotnet/csharp/>)
+> 
+> **📘 Apprendre ASP.Net (Web)**
+> Cours et documentation sur le framework ASP.Net: [Documentation d'ASP.Net](<https://docs.microsoft.com/fr-fr/aspnet/core/>)
+> 
+> **📘 EduLinq, comprendre Linq en profondeur**
+> Cours en anglais sur Linq: [Edulinq](<https://codeblog.jonskeet.uk/category/edulinq/>)
+> 
+> **📖 Ensemble de livres**
+> Ensemble de livres sur WPF, Xamarin, MVVM, Linq, ...: [Collection All Dot Blog](<https://www.e-naxos.com/publications.htm>)
+> 
+> **📌 Messages épinglés**
+> Pensez à regarder également dans les messages épinglés, des ressources y sont listées.
 ```
 
 ### coursflex
