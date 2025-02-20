@@ -31,3 +31,9 @@ Vous pouvez signaler qu'un message transgresse le règlement avec la réaction :
 Nous vous invitons à également lire les #guidelines où d'autres points du règlement sont abordés.
 
 **Visitez aussi #rejoindre-les-canaux afin d'accéder aux canaux.**
+
+**Informations importantes:**
+
+Afin de lutter efficacement contre le spam et les comptes discord malveillants, le Staff vous informe que les messages que vous supprimez après les avoir posté sur le serveur sont susceptibles d'être journalisés par notre robot d'aide à la modération. Les messages journalisés ne quittent pas la plateforme Discord, ils sont stockés dans un canal privé sur le serveur.
+
+Vous pouvez demander à supprimer définitivement un message en particulier s'il contient des informations personnelles sensibles (nom/adresse, mot de passe, etc) en ouvrant un ticket de modération.
