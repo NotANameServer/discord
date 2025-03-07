@@ -111,6 +111,8 @@ Le serveur met à disposition diverses réactions pratiques :
 - 📌 : Demander à épingler un message dans le canal. Le message est automatiquement épinglé au bout de 10 réactions.
 - <:modo:459352634038550529> : Sert à prévenir les modérateurs qu'un message transgresse les règles
 
+Certains de nos emojis (<:kappa:324890998964486144>﻿, <:derp:636544631496114186>﻿, <:iunderstoodthatref:﻿1347607070253387886>, ...), proviennent de la pop culture et sont assez répandus sur internet, si vous ne les connaissez pas, vous pouvez lire à leur propos sur <https://knowyourmeme.com> ou tout autre site similaire
+
 ### 📄 Poster du code (`!code`)
 Pour les non connaisseurs de Discord, il existe un moyen de poster du code bien formaté, lisible et coloré. Référez-vous à la documentation de Discord :
 
