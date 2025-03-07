@@ -40,7 +40,8 @@ NaN ne cautionne pas l'aide apportée sur des sujets où la légalité est doute
 
 Pour les non-connaisseurs de Discord, il existe un moyen de poster du code bien formaté, lisible et coloré. Référez-vous à la documentation de Discord :
 
-[Documentation Discord](https://support.discord.com/hc/fr/articles/210298617-Bases-de-la-mise-en-forme-de-texte-Markdown-mise-en-forme-du-chat-gras-italique-souligné)
+[Documentation Discord](<https://support.discord.com/hc/fr/articles/210298617-Bases-de-la-mise-en-forme-de-texte-Markdown-mise-en-forme-du-chat-gras-italique-souligné>)
+Nous avons également une documentation plus détaillée [sur notre dépôt](<https://github.com/NotANameServer/discord/blob/main/command-code/discord-markdown.md>)
 
 Si votre code est assez long, préférez plutôt l'envoi d'un fichier (avecla bonne extension!) directement, Discord saura le mettre en forme pour qu'on puisse le lire ou le télécharger.
 
