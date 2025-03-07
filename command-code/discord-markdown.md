@@ -44,7 +44,7 @@ Vous pouvez choisir un langage spécifique pour la **coloration syntaxique** en 
 
 **Attention:** La syntaxe est précisément "trois backticks" suivie du "nom du langage" suivie d'un "retour à la ligne".
 
-Il existe une grande variété de langages supportés par la coloration syntaxique de Discord dans les blocs Markdown. Chaque langage possède sa propre coloration. Pour une liste complète, voir: https://highlightjs.org/static/demo/
+Il existe une grande variété de langages supportés par la coloration syntaxique de Discord dans les blocs Markdown. Chaque langage possède sa propre coloration. Pour une liste complète, voir: <https://highlightjs.org/demo/>
 
 asciidoc
 
