@@ -1,28 +1,28 @@
 # Markdown Discord
 
-Pimentez et améliorez votre message en utilisant Markdown, la coloration syntaxique et les formats dans Discord.
+Pimentez et améliorez vos messages en utilisant Markdown, la coloration syntaxique et le formatage dans Discord.
 
 ## Styles
 
-*Italique*	\*italique* **ou** \_italique\_
+* *Italique*:	\*italique* **ou** \_italique\_
 
-**Gras**	\*\*gras**
+* **Gras**:	\*\*gras**
 
-__Souligné__	\_\_souligné__
+* <ins>Souligné</ins>:	\_\_souligné__
 
-~~Barré~~	 \~\~barré~~
+* ~~Barré~~:	\~\~barré~~
 
-__*Souligné italique*__	\__\*souligné italique*__
+* <ins>*Souligné italique*</ins>:	\__\*souligné italique*__
 
-__**Souligné gras**__	\__\*\*Souligné gras**__
+* <ins>**Souligné gras**</ins>:	\__\*\*Souligné gras**__
 
-***Gras italique***	\*\*\*gras italique***
+* ***Gras italique***:	\*\*\*gras italique***
 
-__***Souligné gras italique***__	\__\*\*\*souligné gras italique***__
+* <ins>***Souligné gras italique***</ins>:	\__\*\*\*souligné gras italique***__
 
-* **Caractère d'échappement**
+* Caractère d'échappement:
 
-Vous ne souhaitez pas utiliser le format Markdown ? Vous pouvez placer une barre oblique inverse (\\\) devant le caractère pour l'échapper. Gardez à l'esprit que cela ne fonctionne pas dans les messages contenant des modifications ou des underscores.
+  Vous ne souhaitez pas utiliser le format Markdown ? Vous pouvez placer une barre oblique inverse (\\\) devant le caractère pour l'échapper. Gardez à l'esprit que cela ne fonctionne pas dans les messages contenant des modifications ou des underscores.
 
 ## Blocs de code
 
@@ -42,7 +42,7 @@ Vous pouvez choisir un langage spécifique pour la **coloration syntaxique** en 
 
 ![syntax highlighting](img/syntax-highlight.png)
 
-**Attention:** La syntaxe est précisément "trois backticks" suivie du "nom du langage" suivie d'un "retour à la ligne" `\`\`\`lang<LF>`
+**Attention:** La syntaxe est précisément "trois backticks" suivie du "nom du langage" suivie d'un "retour à la ligne".
 
 Il existe une grande variété de langages supportés par la coloration syntaxique de Discord dans les blocs Markdown. Chaque langage possède sa propre coloration. Pour une liste complète, voir: https://highlightjs.org/static/demo/
 
