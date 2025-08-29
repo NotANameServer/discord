@@ -14,11 +14,10 @@ Liste des membres du serveur ayant des droits sur sa gestion et sa modération.
 
 | Canal                  | Ambassadeurs                                                                     |
 | ---------------------- | -------------------------------------------------------------------------------- |
-| #création-bots-discord | **martin_9202** (455476176836755468) et **lexedia** (253554702858452992)       |
-| #java-jvm              | **florent35** (332479154496864259) et **il_totore** (403609872123428864) |
-| #javascript-typescript | **mestery** (282201728097583104)                                            |
-| #php                   | **mjollnir4** (241702391756357633)                                           |
-| #python                | **drlazor8** (87605725857058816)                                            |
-| #rust                  | **baptiste0928** (207852811596201985)                                       |
-| #sécurité              | **ben4444** (496774441506963466)                                            |
-| #systeme-et-reseau     | **monsterrr_csgo** (199688749712539648)                                         |
+| #création-bots-discord | **martin_9202** (455476176836755468) et **lexedia** (253554702858452992)         |
+| #java-jvm              | **florent35** (332479154496864259) et **il_totore** (403609872123428864)         |
+| #php                   | **mjollnir4** (241702391756357633)                                               |
+| #python                | **drlazor8** (87605725857058816)                                                 |
+| #rust                  | **baptiste0928** (207852811596201985)                                            |
+| #sécurité              | **ben4444** (496774441506963466)                                                 |
+| #systeme-et-reseau     | **monsterrr_csgo** (199688749712539648)                                          |
