@@ -20,4 +20,4 @@ Liste des membres du serveur ayant des droits sur sa gestion et sa modération.
 | #python                | **drlazor8** (87605725857058816)                                                 |
 | #rust                  | **baptiste0928** (207852811596201985)                                            |
 | #sécurité              | **ben4444** (496774441506963466)                                                 |
-| #systeme-et-reseau     | **monsterrr_csgo** (199688749712539648)                                          |
+| #système-réseau-devops | **monsterrr_csgo** (199688749712539648)                                          |
