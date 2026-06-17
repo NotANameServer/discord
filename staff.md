@@ -5,7 +5,6 @@ Liste des membres du serveur ayant des droits sur sa gestion et sa modération.
 ## Staff
 
 - **charles1065** (228622678901260290)
-- **elanis42** (193048878017150979)
 - **lynix** (83928726282174464)
 - **mjollnir4** (241702391756357633)
 - **remqb** (278688001431961602)
